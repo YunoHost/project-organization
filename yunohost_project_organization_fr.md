@@ -54,18 +54,20 @@ La constitution de groupes part du constat que YunoHost compte beaucoup de sous-
 - Groupe Distribution
  - Création et maintenance des images d'installation sur diverses architectures
  - Distribution des images
- - Gestion de la distribution des paquets Debian.
 
 - Groupe Infra/Adminsys
- -  Infrastructure
- - Site web (wiki, forum, salon de discussion, redmine, mumble)
+ - Infrastructure (maintenance, monitoring des machines)
+ - Site web (yunohost.org, forum.yunohost.org, redmine)
+ - XMPP
  - Démo
+ - Service de build des paquets Debian
  - Services
     - ip.yunohost.org
     - yunoport
-    - nohost.me
+    - DynDNS
     - yunodash
     - yunopaste
+    - weblate
 
 - Groupe Apps
  - Apps Officielles
