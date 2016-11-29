@@ -65,11 +65,6 @@ La constitution de groupes part du constat que YunoHost compte beaucoup de sous-
  - Site web (wiki, forum, salon de discussion, redmine, mumble)
  - Démo
  - Services
-    - ip.yunohost.org
-    - yunoport
-    - nohost.me
-    - yunodash
-    - yunopaste
 
 
 - ###### Groupe Apps
@@ -133,11 +128,6 @@ Tout le monde peut changer de positions à n'importe quel moment, mais il est de
  - "pas d'avis" / "je ne suis pas en position de donner un avis pertinent (exemple: je sais pas coder en X)"
 -  réponses délayantes/différées
  - demande de précisions, dans ce cas la décision est suspendue
--  refus
- -  il y a deux types de refus
-    -  "cela doit être fait autrement"
-    - "on ne doit pas faire ça"
- - tout refus doit être argumenté et justifié
 
 ##### 3) Suspension/Repoussement
  - tant qu'il n'y a pas de réponse, la décision est suspendue, au moment de la réponse, la date de clôture est automatiquement repoussé (si besoin) (pour une durée, à définir, moins longue que la première fois)
@@ -156,8 +146,6 @@ Tout le monde peut changer de positions à n'importe quel moment, mais il est de
    - sans avis (s'en remet aux autres)
  - Pour une décison mineure ou moyenne/standard, si le quota de réponse est atteint à la durée minimale et que le consensus est obtenu.
  - s'il n'est pas possible d'avoir assez de monde (vacances, plus assez de membres du groupe pouvant avoir un avis) il est possible pour le groupe de demander la clôture même si le quota d'avis n'est pas atteint, il y a alors un nouveau décalage de la date et si cette nouvelle date est franchie, la proposition est clôturée selon les avis donnés.
-   - si 1/3 arrondi au supérieur (exemple: 1/3 de 4 == "1.33.." -> 2) [à débattre pour ce %] des participant·e·s s'étant exprimé·e·s sur cette question sont favorables au vote, alors le vote est ouvert et prend fin lorsque tout le monde a répondu (ou si nécessaire, après une date de clôture)
-  - pourcentage d’avis positifs différents suivant l’importance de la prise de décisions : 50 %, 66 %, 80 %.
 
 ###### Micro décision:
 - Décision prise et appliquée par un seul membre sans délai. Ce type de décision doit impérativement pouvoir être réversible, et peut être remise en question par n'importe quel membre du groupe.
@@ -194,7 +182,6 @@ Il est proposé d'appliquer dès à présent ce processus décisionnel, toutefoi
 
 Mise en place d’un [système de vote via Discourse](https://blog.discourse.org/2015/08/improved-polls-in-discourse) plus intéressant que par mailling list.
 
-Conseil : Bram, ju, ljf, Maniack C, Moul, opi, (scith, tostak, theodore) (à élire ? auto-promotion par méritocratie ? renouvellement au lieu de demander un retrait par d’autres membres (processus négatif))
 
  - Représentants des groupes d’intérêts (élus ou auto-proclamés) :
    - Dev : opi, Bram, ju, ljf
@@ -203,7 +190,6 @@ Conseil : Bram, ju, ljf, Maniack C, Moul, opi, (scith, tostak, theodore) (à él
   - Com
     - Com : Bram, Moul
     - Doc : Moul, theodore
-    - Trad : Jean-Batiste
 
 ### Décisions à venir pour les groupes
 #### Conseil
@@ -227,7 +213,6 @@ Conseil : Bram, ju, ljf, Maniack C, Moul, opi, (scith, tostak, theodore) (à él
 #### Groupe Apps
  -  Pour les apps communautaires, les issues sont bien sur Github, les discussions sur le forum
 
-#### Support
 - Rapport de bug à partir du forum
 - Faire en sorte de nettoyer le forum pour éviter le bruit
 - Proposition de supprimer le salon de support
@@ -239,30 +224,9 @@ Conseil : Bram, ju, ljf, Maniack C, Moul, opi, (scith, tostak, theodore) (à él
 - La release devrait être validée par l'ensemble des 4 (ou 5) groupes d’intérêts
 - Communication en français et en anglais
 - Annuaire ou contact des groupes pour les nouveaux arrivants. Voir peut-être annuaire tout court pour savoir qui fait quoi. https://yunohost.org/#/contribs_fr à compléter. Et à mettre en avant.
--  Proposition de laisser les membres YunoHost s'auto déterminer -> Comment gérer les accès ?
 
 
 ## Notes
 Moyens de communication actuel :
 
--  IRL
--  Réunion Mumble
--  Forum
--  Listes de diffusion : contrib et app
-- Bugtracker Redmine
-- Forge git pour les review de code sur les PR
 - Salon de discussions XMPP
-
-
-## F.A.Q ?
-### Quelle différence avec d'autres projets (ArkOS, Cozy, Sandstorm, etc.)
-- Cozy : gouverné par une entreprise qui développe toutes les applications pour une meilleure intégration entre-elles. Basé sur Debian.
-- Sandstorm : distribution proche de la distribution YunoHost.
-- ArkOS : en développement, basé sur Arch GNU/Linux.
-
-### Pourquoi continuer YunoHost ?
-La communauté de YunoHost est grandissante et beaucoup de gens comptent dessus, son architecture technique basée sur des logiciels existants et sa gestion entièrement communautaire en font un projet unique. Enfin parce que c'est amusant et que l'aventure est belle :)
-
-## Références
-- [Gouvernance du projet Fedora](https://fr.wikipedia.org/wiki/Fedora_(GNU/Linux)#Gouvernance_du_projet_Fedora)
-- [Conditions de promotion d’un article Wikipédia au label “Bon article”](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Bons_contenus/R%C3%A8gles#R.C3.A8gles)
