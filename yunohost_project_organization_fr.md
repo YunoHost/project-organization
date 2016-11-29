@@ -15,7 +15,7 @@ Le but de YunoHost est de rendre accessibles au plus grand nombre l’installati
 
 #### Un logiciel libre et communautaire
 
-YunoHost est un logiciel sous licence libre, entièrement communautaire, et reposant sur des applications elles-mêmes communautaires et souvent libres (Roundcube, Baikal, etc...).
+YunoHost est un logiciel sous licence libre, entièrement communautaire, et reposant sur des applications elles-mêmes communautaires et souvent libres (roundcube, baikal, etc...).
 
 #### Que chacun peut s'approprier
 
@@ -50,8 +50,8 @@ La constitution de groupes part du constat que YunoHost compte beaucoup de sous-
  - Distribution des images
  - Gestion de la distribution des paquets Debian.
 
-- ###### Groupe Infra/Adminsys
 
+- ###### Groupe Infra/Adminsys
  - Infrastructure
  - Site web (wiki, forum, salon de discussion, redmine, mumble)
  - Démo
@@ -61,7 +61,6 @@ La constitution de groupes part du constat que YunoHost compte beaucoup de sous-
     - nohost.me et noho.st
     - [yunodash](https://dash.yunohost.org/)
     - [yunopaste](http://paste.yunohost.org/)
-
 
 - ###### Groupe Apps
  - Apps Officielles
@@ -75,9 +74,7 @@ La constitution de groupes part du constat que YunoHost compte beaucoup de sous-
  - Traduction
  - Entraide (support)
 
-Les groupes sont ouverts à tous les contributeurs souhaitant participer au développement de YunoHost. Chacun peut s'inscrire aux canaux de communication associés aux groupes auxquels il souhaite prendre part. Chaque inscrit est libre d'échanger avec le reste du groupe et de proposer une prise de décision à la suite d'une étape d'échange et d'amélioration de la proposition.
-
-Afin de faciliter sa gestion, chaque groupe nomme donc un coordinateur (et un remplaçant) dont le rôle est :  
+Les groupes sont ouverts à tous les contributeurs souhaitant participer au développement de YunoHost. Chacun peut s'inscrire aux canaux de communication associés aux groupes auxquels il souhaite prendre part. Chaque inscrit est libre d'échanger avec le reste du groupe et de proposer une prise de décision à la suite d'une étape d'échange et d'amélioration de la proposition. Afin de faciliter sa gestion, chaque groupe nomme donc un coordinateur (et un remplaçant) dont le rôle est :  
 
 - d'accueillir et fédérer les nouveaux contributeurs réguliers de son groupe
 - de tenir informé le Conseil des décisions prises au sein du groupe (cf. point suivant)
@@ -187,6 +184,7 @@ Conseil : Bram, ju, ljf, Maniack, Moul, opi, theodore.
     - Trad : Jean-Baptiste
 
 ### Décisions à venir pour les groupes
+
 #### Conseil
 - Faut-il élire les membres du Conseil plutôt que de les coopter ? Risque de se transformer en "campagne politique"!
 - Faut-il limiter l'ouverture des groupes d'intérêts par cooptation comme pour le Conseil ?
@@ -226,6 +224,7 @@ Conseil : Bram, ju, ljf, Maniack, Moul, opi, theodore.
 
 
 ## Notes
+
 Moyens de communication actuel :
 
 - IRL
