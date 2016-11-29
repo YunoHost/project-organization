@@ -9,21 +9,13 @@ Un Conseil oriente l’évolution du projet YunoHost, et des groupes d’intér�
 ## Définition de YunoHost
 
 ###  Objectifs
-Selon le site web : « Le but de YunoHost est de rendre accessibles au plus grand nombre l’installation et l’administration d’un serveur, sans délaisser la qualité et la fiabilité du logiciel. »
-
-Nous proposons de limiter YunoHost au simple logiciel et de ne traiter aucun service auxiliaire estampillé sous le même nom (support payant, dns, hébergement). La fourniture de services devrait être laissée à d'autres structures gravitant autour du logiciel, qu'elles soient des entreprises ou des associations. Cela afin de concentrer l'activité de YunoHost sur la qualité du logiciel.
-Ce postulat pose la question des services comme nohost.me, qui devra être débattue.
+Le but de YunoHost est de rendre accessibles au plus grand nombre l’installation et l’administration d’un serveur, sans délaisser la qualité et la fiabilité du logiciel.
 
 ###  Valeurs
 
 #### Un logiciel libre et communautaire
 
-Par rapport à d'autres initiatives, (InternetCube, Sandstorm, Freedombox, cozy, ArkOS, serveur NAS (synology), kodi) YunoHost se distingue en étant :
-
-- un logiciel sous licence libre
--  entièrement communautaire
--  reposant sur des applications libres existantes (Roundcube, Baikal, etc.)
-
+YunoHost est un logiciel sous licence libre, entièrement communautaire, et reposant sur des applications elles-mêmes communautaires et souvent libres (Roundcube, Baikal, etc...).
 
 #### Que chacun peut s'approprier
 
@@ -33,9 +25,8 @@ Historiquement, le projet est très proche des initiatives visant à la créatio
 ## Organisation de YunoHost
 
 ### Une structure ouverte, organisée par thèmes
-L'objectif de l'organisation de YunoHost est de permettre au plus grand nombre de contribuer à l'amélioration du logiciel, que ce soit d'un point de vue technique (développement, packaging d'application) ou non (communication, assistance aux utilisateurs, documentation, etc.).
 
-Inspiré par différents projets passés en revue lors de l'événement (Kodi, Debian, Django, Fedora, Wikipédia, etc.) et des idées des contributeurs de YunoHost (Jérôme, Bram, opi, scith, ju), il a été décidé d'une organisation en groupes spécialisés, fédérés par un Conseil de contributeurs clés.
+L'objectif de l'organisation de YunoHost est de permettre au plus grand nombre de contribuer à l'amélioration du logiciel, que ce soit d'un point de vue technique (développement, packaging d'application) ou non (communication, assistance aux utilisateurs, documentation, etc.). Inspiré par différents projets passés en revue lors de l'événement (Kodi, Debian, Django, Fedora, Wikipédia, etc.) et des idées de contributeur de YunoHost (Jérôme, Bram, opi, scith, ju), il a été décidé d'une organisation en groupes spécialisés, fédérés par un conseil de contributeurs clés.
 
 Schéma d’organisation du projet YunoHost :
 
@@ -59,12 +50,17 @@ La constitution de groupes part du constat que YunoHost compte beaucoup de sous-
  - Distribution des images
  - Gestion de la distribution des paquets Debian.
 
-
 - ###### Groupe Infra/Adminsys
+
  - Infrastructure
  - Site web (wiki, forum, salon de discussion, redmine, mumble)
  - Démo
  - Services
+    - [ip.yunohost.org](https://ip.yunohost.org/) et ip6.yunohost.org
+    - [yunoports](http://ports.yunohost.org/)
+    - nohost.me et noho.st
+    - [yunodash](https://dash.yunohost.org/)
+    - [yunopaste](http://paste.yunohost.org/)
 
 
 - ###### Groupe Apps
@@ -79,7 +75,8 @@ La constitution de groupes part du constat que YunoHost compte beaucoup de sous-
  - Traduction
  - Entraide (support)
 
-Les groupes sont ouverts à tous les contributeurs souhaitant participer au développement de YunoHost. Chacun peut s'inscrire aux canaux de communication associés aux groupes auxquels il souhaite prendre part. Chaque inscrit est libre d'échanger avec le reste du groupe et de proposer au vote une décision à la suite d'une étape d'échange et d'amélioration de la proposition.
+Les groupes sont ouverts à tous les contributeurs souhaitant participer au développement de YunoHost. Chacun peut s'inscrire aux canaux de communication associés aux groupes auxquels il souhaite prendre part. Chaque inscrit est libre d'échanger avec le reste du groupe et de proposer une prise de décision à la suite d'une étape d'échange et d'amélioration de la proposition.
+
 Afin de faciliter sa gestion, chaque groupe nomme donc un coordinateur (et un remplaçant) dont le rôle est :  
 
 - d'accueillir et fédérer les nouveaux contributeurs réguliers de son groupe
@@ -103,8 +100,9 @@ Pour participer aux votes du Conseil, il faut avoir contribué au projet et avoi
 ### Un processus de prises de décision basé sur un consensus mou
 
 Les décisions à prendre peuvent être de deux ordres :
-1. Pour un groupe (par "exemple merger une PR" serait affecté au groupe Dev tandis que "poster un tweet" serait de la responsabilité du groupe Communication)
-2. Pour l'ensemble du projet (par exemple décider d'une release avec des nouvelles fonctionnalités)
+
+1. pour un groupe (par "exemple merger une PR" serait affecté au groupe Dev tandis que "poster un tweet" serait de la responsabilité du groupe Communication)
+2. pour l'ensemble du projet (par exemple décider d'une release avec des nouvelles fonctionnalités)
 
 Si un consensus sur une décision à prendre n'est pas trouvée au sein d'un groupe, ce dernier devra se tourner vers le Conseil pour en débattre. Si aucun consensus n'est trouvé, la proposition sera soumise au vote de tous les contributeurs.
 
@@ -128,6 +126,7 @@ Tout le monde peut changer de positions à n'importe quel moment, mais il est de
  - "pas d'avis" / "je ne suis pas en position de donner un avis pertinent (exemple: je sais pas coder en X)"
 -  réponses délayantes/différées
  - demande de précisions, dans ce cas la décision est suspendue
+-  refus: tout refus doit être argumenté et justifié
 
 ##### 3) Suspension/Repoussement
  - tant qu'il n'y a pas de réponse, la décision est suspendue, au moment de la réponse, la date de clôture est automatiquement repoussé (si besoin) (pour une durée, à définir, moins longue que la première fois)
@@ -173,15 +172,10 @@ Tout le monde peut changer de positions à n'importe quel moment, mais il est de
 ##### 6) Application
 Alors un membre du groupe peut annoncer la décision comme effective (et procéder aux actions nécessaires comme releaser, merger, annonce, autre ...). Il est important que s'il y a besoin de certaines actions, des personnes se soient engagées à les faire, une décision sans désigner est moyennement utile
 
-## Plan d’action
+## Plan de migration
+Il est proposé d'appliquer dés à présent ce processus décisionnel, toutefois vu que ce n'est qu'un brouillon, chaque personne est invitée à publier des propositions de modifications/améliorations/précisions et à les soumettre. Les décisions pourront s'appuyer sur le [système de vote via Discourse](https://blog.discourse.org/2015/08/improved-polls-in-discourse).
 
-Différentes idées ont été relevées au cours de la réunion par les personnes présentes. Les décisions du week-end devraient être publiée sur le forum (ou autre) pour être détaillées et discutées, en vue d'être acceptées.
-
-### Plan de migration
-Il est proposé d'appliquer dès à présent ce processus décisionnel, toutefois vu que ce n'est qu'un brouillon, chaque personne est invitée à publier des propositions de modifications/améliorations/précisions et à les soumettre. Les décisions se prendront sur le forum étant donné que Maniack et Moul ont des problèmes techniques de réception ou d'écriture sur la liste de discussion mail. Rappel il est possible de s'abonner par mail au forum, par contre la fonctionnalité de réponse par mail semble ne pas fonctionner.
-
-Mise en place d’un [système de vote via Discourse](https://blog.discourse.org/2015/08/improved-polls-in-discourse) plus intéressant que par mailling list.
-
+Conseil : Bram, ju, ljf, Maniack, Moul, opi, theodore.
 
  - Représentants des groupes d’intérêts (élus ou auto-proclamés) :
    - Dev : opi, Bram, ju, ljf
@@ -190,6 +184,7 @@ Mise en place d’un [système de vote via Discourse](https://blog.discourse.org
   - Com
     - Com : Bram, Moul
     - Doc : Moul, theodore
+    - Trad : Jean-Baptiste
 
 ### Décisions à venir pour les groupes
 #### Conseil
@@ -213,9 +208,12 @@ Mise en place d’un [système de vote via Discourse](https://blog.discourse.org
 #### Groupe Apps
  -  Pour les apps communautaires, les issues sont bien sur Github, les discussions sur le forum
 
+#### Groupe Communication
 - Rapport de bug à partir du forum
 - Faire en sorte de nettoyer le forum pour éviter le bruit
 - Proposition de supprimer le salon de support
+- Comment rendre le forum plus actif et central
+- Comment s'organiser pour les privilèges sur le forum (si les groupes veulent voter sur le forum)
 
 #### Autres
 - Demande sur le forum avec notification des membres du Conseil et des représentants des groupes d’intérêts concernés.
@@ -224,9 +222,16 @@ Mise en place d’un [système de vote via Discourse](https://blog.discourse.org
 - La release devrait être validée par l'ensemble des 4 (ou 5) groupes d’intérêts
 - Communication en français et en anglais
 - Annuaire ou contact des groupes pour les nouveaux arrivants. Voir peut-être annuaire tout court pour savoir qui fait quoi. https://yunohost.org/#/contribs_fr à compléter. Et à mettre en avant.
+- Proposition de laisser les membres YunoHost s'auto déterminer -> Comment gérer les accès ?
 
 
 ## Notes
 Moyens de communication actuel :
 
+- IRL
+- Réunion Mumble
+- [Forum](https://forum.yunohost.org)
+- Listes de diffusion : [contrib](https://list.yunohost.org/cgi-bin/mailman/listinfo/contrib) et [apps](https://list.yunohost.org/cgi-bin/mailman/listinfo/apps)
+- [Bugtracker Redmine](https://dev.yunohost.org)
+- [Forge git](http://github.com/yunohost/) pour les review de code
 - Salon de discussions XMPP
