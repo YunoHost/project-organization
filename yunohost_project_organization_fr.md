@@ -44,12 +44,10 @@ La constitution de groupes part du constat que YunoHost compte beaucoup de sous-
  - Dynette
  - YNH-Dev
 
-
 - ###### Groupe Distribution
  - Création et maintenance des images d'installation sur diverses architectures
  - Distribution des images
  - Gestion de la distribution des paquets Debian.
-
 
 - ###### Groupe Infra/Adminsys
  - Infrastructure
@@ -74,7 +72,8 @@ La constitution de groupes part du constat que YunoHost compte beaucoup de sous-
  - Traduction
  - Entraide (support)
 
-Les groupes sont ouverts à tous les contributeurs souhaitant participer au développement de YunoHost. Chacun peut s'inscrire aux canaux de communication associés aux groupes auxquels il souhaite prendre part. Chaque inscrit est libre d'échanger avec le reste du groupe et de proposer une prise de décision à la suite d'une étape d'échange et d'amélioration de la proposition. Afin de faciliter sa gestion, chaque groupe nomme donc un coordinateur (et un remplaçant) dont le rôle est :  
+Les groupes sont ouverts à tous les contributeurs souhaitant participer au développement de YunoHost. Chacun peut s'inscrire aux canaux de communication associés aux groupes auxquels il souhaite prendre part. Chaque inscrit est libre d'échanger avec le reste du groupe et de proposer une prise de décision à la suite d'une étape d'échange et d'amélioration de la proposition.
+Afin de faciliter sa gestion, chaque groupe nomme donc un coordinateur (et un remplaçant) dont le rôle est :  
 
 - d'accueillir et fédérer les nouveaux contributeurs réguliers de son groupe
 - de tenir informé le Conseil des décisions prises au sein du groupe (cf. point suivant)
@@ -95,6 +94,7 @@ Pour participer aux votes du Conseil, il faut avoir contribué au projet et avoi
 Être membre du Conseil n'implique pas forcément d'avoir l'ensemble des accès (infrastructure, dépôt etc...).
 
 ### Un processus de prises de décision basé sur un consensus mou
+
 
 Les décisions à prendre peuvent être de deux ordres :
 
@@ -224,8 +224,7 @@ Conseil : Bram, ju, ljf, Maniack, Moul, opi, theodore.
 
 
 ## Notes
-
-Moyens de communication actuel :
+Moyens de communication actuels :
 
 - IRL
 - Réunion Mumble
