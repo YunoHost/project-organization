@@ -248,7 +248,6 @@ This part list administration rights for differents groups of YunoHost project:
 
 ### Apps
 - GitHub: YunoHost-Apps [Owner](https://github.com/orgs/YunoHost-Apps/people?utf8=%E2%9C%93&query=%20role%3Aowner) (permission to push and merge on all repositories),
-- Redmine: [Apps project member](https://dev.yunohost.org/projects/apps),
 - GitHub: [Apps team member inside YunoHost's organization](https://github.com/orgs/YunoHost/teams/apps) (permission to push, merge…),
 - Continous integration: access to [CI-Apps](https://ci-apps.yunohost.org),
 - XMPP: [Apps channel moderator](https://im.yunohost.org/logs/apps),
