@@ -62,8 +62,7 @@ La constitution de groupes part du constat que YunoHost compte beaucoup de sous-
 
 - ##### Groupe Apps
  - Apps Officielles
- - Apps Communautaires
- - outils de développements d'app (package_checker, package linter)
+ - Outils et processus de développements d'app (package_checker, package linter, manifeste, YEP, ...)
 
 - ##### Groupe Communication
  - Documentation
