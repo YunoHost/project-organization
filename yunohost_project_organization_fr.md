@@ -157,12 +157,14 @@ Tout le monde peut changer de positions à n'importe quel moment, mais il est de
 - Durée minimale: 1 semaine.
 - Décalage, si nécessaire: 1 semaine.
 - Avis nécessaires: 50% des membres du groupe (celui qui a initié cette prise de décision peux donner son avis). 66% des membres du groupe pour anticiper.
+- Plafond d'avis requis: Un maximum de 5 avis peuvent être requis, 7 pour anticiper.
 - Validation par vote (le cas échéant): 75% de votes positifs.
 
 ###### Décision Majeure :
 - Durée initiale: 1 mois.
 - Décalage, si nécessaire: 2 semaines.
 - Avis nécessaires: 75% des membres du groupe (celui qui a initié cette prise de décision peux donner son avis).
+- Plafond d'avis requis: Un maximum de 8 avis peuvent être requis.
 - Validation par vote (le cas échéant): 90% de votes positifs.
 
 ##### 6) Application

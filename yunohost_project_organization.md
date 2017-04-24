@@ -155,12 +155,14 @@ Anyone can change their position at any moment, but it's expected to let the gro
 - Minimal duration: 1 week.
 - Postponement, if necessary: 1 week.
 - Necessary views: 50% of members of a group (the person who initiated the decision can express their view); in an anticipated format, 66% of members.
+- Required views limit: A maximum of 5 views can be required, 7 for anticipate.
 - Validation by voting (when applicable): 75% of positive votes.
 
 ###### Major decision:
 - Initial duration: 1 month.
 - Postponement, if necessary: 2 weeks.
 - Necessary views: 75% of members of a group (the person who initiated the decision can express their view).
+- Required views limit: A maximum of 8 views can be required.
 - Validation by voting (when applicable): 90% of positive votes.
 
 ##### 6) Application
