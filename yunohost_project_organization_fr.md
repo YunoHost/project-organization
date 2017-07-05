@@ -80,6 +80,7 @@ Afin de faciliter sa gestion, chaque groupe nomme donc un coordinateur (et un re
 
 - d'accueillir et de fédérer les nouveaux contributeurs réguliers de son groupe
 - de tenir informé le Conseil des décisions prises au sein du groupe (cf. point suivant)
+- de tenir à jour une liste des membres actifs de chaque groupes
 
 Le choix d'un outil de communication est laissé à chaque groupe en fonction de sa pertinence (forum, chat, ML, etc.).
 
@@ -149,7 +150,7 @@ La clôture peut avoir lieu selon les critères suivants :
 
 - Si le groupe est unanime dans sa décision (par exemple, si il n'y a que des avis positifs, que des avis négatifs, ou que des sans avis)
 - Pour une décison mineure ou moyenne/standard, si le quota de réponse est atteint à la durée minimale et que le consensus est obtenu.
-- Le quota de réponse correspond au nombre d'avis nécessaires, détaillé ci-après par type de décision. Le pourcentage est rapporté au nombre d'actifs dans le groupe concerné. La gestion des actifs et inactifs dans le groupe est à la charge du coordinateur et du suppléant [< coordinateur et suppléant ? y'en a t'il un dans les groupes actuels ?] qui doivent maintenir à jour la liste des membres au minimum à chaque décision du groupe. (Un inactif qui se manifeste lors d'une décision redevient automatiquement actif.)
+- Le quota de réponse correspond au nombre d'avis nécessaires, détaillé ci-après par type de décision. Le pourcentage est rapporté au nombre d'actifs dans le groupe concerné. La gestion des actifs et inactifs dans le groupe est à la charge du coordinateur et du suppléant qui doivent maintenir à jour la liste des membres au minimum à chaque décision du groupe. (Un inactif qui se manifeste lors d'une décision redevient automatiquement actif.)
  - S'il n'est pas possible d'avoir assez de monde (vacances, plus assez de membres du groupe pouvant avoir un avis), il est possible pour le groupe de demander la clôture même si le quota d'avis n'est pas atteint, il y a alors un nouveau décalage de la date et si cette nouvelle date est franchie, la proposition est clôturée selon les avis donnés.
 
 ###### Micro décision
@@ -185,6 +186,8 @@ Une fois la décision clôturée, un membre du groupe peut annoncer la décision
 
 
 ## Composition des groupes
+
+[Qui sont les coordinateurs de chaque groupe ?]
 
 - Conseil : Bram, ju, ljf, Maniack, Moul, opi, theodore
 - Core Dev : AlexAubin, Bram, Ju, ljf, Moul, opi
