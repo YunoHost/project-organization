@@ -1,22 +1,25 @@
 # Organisation du projet YunoHost
 
+
 ## Objectif du document
+
 Ce document a pour objectif de permettre aux contributeurs de se sentir légitimes d’effectuer une contribution dans le projet YunoHost avec un avis collectif. Il vise également à renforcer le projet en le structurant autour de groupes de travail autonomes pouvant résister au départ ou à l'absence de certains contributeurs.
 Le projet étant communautaire, les décisions prises hâtivement et discrètement par un groupe restreint de contributeurs peuvent entraîner des frustrations postérieures.
 Pour pallier ce problème, la solution proposée ici est de faire en sorte que les décisions soient prises collectivement, qu’elles soient suffisamment réfléchies, et qu'elles soient documentées ou rendues publiques.
 Un conseil oriente l’évolution du projet YunoHost, et des groupes d’intérêts permettent de contribuer plus efficacement en fonction des domaines de prédilection de chacun.
 
+
 ## Définition de YunoHost
 
-###  Objectifs
-Le but de YunoHost est de rendre accessibles au plus grand nombre l’installation et l’administration d’un serveur, sans délaisser la qualité et la fiabilité du logiciel.
+### Objectifs
 
-###  Valeurs
+Le but de YunoHost est de rendre accessible au plus grand nombre l’installation et l’administration d’un serveur, sans délaisser la qualité et la fiabilité du logiciel.
+
+### Valeurs
 
 #### Un logiciel libre et communautaire
 
 YunoHost est un logiciel sous licence libre, entièrement communautaire, et reposant sur des applications elles-mêmes communautaires et souvent libres (roundcube, baikal, etc...).
-
 
 #### Que chacun peut s'approprier
 
@@ -26,56 +29,58 @@ Historiquement, le projet est très proche des initiatives visant à la créatio
 ## Organisation de YunoHost
 
 ### Une structure ouverte, organisée par thèmes
-L'objectif de l'organisation de YunoHost est de permettre au plus grand nombre de contribuer à l'amélioration du logiciel, que ce soit d'un point de vue technique (développement, packaging d'application) ou non (communication, assistance aux utilisateurs, documentation, etc.). Inspiré par différents projets passés en revue lors de l'événement (Kodi, Debian, Django, Fedora, Wikipédia, etc.) et des idées de contributeur de YunoHost (Jérôme, Bram, opi, scith, ju), il a été décidé d'une organisation en groupes spécialisés, fédérés par un conseil de contributeurs clés.
+
+L'objectif de l'organisation de YunoHost est de permettre au plus grand nombre de contribuer à l'amélioration du logiciel, que ce soit d'un point de vue technique (développement, packaging d'application) ou non (communication, assistance aux utilisateurs, documentation, etc.). Inspiré par différents projets passés en revue lors de la création de ce document (Kodi, Debian, Django, Fedora, Wikipédia, etc.) et des idées de contributeur de YunoHost (Jérôme, Bram, opi, scith, ju), il a été décidé d'une organisation en groupes spécialisés, fédérés par un conseil de contributeurs clés.
 
 Schéma d’organisation du projet YunoHost :
 
 <img src="https://raw.githubusercontent.com/YunoHost/yunohost-project-organization/master/organization_schema.png" height="600px" />
 
-
 #### Définition et constitution des groupes
+
 La constitution de groupes part du constat que YunoHost compte beaucoup de sous-projets (treize au total), mais que l'on ne sait pas toujours qui en est en charge ou qui y est compétent. Il est donc proposé une simplification de l'organisation des sous-projets en groupes thématiques :
 
-- ##### Groupe Core Dev
- - Core YunoHost
- - Moulinette
- - Admin web
- - SSOwat
- - Dynette
- - YNH-Dev
+##### Groupe Core Dev
+- Core YunoHost
+- Moulinette
+- Admin web
+- SSOwat
+- Dynette
+- YNH-Dev
 
-- ##### Groupe Distribution
- - Création et maintenance des images d'installation sur diverses architectures
- - Distribution des images
- - Gestion de la distribution des paquets Debian.
+##### Groupe Distribution
+- Création et maintenance des images d'installation sur diverses architectures
+- Distribution des images
+- Gestion de la distribution des paquets Debian.
 
-- ##### Groupe Infra/Adminsys
- - Infrastructure
- - Site web (wiki, forum, salon de discussion, redmine, mumble)
- - Démo
- - Services
+##### Groupe Infra/Adminsys
+- Infrastructure
+- Site web (wiki, forum, salon de discussion, redmine, mumble)
+- Démo
+- Services
     - [ip.yunohost.org](https://ip.yunohost.org/) et ip6.yunohost.org
     - [yunoports](http://ports.yunohost.org/)
     - nohost.me et noho.st
     - [yunodash](https://dash.yunohost.org/)
     - [yunopaste](http://paste.yunohost.org/)
 
-- ##### Groupe Apps
- - Apps Officielles
- - Apps Communautaires
- - outils de développements d'app (package_checker, package linter)
+##### Groupe Apps
+- Apps Officielles
+- Apps Communautaires
+- Outils de développements d'app (package_checker, package linter)
 
-- ##### Groupe Communication
- - Documentation
- - Communication (annonce évolutions du projet sur le forum, réseaux sociaux)
- - Traduction
- - Entraide (support)
+##### Groupe Communication
+- Documentation
+- Communication (annonce évolutions du projet sur le forum, réseaux sociaux)
+- Traduction
+- Entraide (support)
 
 Les groupes sont ouverts à tous les contributeurs souhaitant participer au développement de YunoHost. Chacun peut s'inscrire aux canaux de communication associés aux groupes auxquels il souhaite prendre part. Chaque inscrit est libre d'échanger avec le reste du groupe et de proposer une prise de décision à la suite d'une étape d'échange et d'amélioration de la proposition. Il est recommandé aux contributeurs de documenter au maximum leurs décisions et leurs contributions. Ceci permet de renforcer l'autonomie des groupes en cas de départs ou d'absences de certains de leurs membres.
 Afin de faciliter sa gestion, chaque groupe nomme donc un coordinateur (et un remplaçant) dont le rôle est :  
 
 - d'accueillir et de fédérer les nouveaux contributeurs réguliers de son groupe
 - de tenir informé le Conseil des décisions prises au sein du groupe (cf. point suivant)
+- de tenir à jour une liste des membres actifs de chaque groupes
 
 Le choix d'un outil de communication est laissé à chaque groupe en fonction de sa pertinence (forum, chat, ML, etc.).
 
@@ -96,81 +101,95 @@ Pour participer aux votes du Conseil, il faut avoir contribué au projet et avoi
 
 Les décisions à prendre peuvent être de deux ordres :
 
-1. pour un groupe (par "exemple merger une PR" serait affecté au groupe Dev tandis que "poster un tweet" serait de la responsabilité du groupe Communication)
+1. pour un groupe (par exemple "merger une PR" serait affecté au groupe Core Dev tandis que "poster un tweet" serait de la responsabilité du groupe Communication)
 2. pour l'ensemble du projet (par exemple décider d'une release avec des nouvelles fonctionnalités)
 
-Si un consensus sur une décision à prendre n'est pas trouvée au sein d'un groupe, ce dernier devra se tourner vers le Conseil pour en débattre. Si aucun consensus n'est trouvé, la proposition sera soumise au vote de tous les contributeurs.
+Si un consensus sur une décision à prendre n'est pas trouvé au sein d'un groupe, ce dernier devra se tourner vers le Conseil pour en débattre. Si aucun consensus n'est trouvé, la proposition sera soumise au vote de tous les contributeurs.
 
 #### Le processus de prise de décision en détail
 
 ##### 1) Initiation d'une décision à prendre
+
+Une décision à prendre
  - peut-être initiée par n'importe qui suivant les mediums définis au sein de chacun des groupes (exemple : ouvrir une PR déclenche automatiquement ce processus)
- - forcément publique à l'exception de situations bien définies (bug relatif à la sécurité critique ou vote sur les personnes)
+ - est forcément publique à l'exception de situations bien définies (bug relatif à la sécurité critique ou vote sur les personnes)
   - une date de clôture est automatiquement définie par type de proposition. La définition de la date remplie plusieurs fonctions :
     - pouvoir laisser le temps à tout le monde de s'exprimer et ne pas prendre la décision trop vite
-    -  maintenir un rythme car si le quota des réponses est rempli avant le temps imparti, il n'y a pas besoin d'attendre l'avis de tout les membres du groupe
-       - le quota est à évaluer en fonction des personnes inscrites au groupe (ou au Conseil selon la situation) qui ont manifesté leurs souhaits d'être considéré comme votant régulier => exemple kload peut vouloir donner son avis ponctuellement, mais à priori il ne souhaitera pas être considéré comme membre votant actif du Conseil
+    - maintenir un rythme car si le quota des réponses est rempli avant le temps imparti, il n'y a pas besoin d'attendre l'avis de tout les membres du groupe
+       - le quota est à évaluer en fonction des personnes inscrites au groupe (ou au Conseil selon la situation) et qui ont manifesté leurs souhaits d'être considérées comme votant régulier => exemple kload peut vouloir donner son avis ponctuellement, mais à priori il ne souhaitera pas être considéré comme membre votant actif du Conseil
     - pouvoir être repoussable sur simple demande d'une des personnes du groupe. Et seulement du groupe, pas tous les contributeurs.
 
-##### 2) Ouverture de la discussion, plusieurs réponses possibles :
+##### 2) Ouverture de la discussion, plusieurs réponses possibles
+
 Tout le monde peut changer de positions à n'importe quel moment, mais il est de bon ton de laisser au groupe le temps de réagir si cela est nécessaire (pas passer de positif à négatif puis rejeter la proposition 3 min après par exemple.)
 
-- réponses dites "simple"
+- Réponses dites "simple"
    - "je suis d'accord" -> vaut pour un avis positif
- - "ça me semble bon, mais je préfère m'en remettre aux autres" -> si jamais il n'y a que des avis comme cela (ou le suivant) et au moins un avis positif et que la date est passé, la proposition est acceptée
- - "pas d'avis" / "je ne suis pas en position de donner un avis pertinent (exemple: je sais pas coder en X)"
--  réponses délayantes/différées
- - demande de précisions, dans ce cas la décision est suspendue
--  refus: tout refus doit être argumenté et justifié
+   - "ça me semble bon, mais je préfère m'en remettre aux autres" -> si jamais il n'y a que des avis comme cela (ou le suivant) et au moins un avis positif et que la date est passé, la proposition est acceptée
+   - "pas d'avis" / "je ne suis pas en position de donner un avis pertinent (exemple: je sais pas coder en X)"
+- Réponses délayantes/différées
+   - demande de précisions, dans ce cas la décision est suspendue
+- Refus : tout refus doit être argumenté et justifié
 
 ##### 3) Suspension/Repoussement
- - tant qu'il n'y a pas de réponse, la décision est suspendue, au moment de la réponse, la date de clôture est automatiquement repoussée (si besoin) (pour une durée, à définir, moins longue que la première fois)
- -  situation où il y a des avis positifs et négatifs ou situation où il y a un choix à faire entre plusieurs propositions
+
+Une décision est suspendue tant qu'elle ne recoit pas de réponse. Au moment de la première réponse, la date de clôture est automatiquement repoussée (si besoin) (pour une durée, à définir, moins longue que la première fois) [Pourquoi "si besoin" et quelle "première fois" ?]
+
+- Situation où il y a des avis positifs et négatifs ou situation où il y a un choix à faire entre plusieurs propositions [Cette ligne n'est pas claire : qu'est-ce qu'il se passe dans cette situation ?]
 
 ##### 4) Demande de modifications
- - mais il se peut qu'il y ait discussion autour de ces modifications, si c'est le cas, cela devient une nouvelle décision à adjoindre à la liste des décisions à prendre et le processus s'y applique alors (et cela repousse la date)
- - dans le cas contraire, un membre du groupe peut demander à ce que l'on fasse un vote qui portera sur la liste des possibilités qui font conflits + "ce vote est mal formulé, reformulons le"
- - s'il n'y a pas assez de monde d'accord, la date est repoussée et un rappel doit être envoyé
- - si le résultat est vraiment serré, le groupe est invité à rediscuter de la question si elle est importante, car cela pourrait être source de division et de tension à l'avenir
+
+- Il se peut qu'il y ait discussion autour de ces modifications, si c'est le cas, cela devient une nouvelle décision à adjoindre à la liste des décisions à prendre et le processus s'y applique alors (et cela repousse la date)
+- Dans le cas contraire, un membre du groupe peut demander à ce que l'on fasse un vote qui portera sur la liste des possibilités qui font conflits + "ce vote est mal formulé, reformulons le" [La fin de cette ligne est pas claire : est-ce que le "ce vote est mal formulé" est une autre situation ? Est-ce que c'est un exemple de demande ? #perdu]
+- S'il n'y a pas assez de monde d'accord, la date est repoussée et un rappel doit être envoyé
+- Si le résultat est vraiment serré, le groupe est invité à rediscuter de la question si elle est importante, car cela pourrait être source de division et de tension à l'avenir
 
 ##### 5) Clôture
- -  si le groupe est unanime dans sa décision
-   - que des avis positifs
-   - que des refus
-   - sans avis (s'en remet aux autres)
- - Pour une décison mineure ou moyenne/standard, si le quota de réponse est atteint à la durée minimale et que le consensus est obtenu.
-  - Le quota de réponse correspond aux avis nécessaires, détaillé ci-après dans les types de décisions. Le pourcentage est rapporté au nombre d'actifs dans le groupe concerné. La gestion des actif et inactif dans le groupe est à la charge du coordinateur et du suppléant qui doivent maintenir à jour la liste des membres au minimum à chaque décision du groupe. (Un inactif qui se manifeste lors d'une décision redevient automatiquement actif.)
- - s'il n'est pas possible d'avoir assez de monde (vacances, plus assez de membres du groupe pouvant avoir un avis) il est possible pour le groupe de demander la clôture même si le quota d'avis n'est pas atteint, il y a alors un nouveau décalage de la date et si cette nouvelle date est franchie, la proposition est clôturée selon les avis donnés.
 
-###### Micro décision:
-- Décision prise et appliquée par un seul membre sans délai. Ce type de décision doit impérativement pouvoir être réversible, et peut être remise en question par n'importe quel membre du groupe.
+La clôture peut avoir lieu selon les critères suivants :
 
-###### Décision Mineure:
-- Durée initiale: 1 semaine.
-- Durée minimale: 3 jours.
-- Décalage, si nécessaire: 3 jours.
-- Avis nécessaires: 2 membres du groupe (celui qui a initié cette prise de décision peux donner son avis). 3, dont 2 membres du groupe pour anticiper.
-- Validation par vote (le cas échéant): 66% de votes positifs.
+- Si le groupe est unanime dans sa décision (par exemple, si il n'y a que des avis positifs, que des avis négatifs, ou que des sans avis)
+- Pour une décison mineure ou moyenne/standard, si le quota de réponse est atteint à la durée minimale et que le consensus est obtenu.
+- Le quota de réponse correspond au nombre d'avis nécessaires, détaillé ci-après par type de décision. Le pourcentage est rapporté au nombre d'actifs dans le groupe concerné. La gestion des actifs et inactifs dans le groupe est à la charge du coordinateur et du suppléant qui doivent maintenir à jour la liste des membres au minimum à chaque décision du groupe. (Un inactif qui se manifeste lors d'une décision redevient automatiquement actif.)
+ - S'il n'est pas possible d'avoir assez de monde (vacances, plus assez de membres du groupe pouvant avoir un avis), il est possible pour le groupe de demander la clôture même si le quota d'avis n'est pas atteint, il y a alors un nouveau décalage de la date et si cette nouvelle date est franchie, la proposition est clôturée selon les avis donnés.
 
-###### Décision Standard/Moyenne:
-- Durée initiale: 2 semaines.
-- Durée minimale: 1 semaine.
-- Décalage, si nécessaire: 1 semaine.
-- Avis nécessaires: 50% des membres du groupe (celui qui a initié cette prise de décision peux donner son avis). 66% des membres du groupe pour anticiper.
-- Validation par vote (le cas échéant): 75% de votes positifs.
+###### Micro décision
 
-###### Décision Majeure :
-- Durée initiale: 1 mois.
-- Décalage, si nécessaire: 2 semaines.
-- Avis nécessaires: 75% des membres du groupe (celui qui a initié cette prise de décision peux donner son avis).
-- Validation par vote (le cas échéant): 90% de votes positifs.
+Il s'agit d'une décision prise et appliquée par un seul membre sans délai. Ce type de décision doit impérativement pouvoir être réversible, et peut être remise en question par n'importe quel membre du groupe.
+
+###### Décision Mineure
+
+- Durée initiale : 1 semaine.
+- Durée minimale : 3 jours.
+- Décalage, si nécessaire : 3 jours.
+- Avis nécessaires : 2 membres du groupe (celui qui a initié cette prise de décision peux donner son avis). 3, dont 2 membres du groupe pour une clôture anticipée.
+- Validation par vote (le cas échéant) : 66% de votes positifs.
+
+###### Décision Standard/Moyenne
+
+- Durée initiale : 2 semaines.
+- Durée minimale : 1 semaine.
+- Décalage, si nécessaire : 1 semaine.
+- Avis nécessaires : 50% des membres du groupe (celui qui a initié cette prise de décision peux donner son avis). 66% des membres du groupe pour une clôture anticipée.
+- Validation par vote (le cas échéant) : 75% de votes positifs.
+
+###### Décision Majeure
+
+- Durée initiale : 1 mois.
+- Décalage, si nécessaire : 2 semaines.
+- Avis nécessaires : 75% des membres du groupe (celui qui a initié cette prise de décision peux donner son avis).
+- Validation par vote (le cas échéant) : 90% de votes positifs.
 
 ##### 6) Application
-Alors un membre du groupe peut annoncer la décision comme effective (et procéder aux actions nécessaires comme releaser, merger, annonce, autre ...). Il est important que s'il y a besoin de certaines actions, des personnes se soient engagées à les faire, une décision sans désigner est moyennement utile
+
+Une fois la décision clôturée, un membre du groupe peut annoncer la décision comme effective (et procéder aux actions nécessaires comme releaser, merger, annonce, autre ...). Il est important que des personnes se soient engagées à réaliser les actions, sans quoi il y a un risque que la décision ne soit jamais mise en application.
+
 
 ## Composition des groupes
 
-- Conseil : Bram, ju, ljf, Maniack, Moul, opi, theodore.
+[Qui sont les coordinateurs de chaque groupe ?]
+
+- Conseil : Bram, ju, ljf, Maniack, Moul, opi, theodore
 - Core Dev : AlexAubin, Bram, Ju, ljf, Moul, opi
 - Apps : Bram, cyp, frju365, JimboJoe, Ju, ljf, Maniack C, Maxime, Moul, Scith, Tostaki
 - Infra : Bram, Ju, Maniack C, Moul, opi
@@ -179,6 +198,7 @@ Alors un membre du groupe peut annoncer la décision comme effective (et procéd
   - Doc : Moul, Theodore
   - Trad : Jean-Baptiste
 - Distribution : Heyyounow
+
 
 ## Tableau récapitulatif du nombre d'avis nécéssaire pour la prise de décision
 
@@ -219,11 +239,12 @@ _Les valeurs sont arrondies (exemple: 5,4 => 5 et 5,5 => 6)._
 
 Pour la traduction, le processus reste à adapter.
 
-Pour la doc, le nombre d'avis pour la cloture anticipée d'une décision mineure est pour le moment réduit (vu qu'il n'y a que 2 personnes dans le groupe). Les autres types de décisions sont prises par le conseil.
+Pour la documentation, le nombre d'avis pour la clôture anticipée d'une décision mineure est pour le moment réduit (vu qu'il n'y a que 2 personnes dans le groupe). Les autres types de décisions sont prises par le conseil.
 
-Pour le groupe distribution, étant donné qu'il n'y a pour l'instant que Heyyounow, le Conseil sera sollicité pour les décisions Standard ou Majeure.
+Pour le groupe distribution, étant donné qu'il n'y a pour l'instant que Heyyounow, le Conseil sera sollicité pour les décisions standards ou majeures.
 
 ## Droits d’administration afférents aux groupes
+
 Cette partie liste les kits de droits d’administration pour les différents groupes du projet YunoHost :
 
 (Attention, il ne s’agit pas des droits de prises de décisions dans ce cas).
@@ -279,6 +300,9 @@ Cette partie liste les kits de droits d’administration pour les différents gr
 - Forum : membre du [groupe `Distribution`](https://forum.yunohost.org/groups/Distribution).
 
 ## Décisions à venir pour les groupes
+
+[Est-ce que cela a vraiment sa place ici ? Est-ce que ces listes sont à jour ?]
+
 ### Conseil
 - Faut-il élire les membres du Conseil plutôt que de les coopter ? Risque de se transformer en "campagne politique"!
 - Faut-il limiter l'ouverture des groupes d'intérêts par cooptation comme pour le Conseil ?
