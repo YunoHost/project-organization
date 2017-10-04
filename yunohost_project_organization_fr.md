@@ -150,20 +150,22 @@ Tout le monde peut changer de positions à n'importe quel moment, mais il est de
 - Durée minimale: 3 jours.
 - Décalage, si nécessaire: 3 jours.
 - Avis nécessaires: 2 membres du groupe (celui qui a initié cette prise de décision peux donner son avis). 3, dont 2 membres du groupe pour anticiper.
-- Validation par vote (le cas échéant): 66% de votes positifs.
+- Validation par vote (le cas échéant): 66% de votes positifs. Au maximum 7 avis requis.
 
 ###### Décision Standard/Moyenne:
 - Durée initiale: 2 semaines.
 - Durée minimale: 1 semaine.
 - Décalage, si nécessaire: 1 semaine.
 - Avis nécessaires: 50% des membres du groupe (celui qui a initié cette prise de décision peux donner son avis). 66% des membres du groupe pour anticiper.
-- Validation par vote (le cas échéant): 75% de votes positifs.
+- Plafond d'avis requis: Un maximum de 5 avis peuvent être requis, 7 pour anticiper.
+- Validation par vote (le cas échéant): 75% de votes positifs. Au maximum 8 avis requis.
 
 ###### Décision Majeure :
 - Durée initiale: 1 mois.
 - Décalage, si nécessaire: 2 semaines.
 - Avis nécessaires: 75% des membres du groupe (celui qui a initié cette prise de décision peux donner son avis).
-- Validation par vote (le cas échéant): 90% de votes positifs.
+- Plafond d'avis requis: Un maximum de 8 avis peuvent être requis.
+- Validation par vote (le cas échéant): 90% de votes positifs. Au maximum 9 avis requis.
 
 ##### 6) Application
 Alors un membre du groupe peut annoncer la décision comme effective (et procéder aux actions nécessaires comme releaser, merger, annonce, autre ...). Il est important que s'il y a besoin de certaines actions, des personnes se soient engagées à les faire, une décision sans désigner est moyennement utile

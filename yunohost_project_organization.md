@@ -149,19 +149,22 @@ Anyone can change their position at any moment, but it's expected to let the gro
 - Minimal duration: 3 days.
 - Postponement, if necessary: 3 days.
 - Necessary views: 2 members of a group (the person who initiated the decision can express their view); in an anticipated format, 3 of which 2 members of the group.
+- Validation by voting (when applicable): 66% of positive votes. Maximum 7 required views.
 
 ###### Standard decision:
 - Initial duration: 2 weeks.
 - Minimal duration: 1 week.
 - Postponement, if necessary: 1 week.
 - Necessary views: 50% of members of a group (the person who initiated the decision can express their view); in an anticipated format, 66% of members.
-- Validation by voting (when applicable): 75% of positive votes.
+- Required views limit: A maximum of 5 views can be required, 7 for anticipate.
+- Validation by voting (when applicable): 75% of positive votes. Maximum 8 required views.
 
 ###### Major decision:
 - Initial duration: 1 month.
 - Postponement, if necessary: 2 weeks.
 - Necessary views: 75% of members of a group (the person who initiated the decision can express their view).
-- Validation by voting (when applicable): 90% of positive votes.
+- Required views limit: A maximum of 8 views can be required.
+- Validation by voting (when applicable): 90% of positive votes. Maximum 9 required views.
 
 ##### 6) Application
 Then a member of a group can announce their decision as effective (and proceed with necessary actions such as releasing, merging, announcing, etc.). If certain actions are required, it's important that people commit themselves to performing them, since a decision without designated people is of little use
