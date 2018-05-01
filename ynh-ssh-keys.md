@@ -44,7 +44,8 @@ See above.
 ???
 
 ### Josue-T
-???
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG9ldz5F0QrdX24sdOqTuSwS9BetmffKssUDIHXL3/Cb josue@Latitude-E6510
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICsSgNEDy3XSd5243hG0z6TFF1lCmrd0UNA6oSTPH7iR josue@Latitude-E6420
 
 ### Maxime
 ???
