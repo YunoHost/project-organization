@@ -37,7 +37,7 @@ YunoHost project organisation schema
 
 Groups are structured as a result of the fact that YunoHost counts many sub-projects (a total of 13), but without always knowing who is in charge or who is competent. It has therefore been decided to simplify the organisation into sub-projects according to theme-based groups:
 
-- ##### Core Dev Group
+##### Core Dev Group
  - YunoHost Core
  - Moulinette
  - Web admin
@@ -45,12 +45,12 @@ Groups are structured as a result of the fact that YunoHost counts many sub-proj
  - Dynette
  - YNH-Dev
 
-- ##### Distribution Group
+##### Distribution Group
  - Creation and maintenance of installation images on various architectures
  - Distribution of images
  - Management of Debian packages distribution
 
-- ##### Infra/Sysadmin Group
+##### Infra/Sysadmin Group
  - Infrastructure
  - Website (wiki, forum, chat room, redmine, mumble)
  - Demo
@@ -61,12 +61,12 @@ Groups are structured as a result of the fact that YunoHost counts many sub-proj
     - [yunodash](https://dash.yunohost.org/)
     - [yunopaste](http://paste.yunohost.org/)
 
-- ##### Apps Group
+##### Apps Group
  - Official apps
  - Community-based apps
  - App development tools (package_checker, package linter)
 
-- ##### Communication Group
+##### Communication Group
  - Documentation
  - Communication (announcement of project evolutions on the forum, social networks)
  - Translation
