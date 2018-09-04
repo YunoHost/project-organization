@@ -36,7 +36,7 @@ Schéma d’organisation du projet YunoHost :
 #### Définition et constitution des groupes
 La constitution de groupes part du constat que YunoHost compte beaucoup de sous-projets (treize au total), mais que l'on ne sait pas toujours qui en est en charge ou qui y est compétent. Il est donc proposé une simplification de l'organisation des sous-projets en groupes thématiques :
 
-- ##### Groupe Core Dev
+##### Groupe Core Dev
  - Core YunoHost
  - Moulinette
  - Admin web
@@ -44,12 +44,12 @@ La constitution de groupes part du constat que YunoHost compte beaucoup de sous-
  - Dynette
  - YNH-Dev
 
-- ##### Groupe Distribution
+##### Groupe Distribution
  - Création et maintenance des images d'installation sur diverses architectures
  - Distribution des images
  - Gestion de la distribution des paquets Debian.
 
-- ##### Groupe Infra/Adminsys
+##### Groupe Infra/Adminsys
  - Infrastructure
  - Site web (wiki, forum, salon de discussion, redmine, mumble)
  - Démo
@@ -60,12 +60,12 @@ La constitution de groupes part du constat que YunoHost compte beaucoup de sous-
     - [yunodash](https://dash.yunohost.org/)
     - [yunopaste](http://paste.yunohost.org/)
 
-- ##### Groupe Apps
+##### Groupe Apps
  - Apps Officielles
  - Apps Communautaires
  - outils de développements d'app (package_checker, package linter)
 
-- ##### Groupe Communication
+##### Groupe Communication
  - Documentation
  - Communication (annonce évolutions du projet sur le forum, réseaux sociaux)
  - Traduction
