@@ -1,0 +1,39 @@
+\documentclass[9pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[francais]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern, alltt, color, geometry, multicol, eurosym, graphicx, fancyhdr}
+\usepackage[hyperindex=true, colorlinks=true, urlcolor=black, linkcolor=black, breaklinks=true]{hyperref}
+\renewcommand{\thesection}{Article \arabic{section}}
+\pagestyle{empty}
+\geometry{hmargin=.6cm, vmargin=1.1cm}
+\headsep 10pt
+\addtolength{\parskip}{6pt}
+\renewcommand{\ttdefault}{pcr}
+\setlength{\parindent}{0cm}
+\renewcommand*{\familydefault}{\sfdefault}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead{}
+\makeatletter
+\renewcommand\section{\@startsection {section}{1}{\z@}{-2ex \@plus -1ex \@minus -.2ex}{.4ex \@plus.2ex}{\normalfont\bfseries\scshape}}
+\makeatother
+\author{Support Self-Hosting}
+
+\begin{document}
+\begin{tabular}{ l r }
+  \begin{minipage}{5.3cm}
+    \includegraphics[width=130pt]{logo_ssh.png}
+  \end{minipage} &
+  \begin{minipage}{14cm}
+    \begin{center}
+      {\huge \textbf{Statuts} de l'association \emph{Support Self-Hosting}}
+    \end{center}
+  \end{minipage}
+\end{tabular}
+\vspace{0.1cm}
+\begin{multicols}{2}
+
+{{CONTENT}}
+
+\end{document}
