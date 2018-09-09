@@ -109,3 +109,8 @@ Dissolution
 ========
 
 En cas de dissolution prononcée par l’Assemblée Générale Extraordinaire, un·e ou plusieurs liquidateurs ou liquidatrices sont nommé·e·s par celle-ci. L’actif, s’il y a lieu, est dévolu par cette Assemblée à une ou plusieurs associations ayant un objet similaire ou à tout établissement à but social ou culturel de son choix.
+
+
+
+
+*Statuts adoptés par l'Assemblée Générale Constitutive du 25/08/2018 au 28/08/2018.*
