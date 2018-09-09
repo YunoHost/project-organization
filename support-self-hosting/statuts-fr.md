@@ -1,7 +1,7 @@
-Support Self Hosting
+Titre de l'association
 =======
 
-Il est fondé entre les adhérentes et les adhérents aux présents Statuts une association régie par la loi du premier juillet 1901 et le décret du 16 août 1901, ayant pour titre : **Support Self Hosting**.
+Il est fondé entre les adhérentes et les adhérents aux présents statuts une association régie par la loi du premier juillet 1901 et le décret du 16 août 1901, ayant pour titre : **Support Self-Hosting**.
 
 Buts de l’association
 ===============
@@ -17,13 +17,13 @@ Pour ce faire, l'association :
 
 1. entreprend des actions pour recueillir des fonds, via des dons, subventions ou autres moyens ;
 
-2. décide de comment redistribuer ces fonds, par exemple pour assurer des coûts de fonctionnement (infrastructure informatique), acheter des outils de communication, pour défrayer des personnes lors d'événements ou interventions, ou pour rémunérer des personnes qui contribuent au projet YunoHost sur les aspects administratif, de communication, de recherche de financements, de développement informatique, de support utilisateur⋅ice⋅s, ou toute autre action permettant de soutenir le projet YunoHost.
+2. décide de comment redistribuer ces fonds, par exemple pour assurer des coûts de fonctionnement (infrastructure informatique), acheter des outils de communication, pour défrayer des personnes lors d'événements ou interventions, ou pour rémunérer des personnes qui contribuent au projet YunoHost sur les aspects administratif, de communication, de recherche de financements, de développement informatique, de support utilisateur·ice·s, ou toute autre action permettant de soutenir le projet YunoHost.
 
 
 Mode d’administration
 ================
 
-L’association fonctionne selon un mode d’administration dit &lt;&lt; autogéré &gt;&gt;. Les membres sont par conséquent collectivement responsables du bon fonctionnement de l’association et ont pour charge de s’impliquer dans la mesure de leurs disponibilités et compétences.
+L’association fonctionne selon un mode d’administration dit 'autogéré'. Les membres sont par conséquent collectivement responsables du bon fonctionnement de l’association et ont pour charge de s’impliquer dans la mesure de leurs disponibilités et compétences.
 
 **L’Assemblée Générale (AG)** regroupe l’ensemble des membres de l’association. L’AG est souveraine et détient l’exclusivité du pouvoir décisionnaire. L’AG est réunie de manière permanente par le biais des moyens de communication définis dans le règlement intérieur. L’AG délègue son pouvoir décisionnaire aux membres présents dans le cadre des **réunions associatives**, selon les termes décrits dans la section dédiée.
 
@@ -62,9 +62,9 @@ Elle se prononce sur les modifications de Statuts, la dissolution de l’associa
 
 **Déroulement**
 
-Tou⋅te⋅s les membres de l’association sont convoqué⋅e⋅s aux Assemblées Générales Ordinaires ou Extraordinaires, sous réserve qu’ils et elles aient acquitté leur cotisation de l’année en cours.
+Tou·te·s les membres de l’association sont convoqué·e·s aux Assemblées Générales Ordinaires ou Extraordinaires, sous réserve qu’ils et elles aient acquitté leur cotisation de l’année en cours.
 
-Les membres de l’association sont convoqué⋅e⋅s 15 jours au moins avant la date fixée. Les convocations peuvent être envoyées par courriel en utilisant les adresses fournies par les membres lors de leur adhésion ou via les discussions de groupe du forum de YunoHost. L’ordre du jour est indiqué sur les convocations.
+Les membres de l’association sont convoqué·e·s 15 jours au moins avant la date fixée. Les convocations peuvent être envoyées par courriel en utilisant les adresses fournies par les membres lors de leur adhésion ou via les discussions de groupe du forum de YunoHost. L’ordre du jour est indiqué sur les convocations.
 
 Les membres du Collège Solidaire ont pour charge d’assurer l’organisation et le bon déroulement de l’Assemblée Générale en faisant respecter l’ordre du jour, en répartissant équitablement le temps de parole et en rédigeant le compte-rendu de la réunion.
 
@@ -77,7 +77,7 @@ Les membres du Collège Solidaire portent collectivement la charge de tenir la c
 
 La responsabilité légale de l’ensemble des membres du Collège Solidaire étant engagée en cas de problème, n’importe quel membre du Collège Solidaire doit pouvoir avoir accès aux comptes pour les vérifier.
 
-Tout membre de l’Assemblée Générale peut également demander à consulter les comptes de l’association, mais la version présentée sera anonymisée, afin de respecter la vie privée des donateur⋅ices.
+Tout membre de l’Assemblée Générale peut également demander à consulter les comptes de l’association, mais la version présentée sera anonymisée, afin de respecter la vie privée des donateur·ices.
 
 Siège social
 =========
@@ -108,4 +108,4 @@ Un Règlement Intérieur peut être établi par les membres, qui sera soumis à 
 Dissolution
 ========
 
-En cas de dissolution prononcée par l’Assemblée Générale Extraordinaire, un⋅e ou plusieurs liquidateurs ou liquidatrices sont nommé⋅e⋅s par celle-ci. L’actif, s’il y a lieu, est dévolu par cette Assemblée à une ou plusieurs associations ayant un objet similaire ou à tout établissement à but social ou culturel de son choix.
+En cas de dissolution prononcée par l’Assemblée Générale Extraordinaire, un·e ou plusieurs liquidateurs ou liquidatrices sont nommé·e·s par celle-ci. L’actif, s’il y a lieu, est dévolu par cette Assemblée à une ou plusieurs associations ayant un objet similaire ou à tout établissement à but social ou culturel de son choix.
