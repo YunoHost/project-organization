@@ -188,8 +188,8 @@ Dans ce cas, l'auteur annonce sur le fil de discussion de la PR qu'il souhaite e
 
 ## Composition des groupes
 
-- Conseil : Bram, ju, ljf, Maniack, Moul, opi, theodore.
-- Core Dev : AlexAubin, Bram, JimboJoe, Ju, ljf, Moul, opi
+- Conseil : Bram, ljf, Maniack, Moul, Aleks, frju365, Josue, JimboJoe
+- Core Dev : Aleks, Bram, JimboJoe, Ju, ljf, Moul, opi
 - Apps : Bram, cyp, frju365, JimboJoe, Josue-T, Ju, ljf, Maniack C, Maxime, Moul, Scith, Tostaki
 - Infra : Bram, Ju, Maniack C, Moul, opi
 - Communication
