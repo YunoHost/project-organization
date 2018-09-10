@@ -204,14 +204,13 @@ Dans ce cas, l'auteur annonce sur le fil de discussion de la PR qu'il souhaite e
 ## Composition des groupes
 
 - Conseil : Bram, ljf, Maniack, Moul, Aleks, frju365, Josue, JimboJoe
-- Core Dev : Aleks, Bram, JimboJoe, Ju, ljf, Moul, opi
-- Apps : Bram, cyp, frju365, JimboJoe, Josue-T, Ju, ljf, Maniack C, Maxime, Moul, Scith, Tostaki
-- Infra : Bram, Ju, Maniack C, Moul, opi
-- Communication
-  - Com : Bram, Moul, korbak, ljf, opi, frju365
-  - Doc : Moul, Theodore
-  - Trad : Jean-Baptiste
-- Distribution : Heyyounow
+- Core Dev : Aleks, Bram, ljf, JimboJoe, Josue
+- Apps : Maniack, frju365, JimboJoe, Josue, ljf, (cyp? Maxime? Scith? Tostaki? Jibec? tituspijean? nicofrand? amnol? Gofannon? ...?)
+- Infra : Bram, ljf, Aleks, Maniack, (pitchum? ...?)
+- Support & Doc : Aleks, ljf, frju365, (ppr? ...?)
+- Distribution : Aleks, (...?)
+- Communication : Aleks, frju365, (Bram?)
+- Translation : (Jibec? BoF? Quent-i? ...?)
 
 
 ## Droits d’administration afférents aux groupes
