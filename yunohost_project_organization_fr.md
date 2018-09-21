@@ -53,6 +53,8 @@ La constitution de groupes part du constat que YunoHost compte beaucoup de sous-
 - Maintien du repo YunoHost/Apps (et notamment de les listes official.json et community.json)
 - Outils de développements et tests d'application (package check, package linter, continous integration)
 
+Un sous-groupe du groupe Apps est dédié à la maintenance des apps officielles
+
 ##### Groupe Infra/Adminsys
 
 Deploie, administre, maintien et sauvegarde les différents éléments d'infrastructure et services associés
@@ -204,13 +206,14 @@ Dans ce cas, l'auteur annonce sur le fil de discussion de la PR qu'il souhaite e
 ## Composition des groupes
 
 - Conseil : Bram, ljf, Maniack, Moul, Aleks, frju365, Josue, JimboJoe
-- Core : Aleks, Bram, ljf, JimboJoe, Josue, (...?)
-- Apps : Maniack, frju365, JimboJoe, Josue, ljf, (remove : cyp? Maxime? Scith? Tostaki?) (add : Jibec? tituspijean? nicofrand? amnol? Gofannon? ...?)
-- Infra : Bram, ljf, Aleks, Maniack, (add: pitchum? ...?)
-- Support & Doc : Aleks, ljf, frju365, (add: ppr? ...?)
-- Distribution : Aleks, (...?)
-- Communication : Aleks, frju365, (add : Bram? ...?)
-- Translation : (add: Jibec? BoF? Quent-i? ...?)
+- Core : Aleks, Bram, ljf, JimboJoe, Josue
+- Apps : Maniack, frju365, JimboJoe, Josue, ljf (add : tituspijean? amnol? Gofannon? ...?)
+    - Official apps : Maniack, frju365, JimboJoe, Josue, (add : anmol)
+- Infra : Bram, ljf, Aleks, Maniackf
+- Support & Doc : Aleks, ljf, frju365, ppr
+- Distribution : Aleks
+- Communication : Aleks, frju365, Bram
+- Translation : (add: BoF? Quent-i? Xaloc? ...?)
 
 
 ## Droits d’administration afférents aux groupes
