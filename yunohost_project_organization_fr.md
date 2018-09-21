@@ -209,7 +209,7 @@ Dans ce cas, l'auteur annonce sur le fil de discussion de la PR qu'il souhaite e
 - Core : Aleks, Bram, ljf, JimboJoe, Josue
 - Apps : Maniack, frju365, JimboJoe, Josue, ljf (add : tituspijean? amnol? Gofannon? ...?)
     - Official apps : Maniack, frju365, JimboJoe, Josue, (add : anmol)
-- Infra : Bram, ljf, Aleks, Maniackf
+- Infra : Bram, ljf, Aleks, Maniack
 - Support & Doc : Aleks, ljf, frju365, ppr
 - Distribution : Aleks
 - Communication : Aleks, frju365, Bram
