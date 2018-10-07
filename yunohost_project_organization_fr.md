@@ -207,13 +207,13 @@ Dans ce cas, l'auteur annonce sur le fil de discussion de la PR qu'il souhaite e
 
 - Conseil : Bram, ljf, Maniack, Moul, Aleks, frju365, Josue, JimboJoe
 - Core : Aleks, Bram, ljf, JimboJoe, Josue
-- Apps : Maniack, frju365, JimboJoe, Josue, ljf (add : tituspijean? amnol? Gofannon? ...?)
-    - Official apps : Maniack, frju365, JimboJoe, Josue, (add : anmol)
+- Apps : Maniack, frju365, JimboJoe, Josue, ljf, anmol
+    - Official apps : Maniack, frju365, JimboJoe, Josue, anmol
 - Infra : Bram, ljf, Aleks, Maniack
 - Support & Doc : Aleks, ljf, frju365, ppr
 - Distribution : Aleks
 - Communication : Aleks, frju365, Bram
-- Translation : (add: BoF? Quent-i? Xaloc? ...?)
+- Translation : Quent-i
 
 
 ## Droits d’administration afférents aux groupes
