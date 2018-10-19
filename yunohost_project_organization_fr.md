@@ -34,42 +34,59 @@ Schéma d’organisation du projet YunoHost :
 
 
 #### Définition et constitution des groupes
+
 La constitution de groupes part du constat que YunoHost compte beaucoup de sous-projets (treize au total), mais que l'on ne sait pas toujours qui en est en charge ou qui y est compétent. Il est donc proposé une simplification de l'organisation des sous-projets en groupes thématiques :
 
-##### Groupe Core Dev
- - Core YunoHost
- - Moulinette
- - Admin web
- - SSOwat
- - Dynette
- - YNH-Dev
+##### Groupe Core
 
-##### Groupe Distribution
- - Création et maintenance des images d'installation sur diverses architectures
- - Distribution des images
- - Gestion de la distribution des paquets Debian.
-
-##### Groupe Infra/Adminsys
- - Infrastructure
- - Site web (wiki, forum, salon de discussion, redmine, mumble)
- - Démo
- - Services
-    - [ip.yunohost.org](https://ip.yunohost.org/) et ip6.yunohost.org
-    - [yunoports](http://ports.yunohost.org/)
-    - nohost.me et noho.st
-    - [yunodash](https://dash.yunohost.org/)
-    - [yunopaste](http://paste.yunohost.org/)
+- Core YunoHost
+- Moulinette
+- Webadmin
+- SSOwat
+- Dynette
+- YNH-Dev
 
 ##### Groupe Apps
- - Apps Officielles
- - Apps Communautaires
- - outils de développements d'app (package_checker, package linter)
+
+- Apps Officielles
+- Apps Communautaires
+- Maintien du repo YunoHost/Apps (et notamment de les listes official.json et community.json)
+- Outils de développements et tests d'application (package check, package linter, continous integration)
+
+Un sous-groupe du groupe Apps est dédié à la maintenance des apps officielles
+
+##### Groupe Infra/Adminsys
+
+Deploie, administre, maintien et sauvegarde les différents éléments d'infrastructure et services associés
+
+- Administration "bas-niveau" (serveurs, conteneurs, configuration réseau, stack mail, stack xmpp, ...)
+- Services "techniques" (ip, ports, dynette, paste, dash, ...)
+- Services pour les utilisateurs et la communication (simone, forum, chatrooms, mumble, demo, ...)
+- ...
+
+##### Groupe Distribution
+
+- Création et maintenance des images d'installation sur diverses architectures
+- Distribution des images
+- Gestion de la distribution des paquets Debian.
+
+##### Groupe Support et documentation
+
+- Entraide et support sur le forum et le salon
+- Maintenance et mise à jour de la documentation
+- Organisation du forum et du salon de support
 
 ##### Groupe Communication
- - Documentation
- - Communication (annonce évolutions du projet sur le forum, réseaux sociaux)
- - Traduction
- - Entraide (support)
+
+- Annonce d'évolutions du projet sur le forum
+- Interaction avec la communauté sur les réseaux sociaux
+- Communication sur le projet sur d'autres sites externes au projet, ou en conférence
+
+##### Groupe Traduction
+
+- Maintenance des traductions en différentes langues
+- Interaction avec les autres groupes pour l'intégration des traductions et la maintenance des outils associé
+
 
 Les groupes sont ouverts à tous les contributeurs souhaitant participer au développement de YunoHost. Chacun peut s'inscrire aux canaux de communication associés aux groupes auxquels il souhaite prendre part. Chaque inscrit est libre d'échanger avec le reste du groupe et de proposer une prise de décision à la suite d'une étape d'échange et d'amélioration de la proposition. Il est recommandé aux contributeurs de documenter au maximum leurs décisions et leurs contributions. Ceci permet de renforcer l'autonomie des groupes en cas de départs ou d'absences de certains de leurs membres.
 Afin de faciliter sa gestion, chaque groupe nomme donc un coordinateur (et un remplaçant) dont le rôle est :  
@@ -189,14 +206,14 @@ Dans ce cas, l'auteur annonce sur le fil de discussion de la PR qu'il souhaite e
 ## Composition des groupes
 
 - Conseil : Bram, ljf, Maniack, Moul, Aleks, frju365, Josue, JimboJoe
-- Core Dev : Aleks, Bram, JimboJoe, Ju, ljf, Moul, opi
-- Apps : Bram, cyp, frju365, JimboJoe, Josue-T, Ju, ljf, Maniack C, Maxime, Moul, Scith, Tostaki
-- Infra : Bram, Ju, Maniack C, Moul, opi
-- Communication
-  - Com : Bram, Moul, korbak, ljf, opi, frju365
-  - Doc : Moul, Theodore
-  - Trad : Jean-Baptiste
-- Distribution : Heyyounow
+- Core : Aleks, Bram, ljf, JimboJoe, Josue
+- Apps : Maniack, frju365, JimboJoe, Josue, ljf, anmol
+    - Official apps : Maniack, frju365, JimboJoe, Josue, anmol
+- Infra : Bram, ljf, Aleks, Maniack
+- Support & Doc : Aleks, ljf, frju365, ppr
+- Distribution : Aleks
+- Communication : Aleks, frju365, Bram
+- Translation : Quent-i
 
 
 ## Droits d’administration afférents aux groupes
