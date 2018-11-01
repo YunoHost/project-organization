@@ -1,17 +1,17 @@
 # YunoHost project organisation
 
-## Document objective
+## Document purpose
 
-This document aims at allowing contributors to feel legitimate in contributing to the YunoHost project together with collective feedback.
+This document aims to allow contributors to feel legitimate in contributing to the YunoHost project together with collective feedback.
 The project is community-based and hasty decisions made by a restricted group of contributors can generate frustrations at a later stage.
 To address this issue, the proposed solution here is to ensure that decisions are taken collectively and that they are sufficiently thought out.
 An advisory council provides orientations for the evolution of the YunoHost project and special interest groups allow more efficient contribution in relation to each specific topic.
 
 ## Definition of YunoHost
 
-### Objectives
+### Purpose
 
-The goal of YunoHost is to make accessible to the largest number of people, the installation and administration of a server, without prejudice to the quality and reliability of the software. 
+The goal of YunoHost is to make the installation and administration of a server accessible to the largest number of people, without prejudice to the quality and reliability of the software. 
 
 ### Values
 
@@ -262,7 +262,7 @@ This part list administration rights for differents groups of YunoHost project:
 
 ### Translation
 - Weblate: [translator tool admin](https://translate.yunohost.org/projects/yunohost/).
-- Forum : Member of [`Traduction` group](https://forum.yunohost.org/groups/Traduction).
+- Forum : Member of the [`translation` group](https://forum.yunohost.org/groups/Traduction).
 
 ### Support & Doc
 - Forum: moderator status, [`Support` team member of YunoHost's organization](https://github.com/orgs/YunoHost/teams/Support_Doc), with possibility to have the official badge of the group visible near user's avatar.
