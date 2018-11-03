@@ -1,17 +1,17 @@
 # YunoHost project organisation
 
-## Document objective
+## Document purpose
 
-This document aims at allowing contributors to feel legitimate in contributing to the YunoHost project together with collective feedback.
+This document aims to allow contributors to feel legitimate in contributing to the YunoHost project together with collective feedback.
 The project is community-based and hasty decisions made by a restricted group of contributors can generate frustrations at a later stage.
 To address this issue, the proposed solution here is to ensure that decisions are taken collectively and that they are sufficiently thought out.
 An advisory council provides orientations for the evolution of the YunoHost project and special interest groups allow more efficient contribution in relation to each specific topic.
 
 ## Definition of YunoHost
 
-###Objectives
+### Purpose
 
-The goal of YunoHost is to make accessible to the largest number of people, the installation and administration of a server, without prejudice to the quality and reliability of the software. 
+The goal of YunoHost is to make the installation and administration of a server accessible to the largest number of people, without prejudice to the quality and reliability of the software. 
 
 ### Values
 
@@ -169,14 +169,15 @@ Then a member of a group can announce their decision as effective (and proceed w
 ## Composition of groups
 
 - Council : Bram, ljf, Maniack, Moul, Aleks, frju365, Josue, JimboJoe
-- Core Dev : Aleks, Bram, JimboJoe, Ju, ljf, Moul, opi
-- Apps : Bram, cyp, frju365, JimboJoe, Josue-T, Ju, ljf, Maniack C, Maxime, Moul, Scith, Tostaki
-- Infra : Bram, Ju, Maniack C, Moul, opi
-- Communication
-  - Com : Bram, Moul, korbak, ljf, opi, frju365
-  - Doc : Moul, Theodore
-  - Trans : Jean-Baptiste
-- Distribution : Heyyounow
+- Core : Aleks, Bram, ljf, JimboJoe, Josue
+- Apps : Maniack, frju365, JimboJoe, Josue, ljf, anmol
+     - Official apps : Maniack, frju365, JimboJoe, Josue, anmol
+- Infra : Bram, ljf, Aleks, Maniack
+- Support & Doc : Aleks, ljf, frju365, ppr
+- Distribution : Aleks
+- Communication : Aleks, frju365, Bram
+- Translation : Quent-i
+
 
 ## Summary table of the number of views required for a decision 
 
@@ -254,22 +255,19 @@ This part list administration rights for differents groups of YunoHost project:
 - Forum: [Apps group member](https://forum.yunohost.org/groups/Apps).
 
 ### Communication
-- Forum: [Com group member](https://forum.yunohost.org/groups/Communication).
-
-#### Documentation
-- GitHub: [Doc team member of YunoHost's organization](https://github.com/orgs/YunoHost/teams/doc).
-
-#### Communication
 - Diaspora*: [account access](https://framasphere.org/people/01868d20330c013459cf2a0000053625),
 - Twitter: [account access](https://twitter.com/yunohost),
-- Forum: [account access](https://forum.yunohost.org/users/yunohost/activity).
+- Forum: [account access](https://forum.yunohost.org/users/yunohost/activity), member of [`Communication` group](https://forum.yunohost.org/groups/Communication).
+- Github :  with write access to the slides for the conf
 
-#### Translation
+### Translation
 - Weblate: [translator tool admin](https://translate.yunohost.org/projects/yunohost/).
+- Forum : Member of the [`translation` group](https://forum.yunohost.org/groups/Traduction).
 
-#### Mutual assistance (support)
-- Forum: moderator status,
+### Support & Doc
+- Forum: moderator status, [`Support` team member of YunoHost's organization](https://github.com/orgs/YunoHost/teams/Support_Doc), with possibility to have the official badge of the group visible near user's avatar.
 - XMPP: [`support` chanel moderator](xmpp:support@conference.yunohost.org?join).
+- GitHub: [Doc team member of YunoHost's organization](https://github.com/orgs/YunoHost/teams/doc).
 
 ### Distribution
 - GitHub: [YunoHost's organisation `Distrib` team member](https://github.com/orgs/YunoHost/teams/distribution),

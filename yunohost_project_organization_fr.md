@@ -247,23 +247,20 @@ Cette partie liste les kits de droits d’administration pour les différents gr
 - XMPP : modérateur sur le [salon `Apps`](xmpp:apps@conference.yunohost.org?join),
 - Forum : membre du [groupe `Apps`](https://forum.yunohost.org/groups/Apps).
 
-### Communication
-- Forum : membre du [groupe `Com`](https://forum.yunohost.org/groups/Communication).
-
-#### Doc
+### Support & Doc
 - GitHub : membre de l’[équipe `Doc` de l’organisation `YunoHost`](https://github.com/orgs/YunoHost/teams/doc).
+- Forum : statut de modérateur, membre du [groupe `Support & Doc`](https://forum.yunohost.org/groups/Support_Doc), possibilité d'avoir le badge du groupe visible à côté de l'avatar.
+- XMPP : statut de modérateur sur le salon [`support`](xmpp:support@conference.yunohost.org?join).
 
-#### Communication
+### Communication
 - Diaspora* : accès au compte [YunoHost](https://framasphere.org/people/01868d20330c013459cf2a0000053625),
 - Twitter : accès au compte [YunoHost](https://twitter.com/yunohost),
-- Forum : accès au compte [`YunoHost`](https://forum.yunohost.org/users/yunohost/activity).
+- Forum : accès au compte [`YunoHost`](https://forum.yunohost.org/users/yunohost/activity), membre du [groupe `Communication`](https://forum.yunohost.org/groups/Communication)
+- Github : Membre de l'[équipe `Doc` de l’organisation `YunoHost`](https://github.com/orgs/YunoHost/teams/doc) avec droit d'écriture sur les slides des conférences.
 
-#### Traduction
+### Traduction
 - Weblate : administrateur sur l’[outil de traduction](https://translate.yunohost.org/projects/yunohost/).
-
-#### Entraide
-- Forum : statut de modérateur,
-- XMPP : statut de modérateur sur le salon [`support`](xmpp:support@conference.yunohost.org?join).
+- Forum : membre du [groupe `Traduction`](https://forum.yunohost.org/groups/Traduction).
 
 ### Distribution
 - GitHub : membre de l’[équipe `Distrib` de l’organisation `YunoHost`](https://github.com/orgs/YunoHost/teams/distribution),
