@@ -208,7 +208,7 @@ Dans ce cas, l'auteur annonce sur le fil de discussion de la PR qu'il souhaite e
 - Conseil : Bram, ljf, Maniack, Moul, Aleks, frju365, Josue, JimboJoe
 - Core : Aleks, Bram, ljf, JimboJoe, Josue
 - Apps : Maniack, frju365, JimboJoe, Josue, ljf, anmol
-    - Official apps : Maniack, frju365, JimboJoe, Josue, anmol
+    - Official apps : Maniack, frju365, JimboJoe, Josue, anmol, Kayou
 - Infra : Bram, ljf, Aleks, Maniack
 - Support & Doc : Aleks, ljf, frju365, ppr
 - Distribution : Aleks
