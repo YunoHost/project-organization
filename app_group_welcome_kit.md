@@ -5,7 +5,7 @@ The purpose of this document is to list all is needed when you're about to welco
 ### Step to perform
 
 - Add to Apps group in github. [->](https://github.com/orgs/YunoHost/teams/apps/members)
-- As well for YunoHost-Apps. [->](https://github.com/orgs/YunoHost-Apps/teams/apps-group/members)
+- As well for YunoHost-Apps (with the maintainer role). [->](https://github.com/orgs/YunoHost-Apps/teams/apps-group/members)
 - Add to Apps group on the forum [->](https://forum.yunohost.org/groups/Apps)
 - Update group members into project organization documents [->](https://github.com/YunoHost/project-organization/blob/master/yunohost_project_organization.md#composition-of-groups) and [->](https://github.com/YunoHost/project-organization/blob/master/yunohost_project_organization_fr.md#composition-des-groupes)
 - Add a public ssh key. [->](https://github.com/YunoHost/project-organization/blob/master/ynh-ssh-keys.md)
