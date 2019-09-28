@@ -17,7 +17,7 @@ Installing and administrating a server should be accessible to the largest numbe
 
 #### Libre and community-based software
 
-YunoHost is a software under copyleft libre licence, fully community-based and based on applications which are themselves community-based, and often gratis (Roundcube, Baïkal, etc.)
+YunoHost is copylefted libre software, fully community-based, and integrates with a catalog of applications that are themselves libre (Roundcube, Baïkal, etc.
 
 #### That everyone can appropriate
 
@@ -35,7 +35,7 @@ Organisational YunoHost project scheme
 
 #### Definition and structure of groups
 
-Groups are structured as a result of the fact that YunoHost counts many sub-projects (a total of 13), though not always in the knowledge of who is in charge or competent. It has therefore been decided to simplify the organisation into sub-projects according to theme-based groups:
+The purpose of the following different working groups is to create teams working on the relatively independent parts of the Yunohost project, in which contributors can freely organize themselves:
 
 ##### Core Dev Group
  - YunoHost Core
