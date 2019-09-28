@@ -21,7 +21,7 @@ YunoHost is a software under copyleft libre licence, fully community-based and b
 
 #### That everyone can appropriate
 
-Historically, the project has been very close to initiatives aiming to creating a neutral and decentralised Internet. This proximity especially with the [FFDN](https://www.ffdn.org/) materialized when some contributors created the InternetCu.be, whose mission is to facilitate self-hosting by providing a complete solution including a service (via a VPN) and a device. This militant aspect does not inhibit commercial software initiatives, hereby companies could propose support or hosting.
+Historically, the project has been very close to initiatives building and defending a neutral and decentralised Internet. This proximity especially with the [FFDN](https://www.ffdn.org/) was embodied by the creation of the Internet Cube project, whose mission is to facilitate self-hosting by providing a plug-and-play solution including the hardware and a VPN. This militant aspect does not inhibit commercial software initiatives, and companies can propose support for, or hosting based on Yunohost.
 
 ## YunoHost organisation
 
