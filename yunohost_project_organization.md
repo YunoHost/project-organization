@@ -27,7 +27,7 @@ Historically, the project has been very close to initiatives building and defend
 
 ### A theme-based, open structure
 
-The objective of the organisation is to allow the greates number of people to contribute to software improvement, whether from a technical point of view (development, application packaging) or otherwise (communication, end-user assistance, documentation, etc.). Inspired by the projects reviewed at a recent event (Kodi, Debian, Django, Fedora, Wikipedia, etc.) and by ideas stemming from YunoHost contributors (Jérôme, Bram, opi, scith, ju), a decision was made to organise work by special interest groups, federated thanks to a council of key contributors.
+The objective of the organisation is to allow the greatest number of people to contribute to the project, whether from a technical point of view (development, application packaging) or otherwise (communication, end-user assistance, documentation, etc.). Inspired by the projects reviewed before the creation of this document (Kodi, Debian, Django, Fedora, Wikipedia, etc.) and by ideas stemming from YunoHost contributors (Jérôme, Bram, opi, scith, ju), a decision was made to organise work by work groups, federated thanks to a council of key contributors.
 
 Organisational YunoHost project scheme
 
