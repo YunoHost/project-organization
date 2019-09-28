@@ -3,7 +3,7 @@
 ## Purpose
 
 This document aims to make contributors feel legitimized in contributing to the YunoHost project and take part in the collective feedback.
-The project is community-based to avoid hasty decisions made by a restricted group of contributors generating frustrations at a later stage.
+Considering that the project is community-based, hasty decisions should be avoided so that everybody can participate and stay aware of what is happening.
 Decisions are taken collectively, when sufficiently thought out.
 An advisory council orients the evolution of the YunoHost project, and special interest groups allow more efficient contribution in each specific area.
 
