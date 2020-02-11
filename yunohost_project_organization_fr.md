@@ -206,7 +206,7 @@ Dans ce cas, l'auteur annonce sur le fil de discussion de la PR qu'il souhaite e
 ## Composition des groupes
 
 - Conseil : Bram, ljf, Maniack, Moul, Aleks, frju365, Josue, JimboJoe, Kayou, yalh76
-- Core : Aleks, Bram, ljf, JimboJoe, Josue, decentral1se
+- Core : Aleks, Bram, ljf, JimboJoe, Josue, decentral1se, Kayou
 - Apps : Maniack, frju365, JimboJoe, Josue, ljf, Kayou, yalh76
     - Official apps : Maniack, frju365, JimboJoe, Josue, Kayou, yalh76
 - Infra : Bram, ljf, Aleks, Maniack
