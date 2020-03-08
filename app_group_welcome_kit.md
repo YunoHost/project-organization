@@ -18,7 +18,7 @@ The purpose of this document is to list all is needed when you're about to welco
 - [Official CI](https://ci-apps.yunohost.org) `ssh yunohost@ci-apps.yunohost.org -p 2201`
 - [CI ARM](https://ci-apps-arm.yunohost.org) `ssh yunohost@ci-apps-arm.yunohost.org -p 2201`
 - [CI unstable/testing](https://ci-apps-unstable.yunohost.org) `ssh root@ci-apps-unstable.yunohost.org`
-- [CI Jessie](https://ci-stretch.nohost.me) `ssh root@ci-stretch.nohost.me`
+- [CI Buster](https://ci-buster.nohost.me) `ssh root@ci-buster.nohost.me`
 - [CI dev](https://ci-apps-dev.yunohost.org) `ssh root@ci-apps-dev.yunohost.org`  
 *All CI are accessible in ssh by key only.*
 - [Dashboard](https://dash.yunohost.org/)
