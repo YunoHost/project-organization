@@ -170,8 +170,7 @@ Then a member of a group can announce their decision as effective (and proceed w
 
 - Council : Bram, ljf, Maniack, Moul, Aleks, frju365, Josue, JimboJoe, Kayou, yalh76
 - Core : Aleks, Bram, ljf, JimboJoe, Josue, decentral1se, Kayou
-- Apps : Maniack, frju365, JimboJoe, Josue, ljf, Kayou, yalh76
-     - Official apps : Maniack, frju365, JimboJoe, Josue, Kayou, yalh76
+- Apps : Maniack, frju365, JimboJoe, Josue, ljf, Kayou, yalh76, ericg
 - Infra : Bram, ljf, Aleks, Maniack
 - Support & Doc : Aleks, ljf, frju365, ppr
 - Distribution : Aleks
