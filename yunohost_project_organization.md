@@ -176,7 +176,7 @@ Then a member of a group can announce their decision as effective (and proceed w
 - Support & Doc: Aleks, ljf, frju365, ppr
 - Distribution: Aleks
 - Communication: Aleks, frju365, Bram
-- Translation: Quent-i, kingu
+- Translation: Quent-i
 
 
 ## Summary table of the number of views required for a decision 
