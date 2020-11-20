@@ -15,8 +15,8 @@ The purpose of this document is to list all is needed when you're about to welco
 
 ### Tools for Apps group
 
-- [Official CI](https://ci-apps.yunohost.org) `ssh root@ci-apps.yunohost.org`
-- [CI ARM](https://ci-apps-arm.yunohost.org) `ssh root@ci-apps-arm.yunohost.org`
+- [Official CI](https://ci-apps.yunohost.org) `ssh admin@ci-apps.yunohost.org -p 2211`
+- [CI ARM](https://ci-apps-arm.yunohost.org) `ssh admin@ci-apps-arm.yunohost.org -p 2211`
 - [CI unstable/testing](https://ci-apps-unstable.yunohost.org) `ssh root@ci-apps-unstable.yunohost.org`
 - [CI dev](https://ci-apps-dev.yunohost.org) `ssh root@ci-apps-dev.yunohost.org`  
 *All CI are accessible in ssh by key only.*
