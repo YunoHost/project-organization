@@ -201,7 +201,7 @@ GPG Public key
 ## Kayou
 SSH
 ```
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDaC4fbe0lxQt5G30x1fFmA1+/MWMNY35i//MvjQwzLZoH6JxutghcmmjgfDLDwc6TsRy25stKXtw1As06to9WIrAyjGWC6hEiYPrdBTICgYoLJpjy2ozQGT5JeHR6Bg/vcrESrop7GJIJnS1dfJ0rEisuPOCAcS8DrVPehpWXw+v1EPDkwtmJo+MXK0mfs5NXgMQ+nrKVZBizMal2NS8BgSkWnX1jsVx2paaL/PJh5oL231Szhqq9wdogrnJmeg+f47A93wX0E7ZkQcVnEymA3u3mYyApc3noo6RdfJ0I9l3SoKFaDQaNoQGbVcFJwkFexS1NxQYNNiTY2ulGEp8ZN kayou@kayou-pc
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICEmMpUKk04G7300BLhaaPMf8Dfa+LA7XV0Nq+diaV5B pierre@kayou.io
 ```
 
 GPG Fingerprint
