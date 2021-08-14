@@ -5,11 +5,11 @@ Because great powers imply great responsibilities, I commit myself as YunoHost a
 ## Security
 The reliability and security of the project's services is the responsibility of everybody. Below are some rules meant to prevent security breaches / leaks on the infrastructure:
 
- * do not save project password in a non-free browser or without master password;
- * do not use ssh keys without passwords to access the infrastructure (except for exceptions discussed collectively);
- * get into the habit of locking your machines where the keys are located when you leave them;
- * do not let people without access, plant third party devices in your machine(s);
- * encrypt the machines used to access the infra ;
+ * never save project passwords in a non-free browser or without a master password;
+ * always protect personal private SSH keys with strong passwords;
+ * always lock machines where keys are located before leaving them unattended;
+ * always encrypt personal machines where personal SSH keys are stored;
+  * never let any random people plant third party devices in your machine(s);
 
 
 ## Ethics / practice
