@@ -16,7 +16,7 @@ The reliability and security of the project's services is the responsibility of 
 
  * do not give yourself access by escalation of privileges and ensure that the YunoHost infrastructure administration team remains in possession of its accesses;
  * verify the effectiveness of backups and rescue means before performing risky maintenance;
- * respects privacy of our users and limit to the maximum the display of private information during debugging ;
+ * respects project users' privacy and limit to the maximum the display of private information during debugging ;
  * in case of legal requests, do not act without consulting other contributors ;
 
 
