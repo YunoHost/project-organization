@@ -3,7 +3,7 @@
 Because great powers imply great responsibilities, I commit myself as YunoHost adminsys to respect these points:
 
 ## Security
-The reliability and security of our services is the responsibility of all, below are some rules to follow to avoid becoming an attack vector of the YunoHost infra :
+The reliability and security of the project's services is the responsibility of everybody. Below are some rules meant to prevent security breaches / leaks on the infrastructure:
 
  * do not save project password in a non-free browser or without master password;
  * do not use ssh keys without passwords to access the infrastructure (except for exceptions discussed collectively);
