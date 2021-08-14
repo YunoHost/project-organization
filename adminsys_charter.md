@@ -26,4 +26,4 @@ In order to ensure the resilience of the deployed infrastructure, everyone agree
 
  * report to other adminsys the operations performed on the infrastructure
  * produce documentation on their infrastructure and services;
- * create an announcement on the forum to announce any maintenance or breakdown.
+ * create an announcement on the forum to announce any important maintenance or outage.
