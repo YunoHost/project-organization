@@ -9,7 +9,7 @@ The reliability and security of the project's services is the responsibility of 
  * always protect personal private SSH keys with strong passwords;
  * always lock machines where keys are located before leaving them unattended;
  * always encrypt personal machines where personal SSH keys are stored;
-  * never let any random people plant third party devices in your machine(s);
+ * never let any random people plant third party devices in your machine(s);
 
 
 ## Ethics / practice
