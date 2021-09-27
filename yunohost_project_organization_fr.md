@@ -1,314 +1,132 @@
-# Organisation du projet YunoHost
+# Objectif du document
 
-## Objectif du document
-Ce document a pour objectif de permettre aux contributeurs de se sentir légitimes d’effectuer une contribution dans le projet YunoHost avec un avis collectif. Il vise également à renforcer le projet en le structurant autour de groupes de travail autonomes pouvant résister au départ ou à l'absence de certains contributeurs.
-Le projet étant communautaire, les décisions prises hâtivement et discrètement par un groupe restreint de contributeurs peuvent entraîner des frustrations postérieures.
-Pour pallier ce problème, la solution proposée ici est de faire en sorte que les décisions soient prises collectivement, qu’elles soient suffisamment réfléchies, et qu'elles soient documentées ou rendues publiques.
-Un conseil oriente l’évolution du projet YunoHost, et des groupes d’intérêts permettent de contribuer plus efficacement en fonction des domaines de prédilection de chacun.
+Ce document a pour objectif de décrire la structure et le fonctionnement du collectif qui assure le développement et la maintenance du projet YunoHost.
 
-## Définition de YunoHost
+En particulier, en accord avec les valeurs portées par le projet, il est important de :
+- maintenir une transparence sur le fonctionnement du collectif et les valeurs du projet
+- d'expliciter le caractère ouvert du projet et qu'ainsi les personnes extérieures se sentent légitime à contriuer au projet, en rejoignant ou non le collectif
+- permettre aux membres du collectif de se sentir légitime à discuter, contribuer et acter des décisions
+- assurer la pérennité du projet en partageant les connaissances et responsabilités, et en limitant le "bus factor"
+- limiter les asymétries de pouvoir
+- avoir un mécanisme de prise de décision formel, par exemple pour résoudre un conflit, ou pour faire évoluer le collectif ou le projet.
 
-###  Objectifs
-Le but de YunoHost est de rendre accessibles au plus grand nombre l’installation et l’administration d’un serveur, sans délaisser la qualité et la fiabilité du logiciel.
 
-###  Valeurs
+# Intention du projet YunoHost
 
-#### Un logiciel libre et communautaire
+Dans un contexte où l'évolution des outils technologiques posent des enjeux sociétaux majeurs, YunoHost défend un Internet décentralisé et où les personnes restent au contrôle de leurs données et de leurs outils numériques. L'une des pières angulaire de la construction d'un tel Internet est de drastiquement simplifier, rendre accessible et démocratiser la gestion des serveurs, là où cette pratique est traditionellement réservée à une élite technicienne.
 
-YunoHost est un logiciel sous licence libre, entièrement communautaire, et reposant sur des applications elles-mêmes communautaires et souvent libres (roundcube, baikal, etc...).
+Ainsi, l'objectif du projet YunoHost est de construire un système d'exploitation et l'ensemble des outils nécessaires pour installer et gérer, en autonomie et sans trop de compétences techniques, un serveur et des services numériques dans un contexte privé (famille, groupe d'ami, ...) ou collectif (association, entreprise, école, ...).
 
+Le collectif YunoHost est proche d'autres collectifs aux objectifs connexes tels que la FFDN, Framasoft, CHATONS, ou La Quadrature du Net. Le collectif est également sensible aux enjeux d'écologie, d'inclusivité.
 
-#### Que chacun peut s'approprier
+## Esprit et valeurs du projet
 
-Historiquement, le projet est très proche des initiatives visant à la création d'un internet neutre et décentralisé. Cette proximité, notamment avec la [FFDN](https://www.ffdn.org/), a amené une partie des contributeurs de YunoHost à créer la Brique Internet dont la mission est de faciliter l'auto-hébergement en fournissant une solution complète incluant service (via un VPN) et matériel. Cet aspect militant n'entrave pas des initiatives commerciales du logiciel pour lequel des entreprises pourraient proposer du support ou de l'hébergement.
+0. **Commun numérique** : Tous les éléments logiciels conçus par le projet YunoHost sont sous licence libre et le restera. YunoHost est développé et maintenu par une communauté bénévole, ouverte, horizontale, et qui fait de son mieux en fonction du temps, des moyens et de l'énergie dont elle dispose.
 
+1. **Accessibilité** : La conception de YunoHost s'articule en priorité autour des personnes ayant peu de connaissances techniques, avec des procédures, des interfaces et des documentations simples et pédagogiques.
 
-## Organisation de YunoHost
+2. **Sécurité** : YunoHost doit fournir un système raisonnablement maintenu à jour et raisonnablement sécurisé par défaut, et à guider les utilisateurices sur comment renforcer la sécurité de leur système. 
 
-### Une structure ouverte, organisée par thèmes
-L'objectif de l'organisation de YunoHost est de permettre au plus grand nombre de contribuer à l'amélioration du logiciel, que ce soit d'un point de vue technique (développement, packaging d'application) ou non (communication, assistance aux utilisateurs, documentation, etc.). Inspiré par différents projets passés en revue lors de l'événement (Kodi, Debian, Django, Fedora, Wikipédia, etc.) et des idées de contributeur de YunoHost (Jérôme, Bram, opi, scith, ju), il a été décidé d'une organisation en groupes spécialisés, fédérés par un conseil de contributeurs clés.
+3. **Bidouillabilité** : YunoHost doit permettre aux utilisateurices de s'approprier et modifier leur installation pour l'adapter à des besoins ou cas d'usages spécifiques ou qui ne sont pas encore bien gérés, ou pour personnaliser l'apparence.
 
-Schéma d’organisation du projet YunoHost :
+# Organisation de YunoHost
 
-<img src="https://raw.githubusercontent.com/YunoHost/yunohost-project-organization/master/organization_schema.png" height="600px" />
+YunoHost est développé et maintenu par une communauté bénévole, ouverte, horizontale.
 
+Cette communauté est composée de : 
 
-#### Définition et constitution des groupes
+- les utilisateurices du projet
+- les contributeurices occasionels
+- les contributeurices réguliers
 
-La constitution de groupes part du constat que YunoHost compte beaucoup de sous-projets (treize au total), mais que l'on ne sait pas toujours qui en est en charge ou qui y est compétent. Il est donc proposé une simplification de l'organisation des sous-projets en groupes thématiques :
+La communauté organise à interval régulier des réunions de coordination en ligne, qui sont publiquement annoncée et à laquelle n'importe quelle personne peut se joindre. <small>(Plus précisément, à l'heure de l'écriture de ce document, ces réunions ont lieu les 1er et 3ème mardi de chaque mois sur Mumble, et sont annoncées sur le forum.)</small> Le compte rendu de ces réunions est également rendu public.
 
-##### Groupe Core
+## Les utilisateurices
 
-- Core YunoHost
-- Moulinette
-- Webadmin
-- SSOwat
-- Dynette
-- YNH-Dev
+Il s'agit des personnes qui utilisent YunoHost dans leur vie quotidienne, demandent de l'aide, rapportent des bugs et font des retours d'expérience.
 
-##### Groupe Apps
+La communauté est consciente de l'importance de demander et de prendre en compte les retours d'expérience et les cas d'utilisation des utilisateurices dans l'évolution du projet.
 
-- Apps Officielles
-- Apps Communautaires
-- Maintien du repo YunoHost/Apps (et notamment de les listes official.json et community.json)
-- Outils de développements et tests d'application (package check, package linter, continous integration)
+## Les contributeurices occasionels (OC)
 
-Un sous-groupe du groupe Apps est dédié à la maintenance des apps officielles
+Il s'agit des personnes qui contribuent ponctuellement au projet. Toute personne le souhaitant est, sans accord prélable, bienvenue et légitime à contribuer au projet (sous couvert de ne pas aller à l'encontre des valeurs portées par le projet).
 
-##### Groupe Infra/Adminsys
+La communauté met à disposition autant que possible de la documentation et des outils pour guider les nouvelles contributeurices dans leurs premières contributions dans esprit de bienveillance.
 
-Deploie, administre, maintien et sauvegarde les différents éléments d'infrastructure et services associés
+Les contributions se concrétisent souvent la forme de Pull Request (PR) (par ex. sur le core, sur les apps, sur la doc, ...) mais peuvent aussi consistuer en des traductions, des éléments graphiques, des audits de sécurité, etc...
 
-- Administration "bas-niveau" (serveurs, conteneurs, configuration réseau, stack mail, stack xmpp, ...)
-- Services "techniques" (ip, ports, dynette, paste, dash, ...)
-- Services pour les utilisateurs et la communication (simone, forum, chatrooms, mumble, demo, ...)
-- ...
+Sauf exception, les contributeurices occasionels peuvent aider aux revues, mais n'actent pas elleux-même l'intégration de leurs travaux dans le projet. Iels n'ont également pas non plus de droit de vote lors des prises de décisions formelles. Iels sont cependant les bienvenues pour exprimer leur avis si iels le souhaitent.
 
-##### Groupe Distribution
+## Les contributeurices réguliers (RC)
 
-- Création et maintenance des images d'installation sur diverses architectures
-- Distribution des images
-- Gestion de la distribution des paquets Debian.
+Il s'agit des personnes qui contribuent régulièrement au projet sous la forme de travaux, assurent la revue et actent l'intégration des travaux d'autres contributeurices, ainsi que la maintenance à court et long terme du projet dans son ensemble.
 
-##### Groupe Support et documentation
+Les contributeurices réguliers sont organisées en groupes de travail : 
 
-- Entraide et support sur le forum et le salon
-- Maintenance et mise à jour de la documentation
-- Organisation du forum et du salon de support
+- **Groupe Core**: travaille sur la partie "système central" du projet (principalement les dépôts YunoHost, YunoHost-Admin, Moulinette, SSOwat), ainsi que des outils de distribution (paquets .deb, images préinstallées), de développement (ynh-dev).
+- **Groupe Apps**: se concentre sur le packaging de nouvelles application et assurent collectivement la maintenance de l'écosystème d'applications existants, ainsi que le l'indexation dans le catalogue, la définition des bonnes pratiques de packaging, et des outils et métriques de contrôle qualité.
+- **Groupe Infra**: déploie, administre, maintien et sauvegarde les différents services dont a besoin le projet (documentation, forum, chatrooms, demo, paste, stack mail, CI, diagnostique, dynette, dashboard, ...)
+- **Groupe support / doc / comm**: anime l'entraide sur le forum et le chat de support, assure la maintenance et mise à jour de la doc, communique sur les évolutions du projet sur le forum, les réseaux sociaux, ou en conférence.
 
-##### Groupe Communication
+Les connexions étant multiples entre ces différentes thématiques, il n'est pas rare qu'une personne soit membre de plusieurs de ces groupes. Néanmoins il est nécessaire et suffisant d'être membre d'un de ces groupe pour obtenir la qualité de contributeurice régulier.
 
-- Annonce d'évolutions du projet sur le forum
-- Interaction avec la communauté sur les réseaux sociaux
-- Communication sur le projet sur d'autres sites externes au projet, ou en conférence
+N'importe quelle personne ayant déjà contribué au moins une fois au projet peut demander le statut de contributeurices régulier. Cette demande est ensuite sujette à un vote d'acceptation par l'ensemble des autres contributeurices réguliers.
 
-##### Groupe Traduction
+Le fait d'être membre d'un groupe ouvre le droit à certains droits d'administration détaillés dans l'annexe A, typiquement le droit de valider et d'intégrer ses propres travaux ou les travaux d'autres contributeurices. Il convient de faire un bon usage de ces droits tels que décrit dans la section suivante. Être contributeurices réguliers permet également de proposer un vote lorsqu'il est nécessaire d'acter formellement une décision pour le projet.
 
-- Maintenance des traductions en différentes langues
-- Interaction avec les autres groupes pour l'intégration des traductions et la maintenance des outils associé
+Il est attendu des contributeurices réguliers de se coordonner régulièrement avec le reste de l'équipe, par exemple en participant aux réunions ou bien via le chat et le forum.
 
+La perte de la qualité de membre d'un groupe s'opère par départ volontaire de la personne, ou suite à un vote de radiation pour inactivité, non-respect des chartes ou des valeurs du projet, ou abus des droits d'administration.
 
-Les groupes sont ouverts à tous les contributeurs souhaitant participer au développement de YunoHost. Chacun peut s'inscrire aux canaux de communication associés aux groupes auxquels il souhaite prendre part. Chaque inscrit est libre d'échanger avec le reste du groupe et de proposer une prise de décision à la suite d'une étape d'échange et d'amélioration de la proposition. Il est recommandé aux contributeurs de documenter au maximum leurs décisions et leurs contributions. Ceci permet de renforcer l'autonomie des groupes en cas de départs ou d'absences de certains de leurs membres.
-Afin de faciliter sa gestion, chaque groupe nomme donc un coordinateur (et un remplaçant) dont le rôle est :  
 
-- d'accueillir et de fédérer les nouveaux contributeurs réguliers de son groupe
-- de tenir informé le Conseil des décisions prises au sein du groupe (cf. point suivant)
+# Validation et d'intégration des PR
 
-Le choix d'un outil de communication est laissé à chaque groupe en fonction de sa pertinence (forum, chat, ML, etc.).
+De par la nature du projet, les contributions se concrétisent principalement sous la forme de "demandes d'intégration" (en anglais Pull Request (PR) ou Merge Request (MR)). La réalisation, la revue, et la validation collective des PR sont des enjeux importants, puisqu'ils s'agit précisément de ce qui rends le projet vivant d'un point de vue purement technique.
 
-#### Définition et constitution du Conseil
+Derrière chaque demande d'intégration peut se cacher des problématiques humaines et techniques variées parmis lesquelles la stabilité (ne pas tout casser à cause d'une ramification imprévue), la sécurité (ne pas introduire de faille ou de code malveillant), la pérennité (limiter le bus factor et la dette technique), la pramaticité ("good enough"), l'accord avec l'esprit du projet (UX, ..), l'évolution sur le court et long terme. Le processus de revue et de validation d'une PR est lui en aussi en soi un exercice compliqué dans la mesure où il est couteux en temps, et où peut être source de tension ou de frustration. L'un des freins à la validation d'une PR est aussi souvent lié à un sentiment de manque de légitimité à acter l'intégration d'une PR, ou à l'impact psychologique d'être la personne qui a acté l'intégration d'une PR.
 
-YunoHost grandissant, il est important de maintenir une cohérence entre tous les groupes, néanmoins il est impossible d'imposer à chacun des membres des groupes de s'intéresser ou de s'impliquer sur tous les aspects du projet (pour des raisons de temps et de compétences). Pour pallier à cela, il est proposé de créer un meta-groupe, où chaque groupe sera représenté par au moins un de ses membres : le Conseil.
-Le Conseil est indépendant des groupes et réunit les contributeurs souhaitant s'impliquer le plus dans le projet, son rôle est de :
+Un enjeu crucial de l'organisation du projet est donc de trouver un ensemble de règles et de bonne pratiques qui permettent un fonctionnement fluide, équilibré, avec une validation autant que possible au consensus, et qui répartisse la responsabilité sur le collectif plutôt que les individus.
 
-- prendre les décisions importantes sur YunoHost qui ne dépendent pas d'un seul groupe (par exemple changer le moteur du wiki)
-- faire des points réguliers sur l'ensemble du projet pour assurer sa cohésion. (réunion Mumble)
-- solliciter l'ensemble de la communauté des contributeurs (ou même des utilisateurs) quand une décision divise les groupes et/ou le Conseil
+## Bonnes pratiques et recommendations
 
-Le choix d'un outil de communication est laissé au Conseil, ses décisions doivent néanmoins être consultables par l'ensemble de la communauté de contributeurs.
-Pour participer aux votes du Conseil, il faut avoir contribué au projet et avoir obtenu un droit de vote (ou d'entrée) au sein du Conseil. Ce droit est délivré par le Conseil (éventuellement sur demande). Le Conseil est libre à tout moment de modifier le processus de décision.
-Être membre du Conseil n'implique pas forcément d'avoir l'ensemble des accès (infrastructure, dépôt etc...).
+- Lorsque un travail a des implications importantes (ou pour les contributeurs occasionels), il est fortement encouragé de discuter en amont avec le reste de l'équipe pour s'assurer que l'implémentation imaginée convienne avec l'esprit du projet et avec les autres travaux de l'équipe.
+- Décrire correctement sa PR et le problème auquel elle réponds (et le cas échéant, les détails techniques nécessaires pour tester)
+- Veiller à corriger les problèmes remontés par les outils de tests automatique (CI)
 
-### Processus de validation des pull requests
+## Processus de validation
 
-Cette section détaille le processus de validation des pull requests dans les différents dépôts du projet. L'objectif de ce processus est de dégager un « consensus mou ». Il est important de préciser que ce processus est *recommandé* mais ne représente pas un impératif. En particulier, il ne couvre pas toutes les situations qui peuvent se présenter. Il est donc légitime de l'adapter (avec l'accord du groupe concerné) lorsqu'il n'est pas adapté au contexte.
+Cette section détaille le processus de validation des pull requests dans les différents dépôts du projet. L'objectif de ce processus est de dégager un « consensus mou ».
 
-Si un consensus ne peut être trouvé au sein d'un groupe en suivant le processus décrit, il est invité à se tourner vers le Conseil pour en débattre. Si aucun consensus n'est trouvé, la proposition sera soumise au vote de tous les contributeurs.
+Les contributeurices ont la responsabilité individuelle et collective de jauger de l'importance d'une PR pour définir à quel point elle doit faire l'objet d'une validation légère ou approfondie par d'autres membres du groupe.
 
-#### 1. Proposition
+- Les PR "micro": il s'agit d'une correction typographique, d'un correctif pour un bug évident ... Ces PR peuvent être intégrées par son auteur sans validation explicite par un autre membre du groupe.
+- Les PR "moyennes": il s'agit d'opération de maintenance (par ex. mise à jour d'une application, nettoyage/refactoring mineur, ajout d'une petite fonctionnalité, ...). Il est généralement mieux d'obtenir une validation d'un autre membre du groupe.
+- Les PR "gros chantier" : il s'agit de nouvelle fonctionnalité ou de refactoring importants, ayant des conséquences majeures pour le futur du projet ou de l'app. Il est alors fortement conseillé d'obtenir une validation approfondie par au moins un autre membre du groupe, et un accord de principe des autres membres.
 
-N'importe quel contributeur peut proposer une pull request (abrégée PR dans la suite) dans les divers dépôts liés au projet YunoHost (core, apps, infra, ...).
+Les autres contributeurices peuvent librement prendre part à la revue d'une PR. L'auteur d'une PR peut également soliciter ou rappeler aux autres contributeurices que sa PR est en attente d'une revue. Au bout d'un certain délai, si il s'avère qu'aucune contributeurice n'a de temps ou d'énergie disponible pour participer à la revue d'une PR, alors elle peut tout de même être mergée par son auteur.
 
-L'auteur est vivement encouragé à décrire sa proposition en donnant le maximum  des informations
-pertinentes. Le groupe peut, à cette fin, proposer un modèle des informations à
-inclure, comme par exemple :
-- status actuel de la PR (ex. : non terminé, en attente de revues, choix techniques à faire...)
-- problème auquel réponds la PR (et références liées, par ex. : ticket sur le bugtracker, post sur le forum...)
-- solution, stratégie, résumé des changements, et/ou choix techniques utilisés dans la PR
-- comment tester la PR
+Si un désaccord émerge pendant ou après la validation d'une PR, une discussion cordiale doit être privilégiée avec le reste de l'équipe dans le but de dégager un consensus sur la marche à suivre. Si aucun consensus n'est trouvé, un vote est organisé pour prendre une décision, auquel peuvent prendre part toutes les contributeurices régulier du projet.
 
-L'auteur est vivement encouragé à respecter les bonnes pratiques suivantes :
-- une PR doit concerner exclusivement un sujet précis. Par exemple, elle ne doit pas à la fois résoudre un bug et ajouter une fonctionnalité (à moins que l'un implique l'autre) ;
-- avant de débuter l'implémentation d'une fonctionnalité qui fait intervenir des choix de conception (nom et format de commande ou d'option, nouvelle API, interface utilisateur, ...), discuter en amont de manière informelle avec le groupe pour s'assurer que l'implémentation imaginée convienne au plus grand nombre et reste dans l'esprit du projet ;
-- nommer sa PR avec un titre explicite, et la branche associée avec un nom explicite ;
-- donner les références vers d'autres éléments liés à la PR (rapport de bug sur le bugtracker, message sur le forum, ...)
+# Prises de décision collective
 
-Une PR peut être créée même si son auteur juge qu'elle n'est pas encore terminée. Dans ce cas, il doit déclarer explicitement dans le fil de discussion de la PR lorsqu'il juge la PR prête. Cela n'empêche pas les autres contributeurs d'émettre des avis sur la PR pendant ce temps.
+Lorsque les contributeurices régulier ont besoin de prendre une décision formelle sur relative au projet ("résolution"), ou pour résoudre un conflit après qu'une recherche de consensus ait échouée, n'importe quel contributeurices régulier peut déclencher un processus de vote formel. Toutes les contributeurices régulier peuvent prendre part à ce vote.
 
-Il appartient aussi à l'auteur de la PR de juger de son importance. (Ce jugement pourra cependant être contesté par les autres membres du groupe concerné par la PR.) Les niveaux d'importance utilisés sont les suivants :
-- **micro** : concerne uniquement un détail de forme et/ou qui ne nécessite pas d'être débattue et testée. Elle doit être facilement réversible.
-- **mineure** : impacte de manière légère le projet (e.g. refactoring d'une petite partie de code, réparation d'un bug, ...)
-- **moyenne** : impacte de manière significative l'architecture d'une partie du code (e.g. refactoring de tout un aspect ou de tout un fichier, ajout d'une fonctionnalité importante, sortie d'une version testing, ...)
-- **majeure** : impacte lourdement l'ensemble du projet (e.g. migration d'une dépendance critique, changement de version de Debian, sortie d'une version stable,  ...)
+# Annexe A. Droits d’administration afférents aux groupes
 
+Copypasta
 
-#### 2. Revue et validation collective
+# Annexe B. Composition des différents groupes
 
-(Cette section ne s'applique pas aux PR "micro" qui peuvent être validées directement par leur auteur.)
+Dernière mise à jour le ... 
 
-Une fois la PR déclarée comme terminée, les contributeurs sont invités à donner leurs avis, relire et tester les changements proposés pour les valider. Lorsque des bugs ou des implémentations mauvaises ou incomplètes sont trouvées, les relecteurs rapportent cordialement le problème à l'auteur de la PR sur le fil de discussion. Si le problème trouvé est simple à corriger (e.g. typo ou détail de forme), le relecteur est encouragé à amender la PR pour corriger le problème lui-même. Sinon, l'auteur fait de son mieux pour corriger les problèmes soulevés.
+- **Core**
+- **Apps**
+- **Infra**
+- **Support/doc/comm**
 
-Les relecteurs rapportent également le degré de relecture et de tests effectués (c.f. liste ci-dessous). Selon l'importance de la PR (mineure, moyenne ou majeure), différents quotas de tests et approbations sont à remplir pour que celle-ci soit validée. Les relecteurs peuvent valider une fois chaque type de relecture/test nécessaire (par exemple, un relecteur peut donner un point d'accord sur le principe, un autre point de relecture en diagonale, et un autre point de test dans des cas simples.). L'auteur de la PR ne compte pas dans ces quotas de validation. La proposition doit aussi passer les tests automatiques disponibles dans le groupe (CI, tests unitaires/fonctionnels, linter, ...).  
+# Annexe C. Résolutions
 
-|                                   | **Mineure** | **Moyenne**  | **Majeure** |
-|-----------------------------------|-------------|--------------|-------------|
-| **Accord sur le principe**        |     2       |     3        |    4        |
-| **Relecture en diagonale**        |     1       |     2        |    3        |
-| **Testé dans les cas simples**    |     1       |     2        |    3        |
-| **Relecture attentive**           |     0       |     1        |    2        |
-| **Testé dans des cas compliqués** |     0       |     1        |    2        |
-
-Si l'auteur ne fait pas parti du groupe concerné par la PR, tous ces quotas sont augmentés de 1. Dans tous les cas, ces quotas doivent être remplis au moins à 50% par des relecteurs membres du groupe concerné par la PR. (Ainsi, par exemple, un non-membre peut donner son accord sur le principe pour une PR mineure. Mais deux avis de non-membres pour une PR moyenne comptent uniquement pour un seul avis).
-
-
-#### 3. Merge d'une pull request
-
-Une fois les quotas de relecture remplis, et si aucun refus n'a été prononcé et qu'aucune demande de changement n'est en attente, n'importe quel membre du groupe peut alors déclarer et marquer la PR comme "prête à être mergée".
-
-Pendant une durée de 3 jours suivant cette déclaration, les membres du groupe peuvent encore relire, demander des changements ou émettre un refus vis-à-vis de la PR. Dans ce cas, le merge est interrompu et le processus retourne à la partie 2). Pour les PRs moyennes et majeures, la durée est augmentée jusqu'à ce qu'il se soit écoulé au moins une semaine par rapport au moment où la PR a été déclarée comme prête par son auteur.
-
-À l'issue de cette durée, n'importe quel membre du groupe peut merger la PR. Lorsque celle-ci comporte plusieurs commits, il est recommandé d'utiliser la fonction "squash and merge" pour garder l'historique de commit propre.
-
-#### Cas particuliers
-
-Plusieurs cas particuliers peuvent se présenter et dont la résolution est décrite ci-après.
-
-##### Refus d'une PR
-
-Une PR peut être refusée et clôturée par n'importe quel membre du groupe concerné si :
-- la PR a été créée au moins depuis deux semaines
-- au moins deux membres du groupe ont manifesté un désaccord avec le principe de la PR
-- aucun autre membre du groupe n'a manifesté son accord avec le principe de la PR
-
-
-##### Co-création
-
-Une PR peut être développée par plusieurs personnes. Chacun est invité à y faire des commits en se concertant avec l'auteur initial ou le nouveau gestionnaire de PR si l'auteur est indisponible, manque de temps ou souhaite se consacrer à d'autres travaux. 
-
-Si ces commits sont conséquents, dans ce cas on peut prendre **partiellement** en compte l'avis des auteurs dans les quotas de relectures et de tests. 
-
-Exemple: si une PR est écrite par A et B (50/50), A et B pourront relire le code de l'autre. Dans ce cas, on pourra par exemple compter une relecture pour ces 2 relectures partielles.
-
-
-##### Validation "allégé" en cas de manque de relecteurs
-
-En cas de manque de relecteurs, l'auteur d'une PR peut déclencher une procédure de validation alternative si : 
-- l'auteur est membre du groupe concerné par la PR
-- il s'agit d'une PR mineure ou moyenne
-- la PR a été déclarée comme prête
-- il n'y a pas de demande de changement en attente
-- les quotas de relecture "standards" n'ont pas été remplis
-- une semaine s'est écoulée depuis le dernier commentaire ou commit
-
-Dans ce cas, l'auteur annonce sur le fil de discussion de la PR qu'il souhaite engager cette prodécure ainsi que sur la liste de diffusion (ou lors d'une réunion du mardi). À partir de ce moment, les quotas d'accord, relecture et tests pour valider cette PR sont diminués de 1. Au minimum une semaine devra s'écouler avant que cette PR ne soit effectivement mergée. Un autre membre du groupe peut à tout moment mettre fin à cette procédure si il juge la PR trop critique pour être mergée de la sorte.
-
-
-## Composition des groupes
-
-- Conseil : Bram, ljf, Maniack, Moul, Aleks, frju365, Josue, JimboJoe, Kayou, yalh76
-- Core : Aleks, Bram, ljf, JimboJoe, Josue, decentral1se, Kayou
-- Apps : Maniack, frju365, JimboJoe, Josue, ljf, Kayou, yalh76, ericg, tituspijean
-- Infra : Bram, ljf, Aleks, Maniack
-- Support & Doc : Aleks, ljf, frju365, ppr
-- Distribution : Aleks
-- Communication : Aleks, frju365, Bram
-- Translation : Quent-i
-
-
-## Droits d’administration afférents aux groupes
-Cette partie liste les kits de droits d’administration pour les différents groupes du projet YunoHost :
-
-(Attention, il ne s’agit pas des droits de prises de décisions dans ce cas).
-
-### Conseil
-- Aucun droits d’administration. Les droits sont complétés avec le fait d’être présents dans les autres groupes,
-- Forum : membre du [groupe `Conseil`](https://forum.yunohost.org/groups/Conseil).
-
-### Dev
-- GitHub : membre de l’[équipe `Devs` de l’organisation `YunoHost`](https://github.com/orgs/YunoHost/teams/devs),
-- Redmine : membre des projets [`YunoHost`](https://dev.yunohost.org/projects/yunohost) et [`Moulinette`](https://dev.yunohost.org/projects/moulinette),
-- Intégration continue : droits sur les outils d’intégrations continue CI-core,
-- XMPP : modérateur du salon [`dev`](xmpp:dev@conference.yunohost.org?join),
-- Forum : membre du [groupe `Dev`](https://forum.yunohost.org/groups/Dev).
-
-### Infra
-- Serveurs : accès SSH par clé sur certains (selon les besoins) ou sur la totalité des serveurs,
-- GitHub : membre de l’[équipe `Infra` de l’organisation `YunoHost`](https://github.com/orgs/YunoHost/teams/infra),
-- Redmine: membre du [projet `Infra`](https://dev.yunohost.org/projects/y-u-no-infra/),
-- Forum, Weblate, Redmine, XMPP, CI: administrateur,
-- Forum : membre du [groupe `Infra`](https://forum.yunohost.org/groups/Infra).
-
-### Apps
-- GitHub : propriétaire (Owner) [de l’organisation YunoHost-Apps](https://github.com/orgs/YunoHost-Apps/people?utf8=%E2%9C%93&query=%20role%3Aowner),
-- Redmine : membre du [projet `Apps`](https://dev.yunohost.org/projects/apps),
-- GitHub : membre de l’[équipe `Apps` de l’organisation `YunoHost`](https://github.com/orgs/YunoHost/teams/apps),
-- Intégration continue : accès à [CI-Apps](https://ci-apps.yunohost.org),
-- XMPP : modérateur sur le [salon `Apps`](xmpp:apps@conference.yunohost.org?join),
-- Forum : membre du [groupe `Apps`](https://forum.yunohost.org/groups/Apps).
-
-### Support & Doc
-- GitHub : membre de l’[équipe `Doc` de l’organisation `YunoHost`](https://github.com/orgs/YunoHost/teams/doc).
-- Forum : statut de modérateur, membre du [groupe `Support & Doc`](https://forum.yunohost.org/groups/Support_Doc), possibilité d'avoir le badge du groupe visible à côté de l'avatar.
-- XMPP : statut de modérateur sur le salon [`support`](xmpp:support@conference.yunohost.org?join).
-
-### Communication
-- Diaspora* : accès au compte [YunoHost](https://framasphere.org/people/01868d20330c013459cf2a0000053625),
-- Twitter : accès au compte [YunoHost](https://twitter.com/yunohost),
-- Forum : accès au compte [`YunoHost`](https://forum.yunohost.org/users/yunohost/activity), membre du [groupe `Communication`](https://forum.yunohost.org/groups/Communication)
-- Github : Membre de l'[équipe `Doc` de l’organisation `YunoHost`](https://github.com/orgs/YunoHost/teams/doc) avec droit d'écriture sur les slides des conférences.
-
-### Traduction
-- Weblate : administrateur sur l’[outil de traduction](https://translate.yunohost.org/projects/yunohost/).
-- Forum : membre du [groupe `Traduction`](https://forum.yunohost.org/groups/Traduction).
-
-### Distribution
-- GitHub : membre de l’[équipe `Distrib` de l’organisation `YunoHost`](https://github.com/orgs/YunoHost/teams/distribution),
-- Information : la diffusion des images (ISO…) doit se faire en collaboration avec le groupe `Infra` (et `Doc`),
-- Publication : un accès SFTP peut être mis en place,
-- Forum : membre du [groupe `Distribution`](https://forum.yunohost.org/groups/Distribution).
-
-## Décisions à venir pour les groupes
-### Conseil
-- Faut-il élire les membres du Conseil plutôt que de les coopter ? Risque de se transformer en "campagne politique"!
-- Faut-il limiter l'ouverture des groupes d'intérêts par cooptation comme pour le Conseil ?
-- Proposition de changer Conseil en Collégiale
-- Migrer le serveur d’infrastructure du projet sous YunoHost. (avec apps déjà packagées pad, gogs, mumble?)
-- Nouveau système pour la documentation
-- Amélioration de la documentation
-- Migration du serveur XMPP
-- Hébergement de notre forge git
-- Revoir système de build : stable <— testing <— branches
-- Gel de nohost.me et question de l'abandon des services
-
-### Groupe Dev
- - Comment gérer les pull request ?
-   - Chaque ticket fait l'objet d'une branche et d'un ticket, tu fais une pull/merge request, la communauté vérifie que ça fonctionne, une décision est prise d'intégrer.
-
-### Groupe Apps
- -  Pour les apps communautaires, les issues sont bien sur Github, les discussions sur le forum
-
-### Groupe Communication
-- Rapport de bug à partir du forum
-- Faire en sorte de nettoyer le forum pour éviter le bruit
-- Proposition de supprimer le salon de support
-- Comment rendre le forum plus actif et central
-- Comment s'organiser pour les privilèges sur le forum (si les groupes veulent voter sur le forum)
-
-### Autres
-- Demande sur le forum avec notification des membres du Conseil et des représentants des groupes d’intérêts concernés.
-- Vote sur deux semaines par un post sur le forum
-- Créer quatre canaux pour le Dev, les Apps, la Communication et l'Infrastructure
-- La release devrait être validée par l'ensemble des 4 (ou 5) groupes d’intérêts
-- Communication en français et en anglais
-- Annuaire ou contact des groupes pour les nouveaux arrivants. Voir peut-être annuaire tout court pour savoir qui fait quoi. https://yunohost.org/#/contribs_fr à compléter. Et à mettre en avant.
-- Proposition de laisser les membres YunoHost s'auto déterminer -> Comment gérer les accès ?
-
-## Moyens de communication actuels
-
-- Rencontres à des évènements.
-- Réunions hebdomadaires Mumble.
-- [Forum](https://forum.yunohost.org).
-- Listes de diffusion : [contrib](https://list.yunohost.org/cgi-bin/mailman/listinfo/contrib) et [apps](https://list.yunohost.org/cgi-bin/mailman/listinfo/apps)
-- [Bugtracker Redmine](https://dev.yunohost.org).
-- Forge git pour la review de code : [YunoHost](https://github.com/YunoHost) [YunoHost-Apps](https://github.com/YunoHost-Apps).
-- [Salons discussions XMPP](https://yunohost.org/#/chat_rooms_fr)
+- Sur le fait que la vente commerciale de services liés à YunoHost, tels que la distribution, le support, ou l'infogérance, est autorisée.
+- Sur les bonnes pratiques de packaging d'app, en particulier de respecter la pratique commune définie dans example_ynh plutôt que de factoriser
+- Dates des réunions
+- Sur les critères d'intégration des apps dans le catalogue
