@@ -13,7 +13,7 @@ En particulier, en accord avec les valeurs portées par le projet, il est import
 
 # Intention du projet YunoHost
 
-Dans un contexte où l'évolution des outils technologiques posent des enjeux sociétaux majeurs, YunoHost défend un Internet décentralisé et où les personnes restent au contrôle de leurs données et de leurs outils numériques. L'une des pières angulaire de la construction d'un tel Internet est de drastiquement simplifier, rendre accessible et démocratiser la gestion des serveurs, là où cette pratique est traditionellement réservée à une élite technicienne.
+Dans un contexte où l'évolution des outils technologiques posent des enjeux sociétaux majeurs, YunoHost défend un Internet décentralisé et où les personnes restent au contrôle de leurs données et de leurs outils numériques. L'une des pierres angulaires de la construction d'un tel Internet est de drastiquement simplifier, rendre accessible et démocratiser la gestion des serveurs, là où cette pratique est traditionellement réservée à une élite technicienne.
 
 Ainsi, l'objectif du projet YunoHost est de construire un système d'exploitation et l'ensemble des outils nécessaires pour installer et gérer, en autonomie et sans trop de compétences techniques, un serveur et des services numériques dans un contexte privé (famille, groupe d'ami, ...) ou collectif (association, entreprise, école, ...).
 
