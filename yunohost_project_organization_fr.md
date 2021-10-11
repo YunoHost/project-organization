@@ -21,7 +21,7 @@ Le collectif YunoHost est proche d'autres collectifs aux objectifs connexes tels
 
 ## Esprit et valeurs du projet
 
-0. **Commun numérique** : Tous les éléments logiciels conçus par le projet YunoHost sont sous licence libre et le restera. YunoHost est développé et maintenu par une communauté bénévole, ouverte, horizontale, et qui fait de son mieux en fonction du temps, des moyens et de l'énergie dont elle dispose.
+0. **Commun numérique** : Tous les éléments logiciels conçus par le projet YunoHost sont sous licence libre et le restera. YunoHost est développé et maintenu essentiellement par le bénévolat d'une communauté ouverte, horizontale, et qui fait de son mieux en fonction du temps, des moyens et de l'énergie dont elle dispose.
 
 1. **Accessibilité** : La conception de YunoHost s'articule en priorité autour des personnes ayant peu de connaissances techniques, avec des procédures, des interfaces et des documentations simples et pédagogiques.
 
@@ -39,7 +39,7 @@ Cette communauté est composée de :
 - les contributeurices occasionels
 - les contributeurices réguliers
 
-La communauté organise à interval régulier des réunions de coordination en ligne, qui sont publiquement annoncée et à laquelle n'importe quelle personne peut se joindre. <small>(Plus précisément, à l'heure de l'écriture de ce document, ces réunions ont lieu les 1er et 3ème mardi de chaque mois sur Mumble, et sont annoncées sur le forum.)</small> Le compte rendu de ces réunions est également rendu public.
+La communauté organise à interval régulier des réunions de coordination en ligne, qui sont publiquement annoncées et à laquelle n'importe quelle personne peut se joindre. <small>(Plus précisément, à l'heure de l'écriture de ce document, ces réunions ont lieu les 1er et 3ème mardi de chaque mois sur Mumble, et sont annoncées sur le forum.)</small> Le compte rendu de ces réunions est également rendu public.
 
 ## Les utilisateurices
 
@@ -53,7 +53,7 @@ Il s'agit des personnes qui contribuent ponctuellement au projet. Toute personne
 
 La communauté met à disposition autant que possible de la documentation et des outils pour guider les nouvelles contributeurices dans leurs premières contributions dans esprit de bienveillance.
 
-Les contributions se concrétisent souvent la forme de Pull Request (PR) (par ex. sur le core, sur les apps, sur la doc, ...) mais peuvent aussi consistuer en des traductions, des éléments graphiques, des audits de sécurité, etc...
+Les contributions se concrétisent souvent la forme de Pull Request (PR) (par ex. sur le core, sur les apps, sur la doc, ...) mais peuvent aussi constituer en des traductions, des éléments graphiques, des audits de sécurité, etc...
 
 Sauf exception, les contributeurices occasionels peuvent aider aux revues, mais n'actent pas elleux-même l'intégration de leurs travaux dans le projet. Iels n'ont également pas non plus de droit de vote lors des prises de décisions formelles. Iels sont cependant les bienvenues pour exprimer leur avis si iels le souhaitent.
 
@@ -64,7 +64,7 @@ Il s'agit des personnes qui contribuent régulièrement au projet sous la forme 
 Les contributeurices réguliers sont organisées en groupes de travail : 
 
 - **Groupe Core**: travaille sur la partie "système central" du projet (principalement les dépôts YunoHost, YunoHost-Admin, Moulinette, SSOwat), ainsi que des outils de distribution (paquets .deb, images préinstallées), de développement (ynh-dev).
-- **Groupe Apps**: se concentre sur le packaging de nouvelles application et assurent collectivement la maintenance de l'écosystème d'applications existants, ainsi que le l'indexation dans le catalogue, la définition des bonnes pratiques de packaging, et des outils et métriques de contrôle qualité.
+- **Groupe Apps**: se concentre sur le packaging de nouvelles applications et assurent collectivement la maintenance de l'écosystème d'applications existants, ainsi que le l'indexation dans le catalogue, la définition des bonnes pratiques de packaging, et des outils et métriques de contrôle qualité.
 - **Groupe Infra**: déploie, administre, maintien et sauvegarde les différents services dont a besoin le projet (documentation, forum, chatrooms, demo, paste, stack mail, CI, diagnostique, dynette, dashboard, ...)
 - **Groupe support / doc / comm**: anime l'entraide sur le forum et le chat de support, assure la maintenance et mise à jour de la doc, communique sur les évolutions du projet sur le forum, les réseaux sociaux, ou en conférence.
 
@@ -101,15 +101,15 @@ Les contributeurices ont la responsabilité individuelle et collective de jauger
 
 - Les PR "micro": il s'agit d'une correction typographique, d'un correctif pour un bug évident ... Ces PR peuvent être intégrées par son auteur sans validation explicite par un autre membre du groupe.
 - Les PR "moyennes": il s'agit d'opération de maintenance (par ex. mise à jour d'une application, nettoyage/refactoring mineur, ajout d'une petite fonctionnalité, ...). Il est généralement mieux d'obtenir une validation d'un autre membre du groupe.
-- Les PR "gros chantier" : il s'agit de nouvelle fonctionnalité ou de refactoring importants, ayant des conséquences majeures pour le futur du projet ou de l'app. Il est alors fortement conseillé d'obtenir une validation approfondie par au moins un autre membre du groupe, et un accord de principe des autres membres.
+- Les PR "gros chantier" : il s'agit de nouvelles fonctionnalités ou de refactorings importants, ayant des conséquences majeures pour le futur du projet ou de l'app. Il est alors fortement conseillé d'obtenir une validation approfondie par au moins un autre membre du groupe, et un accord de principe des autres membres.
 
-Les autres contributeurices peuvent librement prendre part à la revue d'une PR. L'auteur d'une PR peut également soliciter ou rappeler aux autres contributeurices que sa PR est en attente d'une revue. Au bout d'un certain délai, si il s'avère qu'aucune contributeurice n'a de temps ou d'énergie disponible pour participer à la revue d'une PR, alors elle peut tout de même être mergée par son auteur.
+Les autres contributeurices peuvent librement prendre part à la revue d'une PR. L'auteur d'une PR peut également solliciter ou rappeler aux autres contributeurices que sa PR est en attente d'une revue. Au bout d'un certain délai, si il s'avère qu'aucune contributeurice n'a de temps ou d'énergie disponible pour participer à la revue d'une PR, alors elle peut tout de même être mergée par son auteur.
 
 Si un désaccord émerge pendant ou après la validation d'une PR, une discussion cordiale doit être privilégiée avec le reste de l'équipe dans le but de dégager un consensus sur la marche à suivre. Si aucun consensus n'est trouvé, un vote est organisé pour prendre une décision, auquel peuvent prendre part toutes les contributeurices régulier du projet.
 
 # Prises de décision collective
 
-Lorsque les contributeurices régulier ont besoin de prendre une décision formelle sur relative au projet ("résolution"), ou pour résoudre un conflit après qu'une recherche de consensus ait échouée, n'importe quel contributeurices régulier peut déclencher un processus de vote formel. Toutes les contributeurices régulier peuvent prendre part à ce vote.
+Lorsque les contributeurices régulier ont besoin de prendre une décision formelle relative au projet ("résolution"), ou pour résoudre un conflit après qu'une recherche de consensus ait échouée, n'importe quel contributeurices régulier peut déclencher un processus de vote formel. Toutes les contributeurices régulier peuvent prendre part à ce vote.
 
 # Annexe A. Droits d’administration afférents aux groupes
 
