@@ -126,6 +126,7 @@ Les membres de ces groupes s'engagent à respecter [la charte d'administration s
     - permission de créer des branches, merger des PR (en respectant les règles énoncées plus haut)
 - Intégration continue : droits d'accès au Gitlab pour interagir avec la CI core ?
 - Forum : membre du [groupe `Dev`](https://forum.yunohost.org/groups/Dev).
+- Chatrooms: admin sur la chatroom Dev
 
 ### Apps
 
@@ -134,6 +135,7 @@ Les membres de ces groupes s'engagent à respecter [la charte d'administration s
 - Github : membre de l’[équipe `Apps` de l’organisation `YunoHost`](https://github.com/orgs/YunoHost/teams/apps)
     - permission de créer des branches et de merger des PR sur le dépôt du catalog (apps), example_ynh, package_linter, package_check, ... (en respectant les règles énoncées plus haut)
 - Forum : membre du [groupe `Apps`](https://forum.yunohost.org/groups/Apps).
+- Chatrooms: admin sur la chatroom Apps
 
 ### Infra
 
@@ -141,6 +143,7 @@ Les membres de ces groupes s'engagent à respecter [la charte d'administration s
 - GitHub : membre de l’[équipe `Infra` de l’organisation `YunoHost`](https://github.com/orgs/YunoHost/teams/infra),
 - Forum, Weblate, XMPP, CI: administrateur,
 - Forum : membre du [groupe `Infra`](https://forum.yunohost.org/groups/Infra).
+- Chatrooms: admin sur la chatroom Dev et Infra
 
 ### Support, Doc, Communication, Traduction
 
@@ -150,6 +153,7 @@ Les membres de ces groupes s'engagent à respecter [la charte d'administration s
 - Diaspora* : accès au compte [YunoHost](https://framasphere.org/people/01868d20330c013459cf2a0000053625),
 - Twitter : accès au compte [YunoHost](https://twitter.com/yunohost),
 - Weblate : administrateur sur l’[outil de traduction](https://translate.yunohost.org/projects/yunohost/).
+- Chatrooms: admin sur la chatroom Doc
 
 # Annexe B. Composition des différents groupes
 
