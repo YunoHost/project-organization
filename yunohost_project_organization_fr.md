@@ -113,9 +113,11 @@ Lorsque les contributeurices régulier ont besoin de prendre une décision forme
 
 # Annexe A. Droits d’administration afférents aux groupes
 
-Cette partie liste les kits de droits d’administration pour les différents groupes du projet YunoHost :
+Cette partie liste les droits d’administration pour les différents groupes du projet YunoHost.
 
-(Attention, il ne s’agit pas des droits de prises de décisions dans ce cas).
+N.B. il ne s’agit pas des droits de prises de décisions, mais des droits d'accès et de modification sur les différentes plateformes utilisées par le projet.
+
+Les membres de ces groupes s'engagent à respecter [la charte d'administration système du projet](adminsys_charter.md).
 
 ### Conseil
 - Aucun droits d’administration. Les droits sont complétés avec le fait d’être présents dans les autres groupes,
