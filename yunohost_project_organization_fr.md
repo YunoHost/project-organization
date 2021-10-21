@@ -113,7 +113,56 @@ Lorsque les contributeurices régulier ont besoin de prendre une décision forme
 
 # Annexe A. Droits d’administration afférents aux groupes
 
-Copypasta
+Cette partie liste les kits de droits d’administration pour les différents groupes du projet YunoHost :
+
+(Attention, il ne s’agit pas des droits de prises de décisions dans ce cas).
+
+### Conseil
+- Aucun droits d’administration. Les droits sont complétés avec le fait d’être présents dans les autres groupes,
+- Forum : membre du [groupe `Conseil`](https://forum.yunohost.org/groups/Conseil).
+
+### Dev
+- GitHub : membre de l’[équipe `Devs` de l’organisation `YunoHost`](https://github.com/orgs/YunoHost/teams/devs),
+- Redmine : membre des projets [`YunoHost`](https://dev.yunohost.org/projects/yunohost) et [`Moulinette`](https://dev.yunohost.org/projects/moulinette),
+- Intégration continue : droits sur les outils d’intégrations continue CI-core,
+- XMPP : modérateur du salon [`dev`](xmpp:dev@conference.yunohost.org?join),
+- Forum : membre du [groupe `Dev`](https://forum.yunohost.org/groups/Dev).
+
+### Infra
+- Serveurs : accès SSH par clé sur certains (selon les besoins) ou sur la totalité des serveurs,
+- GitHub : membre de l’[équipe `Infra` de l’organisation `YunoHost`](https://github.com/orgs/YunoHost/teams/infra),
+- Redmine: membre du [projet `Infra`](https://dev.yunohost.org/projects/y-u-no-infra/),
+- Forum, Weblate, Redmine, XMPP, CI: administrateur,
+- Forum : membre du [groupe `Infra`](https://forum.yunohost.org/groups/Infra).
+
+### Apps
+- GitHub : propriétaire (Owner) [de l’organisation YunoHost-Apps](https://github.com/orgs/YunoHost-Apps/people?utf8=%E2%9C%93&query=%20role%3Aowner),
+- Redmine : membre du [projet `Apps`](https://dev.yunohost.org/projects/apps),
+- GitHub : membre de l’[équipe `Apps` de l’organisation `YunoHost`](https://github.com/orgs/YunoHost/teams/apps),
+- Intégration continue : accès à [CI-Apps](https://ci-apps.yunohost.org),
+- XMPP : modérateur sur le [salon `Apps`](xmpp:apps@conference.yunohost.org?join),
+- Forum : membre du [groupe `Apps`](https://forum.yunohost.org/groups/Apps).
+
+### Support & Doc
+- GitHub : membre de l’[équipe `Doc` de l’organisation `YunoHost`](https://github.com/orgs/YunoHost/teams/doc).
+- Forum : statut de modérateur, membre du [groupe `Support & Doc`](https://forum.yunohost.org/groups/Support_Doc), possibilité d'avoir le badge du groupe visible à côté de l'avatar.
+- XMPP : statut de modérateur sur le salon [`support`](xmpp:support@conference.yunohost.org?join).
+
+### Communication
+- Diaspora* : accès au compte [YunoHost](https://framasphere.org/people/01868d20330c013459cf2a0000053625),
+- Twitter : accès au compte [YunoHost](https://twitter.com/yunohost),
+- Forum : accès au compte [`YunoHost`](https://forum.yunohost.org/users/yunohost/activity), membre du [groupe `Communication`](https://forum.yunohost.org/groups/Communication)
+- Github : Membre de l'[équipe `Doc` de l’organisation `YunoHost`](https://github.com/orgs/YunoHost/teams/doc) avec droit d'écriture sur les slides des conférences.
+
+### Traduction
+- Weblate : administrateur sur l’[outil de traduction](https://translate.yunohost.org/projects/yunohost/).
+- Forum : membre du [groupe `Traduction`](https://forum.yunohost.org/groups/Traduction).
+
+### Distribution
+- GitHub : membre de l’[équipe `Distrib` de l’organisation `YunoHost`](https://github.com/orgs/YunoHost/teams/distribution),
+- Information : la diffusion des images (ISO…) doit se faire en collaboration avec le groupe `Infra` (et `Doc`),
+- Publication : un accès SFTP peut être mis en place,
+- Forum : membre du [groupe `Distribution`](https://forum.yunohost.org/groups/Distribution).
 
 # Annexe B. Composition des différents groupes
 
