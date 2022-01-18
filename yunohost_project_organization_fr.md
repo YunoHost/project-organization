@@ -23,7 +23,7 @@ Le collectif YunoHost est proche d'autres collectifs aux objectifs connexes tels
 
 0. **Commun numérique** : Tous les éléments logiciels conçus par le projet YunoHost sont sous licence libre et le resteront. YunoHost est développé et maintenu essentiellement par le bénévolat d'une communauté ouverte, horizontale, et qui fait de son mieux en fonction du temps, des moyens et de l'énergie dont elle dispose.
 
-1. **Accessibilité** : La conception de YunoHost s'articule en priorité autour des personnes ayant peu de connaissances techniques, avec des procédures, des interfaces et des documentations simples et pédagogiques.
+1. **Accessible** : La conception de YunoHost s'articule en priorité autour des personnes ayant peu de connaissances techniques, avec des procédures, des interfaces et des documentations simples et pédagogiques.
 
 2. **Sécurité** : YunoHost doit fournir un système raisonnablement maintenu à jour et raisonnablement sécurisé par défaut, et à guider les utilisateurices sur comment renforcer la sécurité de leur système. 
 
