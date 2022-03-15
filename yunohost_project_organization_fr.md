@@ -157,12 +157,12 @@ Les membres de ces groupes s'engagent à respecter [la charte d'administration s
 
 # Annexe B. Composition des différents groupes
 
-Dernière mise à jour le ... 
+Dernière mise à jour le ... # FIXME 
 
-- **Core**
-- **Apps**
-- **Infra**
-- **Support/doc/comm**
+- **Core** : Aleks, Bram, Kayou, ljf, Tagada, axolotle, tituspijean
+- **Apps** : Ericg, Josue, Kayou, tituspijean, yalh76, frju365, Tagada
+- **Infra** : Aleks, Bram, Kayou, ljf, yalh76, tituspijean
+- **Support/doc/comm/trad/bureaucracy** : Aleks, Ericg, ljf, tituspijean, Tagada, JimboJoe, wbk
 
 # Annexe C. Résolutions
 
