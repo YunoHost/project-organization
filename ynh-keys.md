@@ -467,4 +467,19 @@ GPG Public key
 ```
 ```
 
+## Tag
+SSH
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN4zQHEpRO1gZM20sEz6Z6FpX5FoHAWvtUL4Vs1tg9WE tag
+```
+
+GPG Fingerprint
+```
+```
+
+GPG Public key
+
+```
+```
+
 
