@@ -100,13 +100,13 @@ Vous devez respecter les lois et réglementations en vigueur lors de l’usage d
 
 En cas d’usage prohibé, le projet YunoHost peut se trouver dans l’obligation de déclencher la suspension totale ou partielle du service, le retrait de contenu, ou toute autre mesure que les lois et réglementations lui imposent.
 
-#### Respects des autres membres de la communauté
+#### Respect de la communauté et des bénévoles
 
 Vous acceptez et respectez le fait que le projet YunoHost est un projet communautaire maintenu par une équipe bénévole, et que le temps et l'énergie bénévole sont la force motrice du projet. Vous comprenez que les bénévoles du projet font de leur mieux, et qu'abuser de leur temps ou de leur énergie équivaut à saboter le projet. 
 
 Vous devez respecter les autres utilisateurs et l'équipe du projet en faisant preuve de civisme, de politesse et bienveillance. Toutes formes de pression, insistance, harcèlement ou toxicité est prohibée. Le projet YunoHost se réserve le droit de vous bannir et de supprimer tout contenu paraissant non pertinent ou contrevenant à ces principes, selon son seul jugement.
 
-En particulier, le projet YunoHost sera intransigeant dés lors que votre comportement consommera trop d'énergie des contributeurices régulier⋅es du projet. D'autant plus, si vous avez été avertis.
+En particulier, le projet YunoHost sera intransigeant dés lors que votre comportement consommera trop d'énergie des contributeur⋅ices régulier⋅es du projet. D'autant plus, si vous avez été avertis.
 
 #### Ressources partagées
 
@@ -125,24 +125,23 @@ Si vous abusez du service, par exemple en monopolisant des ressources machines p
 
 Compte tenu de sa portée internationale, le projet YunoHost n'est pas, à ce jour, candidat à l’intégration au sein de ce collectif.
 
-Plus d’information sur la charte C.H.A.T.O.N.S. : https://chatons.org/fr/charte
+Plus d’information sur la charte C.H.A.T.O.N.S. : https://chatons.org/charte
 
-### Données personnelles
-**Respects de vos données personnelles et de votre vie privée**
+### Respects de vos données personnelles et de votre vie privée
 
 Nous essayons de minimiser le plus possible les données personnelles qui peuvent transiter, être stockées sur notre infrastructure ou être transférée vers des tiers. 
 
 Le projet YunoHost s'interdit toutes reventes de données personnelles.
 
 Ci-dessous, le détails des informations personnelles susceptibles de transiter ou d'être stockées sur les services du projet YunoHost:
- - informations techniques (Ip, User agent) utilisées pour interagir avec les services. Elles sont utilisées dans le but de fournir le service, d'en assurer la maintenance et la sécurité et de créer des statistiques agrégées très basiques.
+ - informations techniques (IP, User agent) utilisées pour interagir avec les services. Elles sont utilisées dans le but de fournir le service, d'en assurer la maintenance et la sécurité et de créer des statistiques agrégées très basiques.
  - email et pseudo utilisé sur le forum
  - informations personnelles figurant dans les messages échangées via le forum ou le chat
- - informations personnelles incluses dans les noms de domaines fournit parle projet
+ - informations personnelles incluses dans les noms de domaines fournit par le projet
  - informations figurant dans des logs que vous avez partagés via l'outil dédié
  - informations bancaires et personnelles dans le cadre d'un don via stripe ou liberapay
 
-Sauf mentions contraire dans les conditions spécifiques, ces données se trouvent à Paris, Strasbourg et Toulouse.
+Sauf mentions contraires dans les conditions spécifiques, ces données se trouvent à Paris, Strasbourg et Toulouse.
 
 Pour plus d'informations, se référer aux conditions spécifiques de services.
 
@@ -168,53 +167,53 @@ La nullité d’une des clauses de ces conditions en application d’une loi, d�
 Conditions Spécifiques de Services
 ==============
 
-Siteweb et documentation
+Site web et documentation
 --------
 ### Adresses des services
-yunohost.org
+`yunohost.org`
 
 ### Contribution
 Si vous repérez une erreur, n'hésitez pas à proposer une correction soit via github (ou à défaut sur le forum).
 
 ### Données personnelles
-A notre connaissance, aucune page de ce siteweb ne comporte de trackers.
+A notre connaissance, aucune page de ce site web ne comporte de trackers.
 
-Un logs technique existe enregistrant IP et User Agent.
+Comme n'importe quel service web, un journal technique existe enregistrant l'IP et le User Agent des requêtes.
 
 Dons
 --------
 ### Adresses des services
-donate.yunohost.org
+`donate.yunohost.org`
 
 ### Arrêt d'un don réccurent
 Pour demander l'arrêt de votre don réccurent, merci d'envoyer un mail à donate-5542@yunohost.org et d'indiquer les informations qui permettront d'identifier votre don (email utilisé, nom, montant).
 
 ### Données personnelles
-Pour fournir ce service, l'association Support Self Hosting utilise les services d'un prestataire tiers: Stripe. 
+Pour fournir ce service, l'association Support Self-Hosting utilise les services d'un prestataire tiers: Stripe. 
 
 Il est nécessaire d'utiliser une carte bancaire ainsi que de son identité, ces données ne sont pas stockées sur les services du projet YunoHost, sauf dans les mails échangés dans le cadre d'une résiliation de don réccurent.
 
-Un logs technique existe enregistrant IP et User Agent.
+Comme n'importe quel service web, un journal technique existe enregistrant l'IP et le User Agent des requêtes.
 
 ### Localisation des données
 ???
 
 
 
-Téléchargement d'image
+Supports d'installations (image ISO, ARM, script d'installation, ..)
 --------
 Vous utilisez ce service dans 2 situations:
  - installation ou restauration de YunoHost
  - installation ou restauration d'une app dont le binaire n'est pas fournis par son éditeur et dont sa compilation sur votre instance est jugée trop longue.
 
 ### Adresses des services
-build.yunohost.org
+`build.yunohost.org`
 
 
 ### Données personnelles
 There is no requirement for anyone who wishes to use YunoHost to provide the project with any personal information. It is freely downloadable without registration or other form of identification.
 
-Un logs technique existe enregistrant IP et User Agent.
+Comme n'importe quel service web, un journal technique existe enregistrant l'IP et le User Agent des requêtes.
 
 
 
@@ -223,37 +222,37 @@ IP
 Ce service est utilisé automatiquement par vos instances YunoHost pour déterminer leurs IP publiques et permettre ainsi l'automatisation et le diagnostique de certaines opérations.
 
 ### Adresses des services
-ip.yunohost.org et ip6.yunohost.org
+`ip.yunohost.org` et `ip6.yunohost.org`
 
 ### Service en libre accès
 Exceptionnellement, le service de récupération d'IP publiques peut être utilisé dans d'autres cadres tant que la charge induite est minime relativement à celle de YunoHost.
 
 ### Données personnelles
-Un logs technique existe enregistrant IP et User Agent.
+Comme n'importe quel service web, un journal technique existe enregistrant l'IP et le User Agent des requêtes.
 
 
 Noms de domaines dynamiques
 --------
-Ce service est utilisé automatiquement si vous avez demandé la création d'un nom de domaine terminant par nohost.me, noho.st ou ynh.fr.
+Ce service est utilisé automatiquement si vous avez demandé la création d'un nom de domaine terminant par `nohost.me`, `noho.st` ou `ynh.fr`.
 
 ### Adresses du service
-dyndns.yunohost.org et dynette.yunohost.org
+`dyndns.yunohost.org` et `dynette.yunohost.org`
 
 ### Limite d'usage
 Pour éviter le parking un seul domaine chaque instance YunoHost ne peut utiliser qu'un seul domaine.
 
 ### Suppression automatique
-Le projet YunoHost se réserve le droit de supprimer le domaine si aucun serveur ne semble y être associé et que l'ip n'a pas été mise à jour depuis 1 an.
+Le projet YunoHost se réserve le droit de supprimer le domaine si aucun serveur ne semble y être associé et que l'adresse IP n'a pas été mise à jour depuis 1 an.
 
 ### Résiliation
 Vous pouvez supprimer votre domaine à l'aide du mot de passe définis lors de sa création. 
 
 ### Données personnelles
-SI votre nom contient des données personnelles, celles-ci se retrouveront forcément sur les serveurs faisant fonctionner le service.
+Si votre nom contient des données personnelles, celles-ci se retrouveront forcément sur les serveurs faisant fonctionner le service.
 
-A noter que ce services, pour fonctionner, stocke et transmet également les adresses IP publiques de votre serveur.
+Notez que, pour fonctionner, ce service stocke et transmet nécessairement les adresses IP publiques de votre serveur.
 
-Un logs technique existe enregistrant IP et User Agent des requêtes.
+Comme n'importe quel service web, un journal technique existe enregistrant l'IP et le User Agent des requêtes.
 
 
 Diagnostique
@@ -261,7 +260,7 @@ Diagnostique
 Ce service est utilisé automatiquement dés lors que vous avez activé la fonctionnalité de diagnostique.
 
 ### Adresse du service
-diagnosis.yunohost.org
+`diagnosis.yunohost.org`
 
 ### Limite d'usage
 En raison de la consommation de ressources induites, le service de diagnostique est limités à 60 domaines à diagnostiquer par requêtes.
@@ -269,9 +268,9 @@ En raison de la consommation de ressources induites, le service de diagnostique 
 Si vous avez besoin de diagnostiquer plus de domaines vous devriez envisager de déployer d'autres domaines.
 
 ### Données personnelles
-Pour fonctionner ce service transmet les noms de domaines à diagnostiquer. Toutes données personnelles figurant dans ces noms est donc transféré également.
+Pour fonctionner ce service transmet les noms de domaines et les ports à diagnostiquer. Toute donnée personnelle figurant dans les noms de domaines est donc transférée également, mais n'est pas conservée.
 
-Un logs technique existe enregistrant IP et User Agent des requêtes.
+Comme n'importe quel service web, un journal technique existe enregistrant l'IP et le User Agent des requêtes.
 
 
 
@@ -280,15 +279,18 @@ Liste d'applications
 Ce service permet de consulter la liste des applications disponibles à l'installation dans YunoHost. Il permet également de voter pour les apps afin d'orienter les efforts de contribution.
 
 ### Adresse du service
-apps.yunohost.org
+`apps.yunohost.org` et `app.yunohost.org`
 
 ### Mésusage des services
-Toutes tentatives de falsifier les votes sur les apps du catalogue ou de la liste d'apps à empaqueter sera considérée comme un abus et peut fair el'objet de banissement et de suppression de compte.
+
+Toute tentative de falsifier les votes sur les apps du catalogue ou de la liste de souhaits sera considérée comme un abus et peut faire l'objet de bannissement et de suppression de compte.
 
 ### Données personnelles
 Pour participer à la popularité des apps, il est nécessaire d'utiliser son compte sur le forum. Voir le service Forum.
 
-Un logs technique existe enregistrant IP et User Agent des requêtes.
+Le stockage de vos votes est lié à votre identité sur le forum.
+
+Comme n'importe quel service web, un journal technique existe enregistrant l'IP et le User Agent des requêtes.
 
 ### Statistiques
 Afin de dimensionner nos services et planifier les nouvelles versions, nous utilisons le logs techniques de téléchargement de la liste des apps pour estimer le nombre d'instances YunoHost en fonctionnement selon leurs versions.
@@ -297,13 +299,13 @@ Afin de dimensionner nos services et planifier les nouvelles versions, nous util
 Dépôts debian
 --------
 ### Adresse du service
-forge.yunohost.org
+`forge.yunohost.org`
 
 ### Autorisation de créer des dépôts miroirs
-Il est autorisé et même encouragé de créer des dépots miroirs du dépots de paquet debian de YunoHost.
+Il est autorisé et même encouragé de créer des dépôts miroirs du dépôt de paquet Debian de YunoHost.
 
 ### Données personnelles
-Un logs technique existe enregistrant IP et User Agent des requêtes.
+Comme n'importe quel service web, un journal technique existe enregistrant l'IP et le User Agent des requêtes.
 
 
 
@@ -318,30 +320,29 @@ Merci de ne pas harceller l'équipe pour forcer à inclure vos demandes dans la 
 
 Paste
 --------
-Ce service sert à partager les logs
+Ce service sert à partager les journaux des opérations réalisées avec YunoHost pour permettre l'étude et la résolution des problèmes.
 
 ### Adresse du service
-paste.yunohost.org
+`paste.yunohost.org`
 
 ### Données personnelles
 Lorsque vous partagez un log, le système d'exploitation YunoHost essaie de retirer au maximum les informations personnelles du logs. Néanmoins, le système est loin d'être parfait, et vous devriez relire vos logs avant de les envoyer sur ce service.
 
-### Données personnelles
-Un logs technique existe enregistrant IP et User Agent des requêtes.
+Comme n'importe quel service web, un journal technique existe enregistrant l'IP et le User Agent des requêtes.
 
 
 Forum (et chat)
 --------
 ### Adresse des services
-forum.yunohost.org
+`forum.yunohost.org`
 
 ### Demander de l'aide
 Vous devez respecter les règles définient pour demander de l'aide : https://yunohost.org/fr/help-me
 
 ### Données personnelles
-Le forum permet d'indiquer des informations personnelles (email, compte github, pseudo). A partir de l'interface du forum, vous avez la main pour modifier et supprimer ces données.
+Le forum permet d'indiquer des informations personnelles (email, compte github, pseudo). À partir de l'interface du forum, vous avez la main pour modifier et supprimer ces données.
 
-Un logs technique existe enregistrant IP et User Agent des requêtes, ainsi que la liste des emails envoyés et reçus.
+Comme n'importe quel service web, un journal technique existe enregistrant l'IP et le User Agent des requêtes. De plus, le forum est susceptible d'envoyer ou recevoir des emails, qui sont également journalisés.
 
 ### Localisation des données
 Paris
