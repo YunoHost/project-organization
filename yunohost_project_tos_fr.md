@@ -320,12 +320,15 @@ Lors de l'installation d'applications via YunoHost, le logiciel est susceptible 
 
 De plus, chaque application a des modalités d'installations qui lui sont propre, et bon nombre d'entre-elles dépendent de briques logicielles téléchargées chez des tiers. Il n'est pas possible de faire une liste exhaustive et précise, mais dans les exemples principaux on trouve des paquets `.deb` (de `debian.org` ou `sury.org`), `npm` (`npmjs.com`), `pip` (`pypi.org`).
 
-Tickets et demande de fusion
+Tickets et contributions au code
 --------
-Le projet YunoHost propose via github de contribuer en créant des rapports de bug ou des demandes fonctionnalités.
+En l'état, le développement, les rapports de bug et les demandes de fonctionnalités s'effectuent sur les dépôts des organisations "YunoHost" et "YunoHost-Apps" sur GitHub détenu par Microsoft.
 
-### Rappel: pas de harcellement
-Merci de ne pas harceller l'équipe pour forcer à inclure vos demandes dans la roadmap.
+### Respect des bénévoles
+
+Nous ne pouvons que ré-insister sur ce qui est déjà mentionné dans la section 'Respect de la communauté et des bénévoles' plus haut : le projet est maintenu par une équipe bénévole, le temps et l'énergie bénévole est la force motrice du projet, et les bénévoles font de leur mieux. Vous êtes les bienvenues pour contribuer au projet (et le cas échéant à poser des questions sur comment contribuer) à l'équipe.
+
+En revanche, abuser de leur temps ou de leur énergie équivaut à saboter le projet. En particulier, YunoHost n'est *pas* une communauté de bénévoles à vos ordres sur les priorités de correctifs, fonctionnalités ou mises à jour, ni pour YunoHost en tant que logiciel, ni pour le catalogue d'applications maintenues par le projet. Les bénévoles ne promettent ni correctifs, ni fonctionnalités, ni mise à jour, et ne fournissent pas non plus d'estimation sur "quand" une fonctionnalité, correctif ou mise à jour sera disponible. Les messages se contentant de demander quand une fonctionnalité, correctif ou mise à jour sera disponible, sans aucune forme de politesse, de bienveillance ou d'intention de contribution, ne sont pas les bienvenus et sapent le moral des bénévoles. Tout abus pourra être sanctionné par un bannissement des organisations GitHub du projet, voir de l'entièreté des services du projet.
 
 
 
