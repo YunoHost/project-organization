@@ -258,7 +258,9 @@ Comme n'importe quel service web, un journal technique existe enregistrant l'IP 
 
 Diagnostique
 --------
-Ce service est utilisé automatiquement dés lors que vous avez activé la fonctionnalité de diagnostique.
+Il s'agit d'un service permettant de tester automatiquement si vos services semblent correctement exposés sur internet et ainsi résoudre en autonomie les problèmes liés à la configuration réseau.
+
+Ce service est utilisé automatiquement deux fois par jour, dès lors que vous activez la fonctionnalité de diagnostique.
 
 ### Adresse du service
 `diagnosis.yunohost.org`
