@@ -240,6 +240,8 @@ Ce service est utilisé automatiquement si vous avez demandé la création d'un 
 ### Limite d'usage
 Pour éviter le parking un seul domaine chaque instance YunoHost ne peut utiliser qu'un seul domaine.
 
+Si des abus sont constatés (par exemple création de trop nombreux domaines depuis la même machine ou IP), le projet se réserve le droit de supprimer les domaines concernés sans prévenir.
+
 ### Suppression automatique
 Le projet YunoHost se réserve le droit de supprimer le domaine si aucun serveur ne semble y être associé et que l'adresse IP n'a pas été mise à jour depuis 1 an.
 
