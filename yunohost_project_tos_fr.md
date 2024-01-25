@@ -194,8 +194,6 @@ Il est nécessaire d'utiliser une carte bancaire ainsi que de son identité, ces
 
 Comme n'importe quel service web, un journal technique existe enregistrant l'IP et le User Agent des requêtes.
 
-### Localisation des données
-???
 
 
 
