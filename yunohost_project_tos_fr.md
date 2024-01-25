@@ -268,7 +268,7 @@ Ce service est utilisé automatiquement deux fois par jour, dès lors que vous a
 ### Limite d'usage
 En raison de la consommation de ressources induites, le service de diagnostique est limités à 60 domaines à diagnostiquer par requêtes.
 
-Si vous avez besoin de diagnostiquer plus de domaines vous devriez envisager de déployer d'autres domaines.
+Si vous dépassez cette limite, le projet recommande de diagnostiquer le bon fonctionnement de vos domaines par vos propres moyens.
 
 ### Données personnelles
 Pour fonctionner ce service transmet les noms de domaines et les ports à diagnostiquer. Toute donnée personnelle figurant dans les noms de domaines est donc transférée également, mais n'est pas conservée.
