@@ -101,7 +101,10 @@ Vous devez respecter les lois et réglementations en vigueur lors de l’usage d
 En cas d’usage prohibé, le projet YunoHost peut se trouver dans l’obligation de déclencher la suspension totale ou partielle du service, le retrait de contenu, ou toute autre mesure que les lois et réglementations lui imposent.
 
 #### Respects des autres membres de la communauté
-Vous devez respecter les autres utilisateurs en faisant preuve de civisme et de politesse. Toutes formes de harcellement est prohibée. Le projet YunoHost se réserve le droit de vous banir et de supprimer tout contenu paraissant non pertinent ou contrevenant à ces principes, selon son seul jugement.
+
+Vous acceptez et respectez le fait que le projet YunoHost est un projet communautaire maintenu par une équipe bénévole, et que le temps et l'énergie bénévole sont la force motrice du projet. Vous comprenez que les bénévoles du projet font de leur mieux, et qu'abuser de leur temps ou de leur énergie équivaut à saboter le projet. 
+
+Vous devez respecter les autres utilisateurs et l'équipe du projet en faisant preuve de civisme, de politesse et bienveillance. Toutes formes de pression, insistance, harcèlement ou toxicité est prohibée. Le projet YunoHost se réserve le droit de vous bannir et de supprimer tout contenu paraissant non pertinent ou contrevenant à ces principes, selon son seul jugement.
 
 En particulier, le projet YunoHost sera intransigeant dés lors que votre comportement consommera trop d'énergie des contributeurices régulier⋅es du projet. D'autant plus, si vous avez été avertis.
 
