@@ -120,7 +120,7 @@ Si vous abusez du service, par exemple en monopolisant des ressources machines p
 
 
 ### Charte CHATONS
-**Le projet YunoHost s’engage à respecter la charte du Collectif des Hébergeurs, Alternatifs, Transparents, Ouverts, Neutres et Solidaires dans le cadre de son activité de fourniture de services**
+**Le projet YunoHost vise à long-terme de respecter la charte du Collectif des Hébergeurs, Alternatifs, Transparents, Ouverts, Neutres et Solidaires dans le cadre de son activité de fourniture de services**
 
 Compte tenu de sa portée internationale, le projet YunoHost n'est pas, à ce jour, candidat à l’intégration au sein de ce collectif.
 
