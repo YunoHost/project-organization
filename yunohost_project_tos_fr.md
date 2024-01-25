@@ -351,7 +351,7 @@ Forum (et chat)
 `forum.yunohost.org`
 
 ### Demander de l'aide
-Vous devez respecter les règles définient pour demander de l'aide : https://yunohost.org/fr/help-me
+Vous devez respecter les règles définies pour demander de l'aide : https://yunohost.org/fr/help-me et https://forum.yunohost.org/t/how-to-get-help-efficiently-comment-obtenir-de-laide-efficacement/27
 
 ### Données personnelles
 Le forum permet d'indiquer des informations personnelles (email, compte github, pseudo). À partir de l'interface du forum, vous avez la main pour modifier et supprimer ces données.
