@@ -20,7 +20,7 @@ En outre, le projet YunoHost gère plusieurs services techniques et communautair
 
 En utilisant les services listés ci-dessus, vous acceptez d’être lié par les conditions suivantes.
 
-NB: il s'agit de CGUs qui s'appliquent **aux services fournis par le projet YunoHost**, mais **pas** à YunoHost en tant que logiciel ni aux applications proposées dans le catalogue de YunoHost. YunoHost en tant que logiciel est publié sous license AGPLv3 et est donc fourni sans garantie d'aucune sorte et n'est pas responsable des dommages résultant de son utilisation, ni de l'utilisation des applations qu'il permet d'installer. *Si vous utilisez YunoHost pour fournir des services à d'autres personnes, il est de votre responsabilité de mettre en place des CGUs pour vos propres services à l'attention de ces personnes, et de vous renseigner sur toutes les implications légales des applications que vous installez.*
+NB: il s'agit des CGS qui s'appliquent **aux services fournis par le projet YunoHost**, mais **pas** à YunoHost en tant que logiciel **ni** aux applications proposées dans le catalogue de YunoHost. YunoHost en tant que logiciel est publié sous license AGPLv3 et est donc fourni sans garantie d'aucune sorte et n'est pas responsable des dommages résultant de son utilisation, ni de l'utilisation des applations qu'il permet d'installer. *Si vous utilisez YunoHost pour fournir des services à d'autres personnes, il est de votre responsabilité de mettre en place des CGUs pour vos propres services à l'attention de ces personnes, et de vous renseigner sur toutes les implications légales des applications que vous installez.*
 
 
 ## Évolution des conditions générales et spécifiques de service
