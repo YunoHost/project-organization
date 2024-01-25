@@ -275,9 +275,12 @@ Comme n'importe quel service web, un journal technique existe enregistrant l'IP 
 
 
 
-Liste d'applications
+Catalogue d'applications
 --------
-Ce service permet de consulter la liste des applications disponibles à l'installation dans YunoHost. Il permet également de voter pour les apps afin d'orienter les efforts de contribution.
+
+Ce service permet de consulter (via un navigateur ou un programme) la liste des applications disponibles à l'installation dans YunoHost. Il permet également de voter pour les apps afin d'orienter les efforts de contribution.
+
+De plus, les serveurs fonctionnant sous YunoHost récupère automatiquement le catalogue d'application une fois par jour.
 
 ### Adresse du service
 `apps.yunohost.org` et `app.yunohost.org`
