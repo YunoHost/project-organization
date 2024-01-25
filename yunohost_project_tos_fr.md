@@ -313,7 +313,12 @@ Il est autorisé et même encouragé de créer des dépôts miroirs du dépôt d
 ### Données personnelles
 Comme n'importe quel service web, un journal technique existe enregistrant l'IP et le User Agent des requêtes.
 
+Code et dépendances des applications installées avec YunoHost
+--------
 
+Lors de l'installation d'applications via YunoHost, le logiciel est susceptible de contacter diverses API tiers non géré par le projet YunoHost. En particulier, l'écrasante majorité du code automatisant l'installation des applications du catalogue est hébergé dans les dépôts de l'organisation "YunoHost-Apps" sur GitHub, et YunoHost contacte ainsi la plateforme GitHub pour télécharger le code correspondant.
+
+De plus, chaque application a des modalités d'installations qui lui sont propre, et bon nombre d'entre-elles dépendent de briques logicielles téléchargées chez des tiers. Il n'est pas possible de faire une liste exhaustive et précise, mais dans les exemples principaux on trouve des paquets `.deb` (de `debian.org` ou `sury.org`), `npm` (`npmjs.com`), `pip` (`pypi.org`).
 
 Tickets et demande de fusion
 --------
