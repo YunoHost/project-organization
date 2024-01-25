@@ -11,15 +11,12 @@ En outre, le projet YunoHost gère plusieurs services techniques et communautair
 - un forum communautaire public, destiné à discuter des problèmes ou de tout autre sujet lié au projet ;
 - plusieurs salons de discussion communautaires publics utilisant les protocoles Matrix, XMPP et IRC, dont la plupart sont hébergés par des tiers tels que Matrix.org et Libera.chat ;
 - plusieurs dépôts Git liés au développement du projet et à la distribution des applications, actuellement hébergés sur GitHub ;
-- un site web et une API de catalogue d'applications, destinés aux serveurs de YunoHost pour obtenir la liste des applications disponibles ;
+- un catalogue d'application publique pour permettre de présenter les applications disponibles, et une API permettant à des programmes de récupérer cette liste ;
 - un service pastebin, destiné à partager facilement les logs et autres informations techniques ;
-- un service de nom de domaine gratuit, destiné aux serveurs de YunoHost ;
-- un service de nom de domaine gratuit, destiné à réduire les frictions pour les personnes qui ne possèdent pas encore de nom de domaine ou qui souhaitent une solution simple et rapide ;
-- des services d'autodiagnostic utilisés par les serveurs de YunoHost ;
+- un service de nom de domaine gratuit, destiné à réduire les frictions pour les personnes qui ne possèdent pas encore de nom de domaine ou qui souhaitent une solution simple et rapide dans le contexte de YunoHost ;
 - des services d'autodiagnostic utilisés par le logiciel YunoHost et destinés à aider les utilisateurs à diagnostiquer de manière autonome les problèmes techniques ;
-- une interface de donation, dont les paiements sont gérés par le logiciel YunoHost ;
-- une interface de dons, dont les paiements sont gérés par Stripe ;
-- d'autres activités de développement et de maintenance
+- une interface de dons, dont les paiements sont gérés par Stripe et à destination de Support Self-Hosting, l'association qui récolte les dons ;
+- d'autres services liés au développement et à la maintenance
 
 En utilisant les services listés ci-dessus, vous acceptez d’être lié par les conditions suivantes.
 
