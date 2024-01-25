@@ -300,8 +300,10 @@ Comme n'importe quel service web, un journal technique existe enregistrant l'IP 
 Afin de dimensionner nos services et planifier les nouvelles versions, nous utilisons le logs techniques de téléchargement de la liste des apps pour estimer le nombre d'instances YunoHost en fonctionnement selon leurs versions.
 
 
-Dépôts debian
+Dépôt de paquet debian
 --------
+
+Il s'agit du canal par lequel les mises à jour de YunoHost en tant que logiciel sont mises à disposition. Le projet YunoHost maintient également des "builds" de certains logiciels dont YunoHost dépends ou à la périphérie du projet.
 ### Adresse du service
 `forge.yunohost.org`
 
