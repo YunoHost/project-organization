@@ -3,9 +3,43 @@ Conditions Générales et spécifiques des Services opérés par le projet YunoH
 
 01/02/2024
 
-Le projet YunoHost est une association bénévole de personnes qui ont fait cause commune pour créer un système d'exploitation libre pour les serveurs, appelé YunoHost. YunoHost est un logiciel libre sous licence GNU Affero General Public License v3.
+Préambule
+---------
 
-En outre, le projet YunoHost gère plusieurs services techniques et communautaires à des fins diverses, tels que :
+Le projet YunoHost est une équipe de personnes bénévoles qui ont fait cause commune pour créer un système d'exploitation libre pour les serveurs, appelé YunoHost. YunoHost est publié [sous licence GNU Affero General Public License v3](https://www.gnu.org/licenses/agpl-3.0.txt). En lien avec ce logiciel, le projet administre et met à disposition plusieurs services techniques et communautaires à des fins diverses.
+
+En utilisant ces services, vous acceptez d’être lié·e par les conditions suivantes.
+
+Version courte (TL;DR)
+--------------
+
+- **Clause « Ceci est un projet communautaire »** : vous acceptez et respectez le fait que le projet est maintenu par une équipe bénévole, et que le temps et l'énergie bénévole sont la force motrice du projet. Vous êtes les bienvenus pour contribuer au projet, ponctuellement ou dans la durée, par le moyen de votre choix (que ce soit en parler autour de vous, nous faire des retours constructifs, aider les autres, faire coucou, traduire, tester, coder, donner, ...).
+- **Clause « On fait ce qu'on peut »** : Vous acceptez que l'équipe bénévole fait du mieux qu'elle peut et n'est assujetti à aucune obligation, ni de moyen, ni de résultat. Le projet ne peut être tenu pour responsable des dommages ou préjudices indirects si un service cesse de fonctionner. L'équipe peut décider d'arrêter un service à tout moment.
+- **Clause « On n'est pas un GAFAM »** : nous essayons de minimiser le plus possible les données personnelles qui peuvent transiter, être stockées sur notre infrastructure ou être transférée vers des tiers. Nous publions le code qui fait tourner nos services. Nous nous interdisons toute revente de données personnelles. Nous n'exploitons les données qu'à des fin de statistiques internes et anonymisées.
+- **Clause « On aime pas les crétins toxiques »** : vous devez respecter les autres membres de la communauté en faisant preuve de civisme, de politesse et bienveillance. Nous attirons votre attention sur le fait que les messages se contentant de demander quand une fonctionnalité, correctif ou mise à jour sera disponible, sans aucune forme de politesse, de bienveillance ou d'intention de contribution, ne sont pas les bienvenus.
+- **Clause « On ne veut pas finir en taule »** : vous devez respecter la loi (que celle-ci soit bien faite ou idiote).
+- **Clause « Tout abus sera puni »** : abuser techniquement ou humainenement des services peut entraîner la fermeture de vos comptes et l'interdiction de l'accès à une partie ou à l'ensemble des services, possiblement sans avertissement ni négociation.
+
+À propos de la distinction entre YunoHost en tant que projet, en tant que services, en tant que logiciel, et en tant que distribution
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Ce document détaille les CGS qui s'appliquent **aux services fournis par le projet YunoHost**, mais **pas** à YunoHost en tant que logiciel **ni** aux applications proposées dans le catalogue de YunoHost.
+
+YunoHost en tant que logiciel est publié [sous license AGPLv3](https://www.gnu.org/licenses/agpl-3.0.txt) et est donc fourni sans garantie d'aucune sorte et n'est pas responsable des dommages résultant de son utilisation, ni de l'utilisation des applations qu'il permet d'installer.
+
+*Si vous utilisez YunoHost pour fournir des services à d'autres personnes, il est de votre responsabilité de mettre en place des CGUs pour vos propres services à l'attention de ces personnes, et de vous renseigner sur toutes les implications légales des applications que vous installez.*
+
+Évolution des conditions générales et spécifiques de service
+------------------------------------------------------------
+
+Le projet YunoHost se réserve le droit de mettre à jour et modifier ces conditions. Dans ce cas, le projet YunoHost informe les personnes concernées par un affichage sur le forum ou à défaut sur le site.
+
+Un historique daté des versions de ces conditions peut être récupéré sur LIEN
+
+Vue d'ensemble des services
+---------------------------
+
+Les services administrés et maintenus par le projet sont, à ce jour :
 - un site web public, destiné à présenter le projet et à fournir de la documentation ;
 - l'hébergement de scripts d'installation, d'images, de paquets et de clés cryptographiques liés à l'installation et à la mise à jour de YunoHost ;
 - un forum communautaire public, destiné à s'entraider et discuter des problèmes ou de tout autre sujet lié au projet ;
@@ -21,24 +55,6 @@ En outre, le projet dépends, utilise ou encourage l'utilisation de services gé
 - plusieurs salons de discussion communautaires publics utilisant les protocoles Matrix, XMPP et IRC, hébergés par des tiers tels que (liste non-exhaustive) matrix.org et libera.chat ;
 - l'autorité de certification Let's Encrypt ;
 - une interface de dons, dont les paiements sont gérés par Stripe et à destination de Support Self-Hosting, l'association qui récolte et gère les dons ;
-
-En utilisant les services listés ci-dessus, vous acceptez d’être lié par les conditions suivantes.
-
-À propos de la distinction entre YunoHost en tant que projet, en tant que services, en tant que logiciel, et en tant que distribution
--------------------------------------------------------------------------------------------------------------------------------------
-
-Ce document détaille les CGS qui s'appliquent **aux services fournis par le projet YunoHost**, mais **pas** à YunoHost en tant que logiciel **ni** aux applications proposées dans le catalogue de YunoHost.
-
-YunoHost en tant que logiciel est publié sous license AGPLv3 et est donc fourni sans garantie d'aucune sorte et n'est pas responsable des dommages résultant de son utilisation, ni de l'utilisation des applations qu'il permet d'installer.
-
-*Si vous utilisez YunoHost pour fournir des services à d'autres personnes, il est de votre responsabilité de mettre en place des CGUs pour vos propres services à l'attention de ces personnes, et de vous renseigner sur toutes les implications légales des applications que vous installez.*
-
-Évolution des conditions générales et spécifiques de service
-------------------------------------------------------------
-
-Le projet YunoHost se réserve le droit de mettre à jour et modifier ces conditions. Dans ce cas, le projet YunoHost informe les personnes concernées par un affichage sur le forum ou à défaut sur le site.
-
-Un historique daté des versions de ces conditions peut être récupéré sur LIEN
 
 Accès aux services
 ------------------
@@ -96,9 +112,9 @@ En particulier, le projet YunoHost ne pourra être tenu responsable si vous avez
 Mésusage des services
 ---------------------
 
-**Tout abus peut entraîner la fermeture de vos comptes et toute mesure technique jugée nécessaire pour mettre fin aux abus constatés.**
+**Tout abus peut entraîner la fermeture de vos comptes et l'interdiction de l'accès à une partie ou à l'ensemble des services.**
 
-Le projet YunoHost reste seul juge de cette notion « d’abus » dans le but de fournir le meilleur service possible à l’ensemble des usagers et usagères. Le projet YunoHost pourra décider d'agir sans avertissement ni négociation.
+Le projet se réserve le droit de mettre en place les mesures jugée nécessaires pour mettre fin aux abus constatés. Le projet YunoHost reste seul juge de cette notion « d’abus » dans le but de fournir le meilleur service possible à l’ensemble des usagers et usagères. Le projet YunoHost pourra décider d'agir sans avertissement ni négociation.
 
 ### Usage illégal des services
 
