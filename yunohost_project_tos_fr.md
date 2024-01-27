@@ -385,7 +385,7 @@ Ce service sert à partager les journaux des opérations réalisées avec YunoHo
 `paste.yunohost.org`
 
 ### Données personnelles
-Lorsque vous partagez un log, le système d'exploitation YunoHost essaie de retirer au maximum les informations personnelles du logs. Néanmoins, le système est loin d'être parfait, et vous devriez relire vos logs avant de les envoyer sur ce service.
+Les logs que vous partagez sont susceptible de contenir des informations personnelles ou, dans le pire des cas, des secrets qui peuvent compromettre la sécurité d'une partie ou de l'entièreté de votre serveur. Lors de la publication, le logiciel YunoHost essaie de retirer automatiquement et du mieux qu'il peut ces informations. Néanmoins, le système est loin d'être parfait, et il est de votre responsabilité de relire les informations avant de partager le lien généré avec d'autres personnes.
 
 Comme n'importe quel service web, un journal technique existe enregistrant l'IP et le User Agent des requêtes.
 
