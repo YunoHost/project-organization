@@ -274,7 +274,7 @@ Il s'agit du service utilisé si vous demandez un nom de domaine terminant par `
 
 ### Adresses des services
 
-`dyndns.yunohost.org` et `dynette.yunohost.org`
+`dyndns.yunohost.org`, `dynette.yunohost.org`, `ns0.yunohost.org`, `ns1.yunohost.org`
 
 ### Limite d'usage
 
