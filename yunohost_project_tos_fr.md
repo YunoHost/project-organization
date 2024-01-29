@@ -16,12 +16,14 @@ Version courte (TL;DR)
 - **Clause « Ceci est un projet communautaire »** : vous acceptez et respectez le fait que le projet est maintenu par une équipe bénévole, et que le temps et l'énergie bénévole sont la force motrice du projet. Vous êtes les bienvenus pour contribuer au projet, ponctuellement ou dans la durée, par le moyen de votre choix (que ce soit en parler autour de vous, nous faire des retours constructifs, aider les autres, faire coucou, traduire, tester, coder, donner, ...).
 - **Clause « On fait ce qu'on peut »** : Vous acceptez que l'équipe bénévole fait du mieux qu'elle peut et n'est assujetti à aucune obligation, ni de moyen, ni de résultat. Le projet ne peut être tenu pour responsable des dommages ou préjudices indirects si un service cesse de fonctionner. L'équipe peut décider d'arrêter un service à tout moment.
 - **Clause « On n'est pas un GAFAM »** : nous essayons de minimiser le plus possible les données personnelles qui peuvent transiter, être stockées sur notre infrastructure ou être transférée vers des tiers. Nous publions le code qui fait tourner nos services. Nous nous interdisons toute revente de données personnelles. Nous n'exploitons les données qu'à des fin de statistiques internes et anonymisées.
-- **Clause « On aime pas les personnes toxiques »** : vous devez respecter les autres membres de la communauté en faisant preuve de civisme, de politesse et bienveillance. Nous attirons votre attention sur le fait que les messages se contentant de demander quand une fonctionnalité, correctif ou mise à jour sera disponible, sans aucune forme de politesse, de bienveillance ou d'intention de contribution, ne sont pas les bienvenus.
+- **Clause « On aime pas les personnes toxiques »** : vous devez respecter les autres membres de la communauté en faisant preuve de civisme, de politesse et bienveillance.
+- **Clause « Le logiciel libre, ce n'est pas des bénévoles à vos ordres »** : les messages se contentant de demander quand une fonctionnalité, correctif ou mise à jour sera disponible, volontairement ou involotairement insistants, sans aucune forme de politesse, de bienveillance ou d'intention de contribution, ne sont pas les bienvenus. Si vous souhaitez qu'un point en particulier soit traité, demandez-vous comment contribuer, ou a minima parlez-en avec bienveillance.
+- **Clause « On ne lit pas dans les boules de cristal »** : le forum et chat d'entraide stipulent clairement que pour espérer obtenir de l'aide, il est nécessaire de fournir les informations de base (type de matériel, version de YunoHost), des éléments de contexte et les journaux complets. Ne pas le faire est extrêmement agaçant pour les bénévoles qui tentent de vous aider.
 - **Clause « On ne veut pas finir en taule »** : vous devez respecter la loi (que celle-ci soit bien faite ou idiote).
 - **Clause « Tout abus sera puni »** : abuser techniquement ou humainenement des services peut entraîner la fermeture de vos comptes et l'interdiction de l'accès à une partie ou à l'ensemble des services, possiblement sans avertissement ni négociation.
 
-À propos de la distinction entre YunoHost en tant que projet, en tant que services, en tant que logiciel, et en tant que distribution
--------------------------------------------------------------------------------------------------------------------------------------
+Distinction entre YunoHost en tant que projet, en tant que services, en tant que logiciel, et en tant que distribution
+----------------------------------------------------------------------------------------------------------------------
 
 Ce document détaille les CGS qui s'appliquent **aux services fournis par le projet YunoHost**, mais **pas** à YunoHost en tant que logiciel **ni** aux applications proposées dans le catalogue de YunoHost.
 
@@ -395,11 +397,13 @@ Forum (et chat) d'entraide
 
 ### Adresse du service
 
-`forum.yunohost.org`
+`forum.yunohost.org` et chats listés sur https://yunohost.org/chat_rooms
 
 ### Demander de l'aide
 
-Vous devez respecter les règles définies pour demander de l'aide : https://yunohost.org/fr/help-me et https://forum.yunohost.org/t/how-to-get-help-efficiently-comment-obtenir-de-laide-efficacement/27, et vous devez utiliser le modèle de sujet qui demande les informations de contexte basique et nécessaire pour pouvoir analyser un problème. Si ces règles ne sont pas respéctées, l'équipe se réserve le droit de fermer votre sujet sans préavis.
+Le forum et chat d'entraide stipulent clairement (par exemple [ici](https://yunohost.org/fr/help-me), [ici](https://forum.yunohost.org/t/asking-for-support-demander-de-laide/7795) et [ici](https://forum.yunohost.org/t/how-to-get-help-efficiently-comment-obtenir-de-laide-efficacement/27)) que pour espérer obtenir de l'aide, il est **nécessaire** de fournir les informations de base (type de matériel, version de YunoHost), des éléments de contexte et les journaux complets. Ne pas le faire est extrêmement agaçant pour les personnes qui tentent de vous aider, d'autant plus que nous nous efforçons de simplifier au maximum le partage de ces informations.
+
+Si ces règles ne sont pas respéctées, l'équipe se réserve le droit de fermer votre sujet sans préavis.
 
 ### Données personnelles
 
