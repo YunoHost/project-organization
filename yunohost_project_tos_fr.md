@@ -172,7 +172,7 @@ Pour plus d'informations, se référer aux conditions spécifiques de services.
 
 ### Exercice de vos droits
 
-Conformément à l’article 34 de la loi « Informatique et Libertés », vous pouvez exercer les droits suivant en envoyant un mail sur MAIL_DROIT :
+Conformément à l’article 34 de la loi « Informatique et Libertés », vous pouvez exercer les droits suivant en envoyant un mail à `data CHEZ yunohost.org` :
 
  - droits d’accès, de rectification, d’effacement et d’opposition
  - droit à la limitation du traitement
