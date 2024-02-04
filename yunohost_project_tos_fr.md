@@ -36,7 +36,7 @@ YunoHost en tant que logiciel est publié [sous license AGPLv3](https://www.gnu.
 
 Le projet YunoHost se réserve le droit de mettre à jour et modifier ces conditions. Dans ce cas, le projet YunoHost informe les personnes concernées par un affichage sur le forum ou à défaut sur le site.
 
-Un historique daté des versions de ces conditions peut être récupéré sur LIEN
+Un historique daté des versions de ces conditions peut être récupéré sur https://github.com/YunoHost/project-organization/commits/master/yunohost_project_tos_fr.md
 
 Vue d'ensemble des services
 ---------------------------
