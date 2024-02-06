@@ -20,7 +20,7 @@ Version courte (TL;DR)
 - **Clause « Le logiciel libre, ce n'est pas des bénévoles à vos ordres »** : les messages se contentant de demander quand une fonctionnalité, correctif ou mise à jour sera disponible, volontairement ou involotairement insistants, sans aucune forme de politesse, de bienveillance ou d'intention de contribution, ne sont pas les bienvenus. Si vous souhaitez qu'un point en particulier soit traité, demandez-vous comment contribuer, ou a minima parlez-en avec bienveillance.
 - **Clause « On ne lit pas dans les boules de cristal »** : le forum et chat d'entraide stipulent clairement que pour espérer obtenir de l'aide, il est nécessaire de fournir les informations de base (type de matériel, version de YunoHost), des éléments de contexte et les journaux complets. Ne pas le faire est extrêmement agaçant pour les bénévoles qui tentent de vous aider.
 - **Clause « On ne veut pas finir en taule »** : vous devez respecter la loi (que celle-ci soit bien faite ou idiote).
-- **Clause « Tout abus sera puni »** : abuser techniquement ou humainenement des services peut entraîner la fermeture de vos comptes et l'interdiction de l'accès à une partie ou à l'ensemble des services, possiblement sans avertissement ni négociation.
+- **Clause « Tout abus sera puni »** : abuser techniquement ou humainement des services peut entraîner la fermeture de vos comptes et l'interdiction de l'accès à une partie ou à l'ensemble des services, possiblement sans avertissement ni négociation.
 
 Distinction entre YunoHost en tant que projet, en tant que services, en tant que logiciel, et en tant que distribution
 ----------------------------------------------------------------------------------------------------------------------
