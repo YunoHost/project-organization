@@ -52,7 +52,7 @@ Les services administrés et maintenus par le projet sont, à ce jour :
 - un service de démonstration d'un serveur YunoHost en libre service ;
 - d'autres services liés au développement et à la maintenance
 
-En outre, le projet dépends, utilise ou encourage l'utilisation de services gérés par des tiers, tels que:
+En outre, le projet dépend, utilise, ou encourage l'utilisation de services gérés par des tiers, tels que:
 - des briques logicielles et recettes d'installations automatiques (apps) hébergées chez des tiers tels que (liste non-exhaustive) github.com, npmjs.org, pypi.org, debian.org, sury.org, ...
 - plusieurs salons de discussion communautaires publics utilisant les protocoles Matrix, XMPP et IRC, hébergés par des tiers tels que (liste non-exhaustive) matrix.org et libera.chat ;
 - l'autorité de certification Let's Encrypt ;
