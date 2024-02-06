@@ -29,7 +29,7 @@ Ce document détaille les CGS qui s'appliquent **aux services fournis par le pro
 
 YunoHost en tant que logiciel est publié [sous license AGPLv3](https://www.gnu.org/licenses/agpl-3.0.txt) et est donc fourni sans garantie d'aucune sorte et n'est pas responsable des dommages résultant de son utilisation, ni de l'utilisation des applations qu'il permet d'installer.
 
-*Si vous utilisez YunoHost pour fournir des services à d'autres personnes, il est de votre responsabilité de mettre en place des CGUs pour vos propres services à l'attention de ces personnes, et de vous renseigner sur toutes les implications légales des applications que vous installez.*
+*Si vous utilisez YunoHost pour fournir des services à d'autres personnes, il est de votre responsabilité de définir et publier les conditions générales d'utilisation de votre souhait pour vos propres services à l'attention de ces personnes, et de vous renseigner sur toutes les implications légales des applications que vous installez.*
 
 Évolution des conditions générales et spécifiques de service
 ------------------------------------------------------------
