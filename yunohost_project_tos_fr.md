@@ -57,6 +57,7 @@ En outre, le projet dépend, utilise, ou encourage l'utilisation de services gé
 - plusieurs salons de discussion communautaires publics utilisant les protocoles Matrix, XMPP et IRC, hébergés par des tiers tels que (liste non-exhaustive) matrix.org et libera.chat ;
 - l'autorité de certification Let's Encrypt ;
 - une interface de dons, dont les paiements sont gérés par Stripe et à destination de Support Self-Hosting, l'association qui récolte et gère les dons ;
+Le cas échéant, il est de votre responsabilité de consulter les conditions d'utilisations de ces services gérés par des tiers.
 
 Accès aux services
 ------------------
