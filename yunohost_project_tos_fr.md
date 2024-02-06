@@ -223,7 +223,7 @@ Dons
 
 ### Arrêt d'un don réccurent
 
-Pour demander l'arrêt de votre don réccurent, merci d'envoyer un mail à donate-5542@yunohost.org et d'indiquer les informations qui permettront d'identifier votre don (email utilisé, nom, montant).
+Pour demander l'arrêt de votre don récurrent, merci d'envoyer un mail à `donate-5542 CHEZ yunohost.org` et d'indiquer les informations qui permettront d'identifier votre don (email utilisé, nom, montant).
 
 ### Données personnelles
 
