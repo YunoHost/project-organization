@@ -482,3 +482,18 @@ GPG Public key
 ```
 
 
+## OniriCorpe
+SSH
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAb+PnME7+BFnFq+7Xx4Y3QA9sdoP4xBwkj33gh1Ksn+ krau
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKFOJbpru1JJZoVSHeCz7VENQxAF17icAx28S3Imhfiy apple
+```
+
+GPG Fingerprint
+```
+```
+
+GPG Public key
+
+```
+```
