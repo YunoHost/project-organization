@@ -16,8 +16,8 @@ Version courte (TL;DR)
 - **Clause « Ceci est un projet communautaire »** : vous acceptez et respectez le fait que le projet est maintenu par une équipe bénévole, et que le temps et l'énergie bénévole sont la force motrice du projet. Vous êtes les bienvenus pour contribuer au projet, ponctuellement ou dans la durée, par le moyen de votre choix (que ce soit en parler autour de vous, nous faire des retours constructifs, aider les autres, faire coucou, traduire, tester, coder, donner, ...).
 - **Clause « On fait ce qu'on peut »** : Vous acceptez que l'équipe bénévole fait du mieux qu'elle peut et n'est assujetti à aucune obligation, ni de moyen, ni de résultat. Le projet ne peut être tenu pour responsable des dommages ou préjudices indirects si un service cesse de fonctionner. L'équipe peut décider d'arrêter un service à tout moment.
 - **Clause « On n'est pas un GAFAM »** : nous essayons de minimiser le plus possible les données personnelles qui peuvent transiter, être stockées sur notre infrastructure ou être transférée vers des tiers. Nous publions le code qui fait tourner nos services. Nous nous interdisons toute revente de données personnelles. Nous n'exploitons les données qu'à des fin de statistiques internes et anonymisées.
-- **Clause « On aime pas les personnes toxiques »** : vous devez respecter les autres membres de la communauté en faisant preuve de civisme, de politesse et bienveillance.
-- **Clause « Le logiciel libre, ce n'est pas des bénévoles à vos ordres »** : les messages se contentant de demander quand une fonctionnalité, correctif ou mise à jour sera disponible, volontairement ou involotairement insistants, sans aucune forme de politesse, de bienveillance ou d'intention de contribution, ne sont pas les bienvenus. Si vous souhaitez qu'un point en particulier soit traité, demandez-vous comment contribuer, ou a minima parlez-en avec bienveillance.
+- **Clause « On n'aime pas les personnes toxiques »** : vous devez respecter les autres membres de la communauté en faisant preuve de civisme, de politesse et bienveillance.
+- **Clause « Le logiciel libre, ce n'est pas des bénévoles à vos ordres »** : les messages se contentant de demander quand une fonctionnalité, correctif ou mise à jour sera disponible, volontairement ou involontairement insistants, sans aucune forme de politesse, de bienveillance ou d'intention de contribution, ne sont pas les bienvenus. Si vous souhaitez qu'un point en particulier soit traité, demandez-vous comment contribuer, ou a minima parlez-en avec bienveillance.
 - **Clause « On ne lit pas dans les boules de cristal »** : le forum et chat d'entraide stipulent clairement que pour espérer obtenir de l'aide, il est nécessaire de fournir les informations de base (type de matériel, version de YunoHost), des éléments de contexte et les journaux complets. Ne pas le faire est extrêmement agaçant pour les bénévoles qui tentent de vous aider.
 - **Clause « On ne veut pas finir en taule »** : vous devez respecter la loi (que celle-ci soit bien faite ou idiote).
 - **Clause « Tout abus sera puni »** : abuser techniquement ou humainement des services peut entraîner la fermeture de vos comptes et l'interdiction de l'accès à une partie ou à l'ensemble des services, possiblement sans avertissement ni négociation.
@@ -27,7 +27,7 @@ Distinction entre YunoHost en tant que projet, en tant que services, en tant que
 
 Ce document détaille les CGS qui s'appliquent **aux services fournis par le projet YunoHost**, mais **pas** à YunoHost en tant que logiciel **ni** aux applications proposées dans le catalogue de YunoHost.
 
-YunoHost en tant que logiciel est publié [sous license AGPLv3](https://www.gnu.org/licenses/agpl-3.0.txt) et est donc fourni sans garantie d'aucune sorte et n'est pas responsable des dommages résultant de son utilisation, ni de l'utilisation des applations qu'il permet d'installer.
+YunoHost en tant que logiciel est publié [sous licence AGPLv3](https://www.gnu.org/licenses/agpl-3.0.txt) et est donc fourni sans garantie d'aucune sorte et n'est pas responsable des dommages résultant de son utilisation, ni de l'utilisation des applications qu'il permet d'installer.
 
 *Si vous utilisez YunoHost pour fournir des services à d'autres personnes, il est de votre responsabilité de définir et publier les conditions générales d'utilisation de votre souhait pour vos propres services à l'attention de ces personnes, et de vous renseigner sur toutes les implications légales des applications que vous installez.*
 
@@ -76,10 +76,10 @@ Tout autre usage (par exemple: utilisation dans une autre distribution, créatio
 
 ### Services accessibles via un compte et résiliation
 
-Les fonctionalités suivantes sont accessibles via un compte :
+Les fonctionnalités suivantes sont accessibles via un compte :
 - l'écriture sur le forum ;
 - le vote pour les applications du catalogue (sur `apps.yunohost.org`) ;
-- la réservation et la gestion de noms de domaines dynamiques fournit par le pojet YunoHost (`nohost.me`, `noho.st` et `ynh.fr`).
+- la réservation et la gestion de noms de domaines dynamiques fournit par le projet YunoHost (`nohost.me`, `noho.st` et `ynh.fr`).
 
 Le compte sur le forum et le compte gérant votre nom de domaine peuvent être résiliés grâce aux identifiants associés.
 
@@ -100,7 +100,7 @@ En cas d’incapacité à résoudre un problème technique, le projet YunoHost p
 
 ### Devenir des services
 
-Le projet YunoHost ne garanti pas que les services continueront à fonctionner éternellement, et peut choisir d’arrêter des services si le projet estime ne plus être en mesure de fournir lesdits services. 
+Le projet YunoHost ne garanti pas que les services continueront à fonctionner éternellement, et peut choisir d’arrêter des services si le projet estime ne plus être en mesure de fournir lesdits services.
 
 Si le projet YunoHost en a la possibilité, elle fera de son mieux pour laisser un délai suffisant pour permettre à tout le monde de migrer ou de s'adapter sereinement.
 
@@ -108,16 +108,16 @@ Si le projet YunoHost en a la possibilité, elle fera de son mieux pour laisser 
 
 **En aucun cas, un ou une utilisatrice ne pourra se prévaloir de dommages ou indemnités résultant de problèmes techniques de quelque nature que ce soit.**
 
-Le projet YunoHost n'est assujetti à aucune obligation (ni de moyen, ni de résultat). En cas de défaillance ou d'arrêt des services, le projet YunoHost ne peut être tenu pour responsable des dommages indirects tels que pertes de données, pertes d’exploitation, préjudices commerciaux, perte de Clientèle, de chiffre d’affaires, de bénéfices ou d’économies prévus, ou de tout autre préjudice indirect.
+Le projet YunoHost n'est assujetti à aucune obligation (ni de moyen, ni de résultat). En cas de défaillance ou d'arrêt des services, le projet YunoHost ne peut être tenu pour responsable des dommages indirects tels que pertes de données, pertes d’exploitation, préjudices commerciaux, perte de clientèle, de chiffre d’affaires, de bénéfices ou d’économies prévus, ou de tout autre préjudice indirect.
 
-En particulier, le projet YunoHost ne pourra être tenu responsable si vous avez fait dépendre de ses services des intérêts vitaux. 
+En particulier, le projet YunoHost ne pourra être tenu responsable si vous avez fait dépendre de ses services des intérêts vitaux.
 
 Mésusage des services
 ---------------------
 
 **Tout abus peut entraîner la fermeture de vos comptes et l'interdiction de l'accès à une partie ou à l'ensemble des services.**
 
-Le projet se réserve le droit de mettre en place les mesures jugée nécessaires pour mettre fin aux abus constatés. Le projet YunoHost reste seul juge de cette notion « d’abus » dans le but de fournir le meilleur service possible à l’ensemble des usagers et usagères. Le projet YunoHost pourra décider d'agir sans avertissement ni négociation.
+Le projet se réserve le droit de mettre en place les mesures jugées nécessaires pour mettre fin aux abus constatés. Le projet YunoHost reste seul juge de cette notion « d’abus » dans le but de fournir le meilleur service possible à l’ensemble des usagers et usagères. Le projet YunoHost pourra décider d'agir sans avertissement ni négociation.
 
 ### Usage illégal des services
 
@@ -129,11 +129,11 @@ En cas d’usage prohibé, le projet YunoHost peut se trouver dans l’obligatio
 
 ### Respect de la communauté et des bénévoles
 
-Vous acceptez et respectez le fait que le projet YunoHost est un projet communautaire maintenu par une équipe bénévole, et que le temps et l'énergie bénévole sont la force motrice du projet. Vous comprenez que les bénévoles du projet font de leur mieux, et qu'abuser de leur temps ou de leur énergie équivaut à saboter le projet. 
+Vous acceptez et respectez le fait que le projet YunoHost est un projet communautaire maintenu par une équipe bénévole, et que le temps et l'énergie bénévole sont la force motrice du projet. Vous comprenez que les bénévoles du projet font de leur mieux, et qu'abuser de leur temps ou de leur énergie équivaut à saboter le projet.
 
-Vous devez respecter les autres utilisateurs et l'équipe du projet en faisant preuve de civisme, de politesse et bienveillance. Toutes formes de pression, insistance, harcèlement ou toxicité est prohibée. Le projet YunoHost se réserve le droit de vous bannir et de supprimer tout contenu paraissant non pertinent ou contrevenant à ces principes, selon son seul jugement.
+Vous devez respecter les autres utilisateurs et l'équipe du projet en faisant preuve de civisme, de politesse et bienveillance. Toutes formes de pression, insistance, harcèlement ou toxicité est prohibée. Le projet YunoHost se réserve le droit de vous bannir et de supprimer tout contenu paraissant non pertinent ou contrevenant à ces principes, selon son seul jugement et sans qu'un avertissement préalable ne soit nécessaire.
 
-En particulier, le projet YunoHost sera intransigeant dés lors que votre comportement consommera trop d'énergie des contributeur⋅ices régulier⋅es du projet.
+En particulier, le projet YunoHost sera intransigeant dès lors que votre comportement consommera trop d'énergie des contributeur⋅ices régulier⋅es du projet.
 
 ### Utilisation raisonnable
 
@@ -149,15 +149,15 @@ Nos engagements
 
 **Le projet YunoHost vise à long-terme à respecter la charte du Collectif des Hébergeurs, Alternatifs, Transparents, Ouverts, Neutres et Solidaires dans le cadre de son activité de fourniture de services**
 
-Compte tenu de sa portée internationale, le projet YunoHost n'est pas, à ce jour, candidat à l’intégration au sein de ce collectif.
+Compte tenu de sa portée internationale, le projet YunoHost n'est pas, à ce jour, candidat à l’intégration au sein de ce collectif. Toutefois à ce jour des membres du collectif C.H.A.T.O.N.S utilisent Yunohost.
 
 Plus d’information sur la charte C.H.A.T.O.N.S. : https://chatons.org/charte
 
 ### Respect de vos données personnelles et de votre vie privée
 
-Nous essayons de minimiser le plus possible les données personnelles qui peuvent transiter, être stockées sur notre infrastructure ou être transférée vers des tiers. 
+Nous essayons de minimiser le plus possible les données personnelles qui peuvent transiter, être stockées sur notre infrastructure ou être transférée vers des tiers.
 
-Le projet YunoHost s'interdit toute revente de données personnelles.
+Le projet YunoHost s'interdit toute revente ou transfert de données personnelles à des tiers.
 
 Ci-dessous, le détail des informations personnelles susceptibles de transiter ou d'être stockées sur les services du projet YunoHost:
 - informations techniques (IP, User agent) utilisées pour interagir avec les services. Elles sont utilisées dans le but de fournir le service, d'en assurer la maintenance et la sécurité et de créer des statistiques agrégées très basiques.
@@ -175,10 +175,10 @@ Pour plus d'informations, se référer aux conditions spécifiques de services.
 
 Conformément à l’article 34 de la loi « Informatique et Libertés », vous pouvez exercer les droits suivant en envoyant un mail à `data CHEZ yunohost.org` :
 
- - droits d’accès, de rectification, d’effacement et d’opposition
- - droit à la limitation du traitement
- - droit à la portabilité des données
- - droit de ne pas faire l’objet d’une décision individuelle automatisée
+- droits d’accès, de rectification, d’effacement et d’opposition
+- droit à la limitation du traitement
+- droit à la portabilité des données
+- droit de ne pas faire l’objet d’une décision individuelle automatisée
 
 ### RGPD
 
@@ -189,7 +189,7 @@ Néanmoins ceci ne signifie en aucun cas que *le logiciel YunoHost*, ni les appl
 Litige et juridiction compétente
 --------------------------------
 
-Le droit applicable aux présentes est le droit français. En cas de différent, les parties recherchent une solution amiable. Si la démarche échoue, le litige sera tranché par le Tribunal de Grande Instance de Toulouse (FRANCE).
+Le droit applicable aux présentes est le droit français. En cas de différend, les parties recherchent une solution amiable. Si la démarche échoue, le litige sera tranché par le Tribunal de Grande Instance de Toulouse (FRANCE).
 
 Le fait que l’usager ou le projet YunoHost ne se prévale pas à un moment donné de l’une des présentes conditions générales et/ou tolère un manquement par l’autre partie ne peut être interprété comme valant renonciation par l’usager ou le projet YunoHost à se prévaloir ultérieurement de ces conditions.
 
@@ -222,15 +222,15 @@ Dons
 
 `donate.yunohost.org`
 
-### Arrêt d'un don réccurent
+### Arrêt d'un don récurent
 
 Pour demander l'arrêt de votre don récurrent, merci d'envoyer un mail à `donate-5542 CHEZ yunohost.org` et d'indiquer les informations qui permettront d'identifier votre don (email utilisé, nom, montant).
 
 ### Données personnelles
 
-Pour fournir ce service, l'association Support Self-Hosting utilise Stripe comme infrastructure de paiement. 
+Pour fournir ce service, l'association Support Self-Hosting utilise Stripe comme infrastructure de paiement.
 
-Il est nécessaire d'utiliser une carte bancaire ainsi que de son identité, mais ces données ne sont pas stockées, ni même ne transite, par l'infrastructure du projet YunoHost, sauf dans les mails échangés dans le cadre d'une résiliation de don réccurent.
+Il est nécessaire d'utiliser une carte bancaire ainsi que de son identité, mais ces données ne sont pas stockées, ni même ne transite, par l'infrastructure du projet YunoHost, sauf dans les mails échangés dans le cadre d'une résiliation de don récurent.
 
 Comme n'importe quel service web, un journal technique existe enregistrant l'IP et le User Agent des requêtes.
 
@@ -241,8 +241,8 @@ Supports d'installations (image ISO, ARM, script d'installation, ...)
 ---------------------------------------------------------------------
 
 Vous utilisez ce service dans 2 situations:
- - installation ou restauration de YunoHost
- - (plus rare) installation, mise à jour, ou restauration d'une app dont le binaire n'est pas fournis par son éditeur et dont sa compilation sur votre propre machine est jugée trop longue ou trop couteuse en ressources.
+- installation ou restauration de YunoHost
+- (plus rare) installation, mise à jour, ou restauration d'une app dont le binaire n'est pas fournis par son éditeur et dont sa compilation sur votre propre machine est jugée trop longue ou trop coûteuse en ressources.
 
 ### Adresse du service
 
@@ -402,9 +402,9 @@ Forum (et chat) d'entraide
 
 ### Demander de l'aide
 
-Le forum et chat d'entraide stipulent clairement (par exemple [ici](https://yunohost.org/fr/help-me), [ici](https://forum.yunohost.org/t/asking-for-support-demander-de-laide/7795) et [ici](https://forum.yunohost.org/t/how-to-get-help-efficiently-comment-obtenir-de-laide-efficacement/27)) que pour espérer obtenir de l'aide, il est **nécessaire** de fournir les informations de base (type de matériel, version de YunoHost), des éléments de contexte et les journaux complets. Ne pas le faire est extrêmement agaçant pour les personnes qui tentent de vous aider, d'autant plus que nous nous efforçons de simplifier au maximum le partage de ces informations.
+Le forum et chat d'entraide stipulent clairement (par exemple [ici](https://yunohost.org/fr/help-me), [ici](https://forum.yunohost.org/t/asking-for-support-demander-de-laide/7795) et [ici](https://forum.yunohost.org/t/how-to-get-help-efficiently-comment-obtenir-de-laide-efficacement/27)) que pour espérer obtenir de l'aide, il est **nécessaire** de fournir les informations de base (type de matériel, version de YunoHost), des éléments de contexte et les journaux complets. Ne pas le faire est extrêmement agaçant pour les personnes qui tentent de vous aider, d'autant plus que nous nous efforçons de simplifier au maximum le partage de ces informations. De plus c'est contre-productif car cela fait perdre du temps à tout le monde : on ne peux pas résoudre un problème qu'on ne peut diagnostiquer.
 
-Si ces règles ne sont pas respéctées, l'équipe se réserve le droit de fermer votre sujet sans préavis.
+Si ces règles ne sont pas respectées, l'équipe se réserve le droit de fermer votre sujet sans préavis.
 
 ### Données personnelles
 
@@ -416,7 +416,17 @@ Comme n'importe quel service web, un journal technique existe enregistrant l'IP 
 
 Paris
 
-Démo
+Service de démonstration
 ----
 
-TODO/FIXME
+### Adresse du service
+
+`demo.yunohost.org`
+
+### Objectif et fonctionnement
+
+Ce service permet de tester les interfaces de YunoHost (webadmin et portail utilisateur) pour découvrir et se faire une idée de YunoHost sans l'installer. Les données de ce serveur sont détruites et réinitialisées toutes les 30 minutes environ.
+
+### Données personnelles
+
+Comme n'importe quel service web, un journal technique existe enregistrant l'IP et le User Agent des requêtes.
