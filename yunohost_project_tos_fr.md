@@ -6,18 +6,18 @@ Conditions Générales et spécifiques des Services opérés par le projet YunoH
 Préambule
 ---------
 
-Le projet YunoHost est une équipe de personnes bénévoles qui ont fait cause commune pour créer un système d'exploitation libre pour les serveurs, appelé YunoHost. YunoHost est publié [sous licence GNU Affero General Public License v3](https://www.gnu.org/licenses/agpl-3.0.txt). En lien avec ce logiciel, le projet administre et met à disposition plusieurs services techniques et communautaires à des fins diverses.
+Le projet YunoHost est animé par une équipe de personnes bénévoles qui ont fait cause commune pour créer un système d'exploitation libre pour les serveurs, appelé YunoHost. YunoHost est publié [sous licence GNU Affero General Public License v3](https://www.gnu.org/licenses/agpl-3.0.txt). En lien avec ce logiciel, le projet administre et met à disposition plusieurs services techniques et communautaires à des fins diverses.
 
 En utilisant ces services, vous acceptez d’être lié·e par les conditions suivantes.
 
 Version courte (TL;DR)
 --------------
 
-- **Clause « Ceci est un projet communautaire »** : vous acceptez et respectez le fait que le projet est maintenu par une équipe bénévole, et que le temps et l'énergie bénévole sont la force motrice du projet. Vous êtes les bienvenus pour contribuer au projet, ponctuellement ou dans la durée, par le moyen de votre choix (que ce soit en parler autour de vous, nous faire des retours constructifs, aider les autres, faire coucou, traduire, tester, coder, donner, ...).
-- **Clause « On fait ce qu'on peut »** : Vous acceptez que l'équipe bénévole fait du mieux qu'elle peut et n'est assujetti à aucune obligation, ni de moyen, ni de résultat. Le projet ne peut être tenu pour responsable des dommages ou préjudices indirects si un service cesse de fonctionner. L'équipe peut décider d'arrêter un service à tout moment.
+- **Clause « Ceci est un projet communautaire »** : vous acceptez et respectez le fait que le projet est maintenu par une équipe bénévole, et que le temps et l'énergie bénévole sont la force motrice du projet. Vous êtes les bienvenu·es pour contribuer au projet, ponctuellement ou dans la durée, par le moyen de votre choix (que ce soit en parler autour de vous, nous faire des retours constructifs, aider les autres, faire coucou, traduire, tester, coder, donner, ...).
+- **Clause « On fait ce qu'on peut »** : vous acceptez que l'équipe bénévole fait du mieux qu'elle peut et n'est assujettie à aucune obligation, ni de moyen, ni de résultat. Le projet ne peut être tenu pour responsable des dommages ou préjudices indirects si un service cesse de fonctionner. L'équipe peut décider d'arrêter un service à tout moment.
 - **Clause « On n'est pas un GAFAM »** : nous essayons de minimiser le plus possible les données personnelles qui peuvent transiter, être stockées sur notre infrastructure ou être transférée vers des tiers. Nous publions le code qui fait tourner nos services. Nous nous interdisons toute revente de données personnelles. Nous n'exploitons les données qu'à des fin de statistiques internes et anonymisées.
 - **Clause « On n'aime pas les personnes toxiques »** : vous devez respecter les autres membres de la communauté en faisant preuve de civisme, de politesse et bienveillance.
-- **Clause « Le logiciel libre, ce n'est pas des bénévoles à vos ordres »** : les messages se contentant de demander quand une fonctionnalité, correctif ou mise à jour sera disponible, volontairement ou involontairement insistants, sans aucune forme de politesse, de bienveillance ou d'intention de contribution, ne sont pas les bienvenus. Si vous souhaitez qu'un point en particulier soit traité, demandez-vous comment contribuer, ou a minima parlez-en avec bienveillance.
+- **Clause « Le logiciel libre, ce n'est pas des bénévoles à vos ordres »** : les messages se limitant à demander quand une fonctionnalité, correctif ou mise à jour sera disponible, volontairement ou involontairement insistants, sans aucune forme de politesse, de bienveillance ou d'intention de contribution, ne sont pas les bienvenus. Si vous souhaitez qu'un point en particulier soit traité, demandez-vous comment contribuer, ou a minima parlez-en avec bienveillance.
 - **Clause « On ne lit pas dans les boules de cristal »** : le forum et chat d'entraide stipulent clairement que pour espérer obtenir de l'aide, il est nécessaire de fournir les informations de base (type de matériel, version de YunoHost), des éléments de contexte et les journaux complets. Ne pas le faire est extrêmement agaçant pour les bénévoles qui tentent de vous aider.
 - **Clause « On ne veut pas finir en taule »** : vous devez respecter la loi (que celle-ci soit bien faite ou idiote).
 - **Clause « Tout abus sera puni »** : abuser techniquement ou humainement des services peut entraîner la fermeture de vos comptes et l'interdiction de l'accès à une partie ou à l'ensemble des services, possiblement sans avertissement ni négociation.
@@ -48,15 +48,15 @@ Les services administrés et maintenus par le projet sont, à ce jour :
 - un catalogue d'application public pour permettre de présenter et voter pour les applications disponibles, et une API permettant à des programmes de récupérer cette liste ;
 - un service pastebin, destiné à partager facilement les logs et autres informations techniques ;
 - un service de nom de domaine gratuit, destiné à réduire les frictions pour les personnes qui ne possèdent pas encore de nom de domaine ou qui souhaitent une solution simple et rapide dans le contexte de YunoHost ;
-- des services d'auto-diagnostic utilisés par le logiciel YunoHost et destinés à aider les utilisateurs à diagnostiquer de manière autonome les problèmes techniques ;
+- des services d'auto-diagnostic utilisés par le logiciel YunoHost et destinés à aider les utilisateurices à diagnostiquer de manière autonome les problèmes techniques ;
 - un service de démonstration d'un serveur YunoHost en libre service ;
-- d'autres services liés au développement et à la maintenance
+- d'autres services liés au développement et à la maintenance.
 
-En outre, le projet dépend, utilise, ou encourage l'utilisation de services gérés par des tiers, tels que:
-- des briques logicielles et recettes d'installations automatiques (apps) hébergées chez des tiers tels que (liste non-exhaustive) github.com, npmjs.org, pypi.org, debian.org, sury.org, ...
+En outre, le projet dépend, utilise, ou encourage l'utilisation de services gérés par des tiers, tels que :
+- des briques logicielles et recettes d'installations automatiques (apps) hébergées chez des tiers tels que (liste non-exhaustive) github.com, npmjs.org, pypi.org, debian.org, sury.org, …
 - plusieurs salons de discussion communautaires publics utilisant les protocoles Matrix, XMPP et IRC, hébergés par des tiers tels que (liste non-exhaustive) matrix.org et libera.chat ;
 - l'autorité de certification Let's Encrypt ;
-- une interface de dons, dont les paiements sont gérés par Stripe et à destination de Support Self-Hosting, l'association qui récolte et gère les dons ;
+- une interface de dons, dont les paiements sont gérés par Stripe et à destination de Support Self-Hosting, l'association qui récolte et gère les dons.
 Le cas échéant, il est de votre responsabilité de consulter les conditions d'utilisations de ces services gérés par des tiers.
 
 Accès aux services
@@ -102,7 +102,7 @@ En cas d’incapacité à résoudre un problème technique, le projet YunoHost p
 
 Le projet YunoHost ne garanti pas que les services continueront à fonctionner éternellement, et peut choisir d’arrêter des services si le projet estime ne plus être en mesure de fournir lesdits services.
 
-Si le projet YunoHost en a la possibilité, elle fera de son mieux pour laisser un délai suffisant pour permettre à tout le monde de migrer ou de s'adapter sereinement.
+Si le collectif qui anime le projet YunoHost en a la possibilité, il fera de son mieux pour laisser un délai suffisant pour permettre à tout le monde de migrer ou de s'adapter sereinement.
 
 ### Responsabilité du projet YunoHost
 
@@ -131,7 +131,7 @@ En cas d’usage prohibé, le projet YunoHost peut se trouver dans l’obligatio
 
 Vous acceptez et respectez le fait que le projet YunoHost est un projet communautaire maintenu par une équipe bénévole, et que le temps et l'énergie bénévole sont la force motrice du projet. Vous comprenez que les bénévoles du projet font de leur mieux, et qu'abuser de leur temps ou de leur énergie équivaut à saboter le projet.
 
-Vous devez respecter les autres utilisateurs et l'équipe du projet en faisant preuve de civisme, de politesse et bienveillance. Toutes formes de pression, insistance, harcèlement ou toxicité est prohibée. Le projet YunoHost se réserve le droit de vous bannir et de supprimer tout contenu paraissant non pertinent ou contrevenant à ces principes, selon son seul jugement et sans qu'un avertissement préalable ne soit nécessaire.
+Vous devez respecter les autres utilisateurices et l'équipe du projet en faisant preuve de civisme, de politesse et bienveillance. Toute forme de pression, insistance, harcèlement ou toxicité est prohibée. Le projet YunoHost se réserve le droit de vous bannir et de supprimer tout contenu paraissant non pertinent ou contrevenant à ces principes, selon son seul jugement et sans qu'un avertissement préalable ne soit nécessaire.
 
 En particulier, le projet YunoHost sera intransigeant dès lors que votre comportement consommera trop d'énergie des contributeur⋅ices régulier⋅es du projet.
 
@@ -160,12 +160,12 @@ Nous essayons de minimiser le plus possible les données personnelles qui peuven
 Le projet YunoHost s'interdit toute revente ou transfert de données personnelles à des tiers.
 
 Ci-dessous, le détail des informations personnelles susceptibles de transiter ou d'être stockées sur les services du projet YunoHost:
-- informations techniques (IP, User agent) utilisées pour interagir avec les services. Elles sont utilisées dans le but de fournir le service, d'en assurer la maintenance et la sécurité et de créer des statistiques agrégées très basiques.
-- email et pseudonyme utilisés sur le forum
-- informations personnelles figurant dans les messages échangées via le forum ou le chat
-- informations personnelles incluses dans les noms de domaines fournit par le projet
-- informations figurant dans des logs que vous avez partagés via l'outil dédié
-- informations bancaires et personnelles dans le cadre d'un don via Stripe ou Liberapay
+- informations techniques (IP, User agent) utilisées pour interagir avec les services. Elles sont utilisées dans le but de fournir le service, d'en assurer la maintenance et la sécurité et de créer des statistiques agrégées très basiques ;
+- email et pseudonyme utilisés sur le forum ;
+- informations personnelles figurant dans les messages échangées via le forum ou le chat ;
+- informations personnelles incluses dans les noms de domaines fournit par le projet ;
+- informations figurant dans des logs que vous avez partagés via l'outil dédié ;
+- informations bancaires et personnelles dans le cadre d'un don via Stripe ou Liberapay.
 
 Sauf mentions contraires dans les conditions spécifiques, ces données se trouvent à Paris, Strasbourg et Toulouse.
 
@@ -175,16 +175,16 @@ Pour plus d'informations, se référer aux conditions spécifiques de services.
 
 Conformément à l’article 34 de la loi « Informatique et Libertés », vous pouvez exercer les droits suivant en envoyant un mail à `data CHEZ yunohost.org` :
 
-- droits d’accès, de rectification, d’effacement et d’opposition
-- droit à la limitation du traitement
-- droit à la portabilité des données
-- droit de ne pas faire l’objet d’une décision individuelle automatisée
+- droits d’accès, de rectification, d’effacement et d’opposition ;
+- droit à la limitation du traitement ;
+- droit à la portabilité des données ;
+- droit de ne pas faire l’objet d’une décision individuelle automatisée.
 
-### RGPD
+### Règlement général sur la protection des donnée (RGPD)
 
-Le projet YunoHost s’engage, vis à vis des services qu'il met à disposition, à respecter la réglementation en vigueur applicable au traitement de données à caractère personnel et, en particulier, le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 applicable à compter du 25 mai 2018, dite RGPD.
+Le projet YunoHost s’engage, vis à vis des services qu'il met à disposition, à respecter la réglementation en vigueur applicable au traitement de données à caractère personnel et, en particulier, le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 applicable à compter du 25 mai 2018, dit RGPD.
 
-Néanmoins ceci ne signifie en aucun cas que *le logiciel YunoHost*, ni les applications proposées à l'installation, serait certifié avec une quelconque conformité au RGPD (quoi que cela puisse signifier pour vous).
+Néanmoins ceci ne signifie en aucun cas que *le logiciel YunoHost*, ni les applications proposées à l'installation, seraient certifiés avec une quelconque conformité au RGPD (quoi que cela puisse signifier pour vous).
 
 Litige et juridiction compétente
 --------------------------------
@@ -241,7 +241,7 @@ Supports d'installations (image ISO, ARM, script d'installation, ...)
 ---------------------------------------------------------------------
 
 Vous utilisez ce service dans 2 situations:
-- installation ou restauration de YunoHost
+- installation ou restauration de YunoHost ;
 - (plus rare) installation, mise à jour, ou restauration d'une app dont le binaire n'est pas fournis par son éditeur et dont sa compilation sur votre propre machine est jugée trop longue ou trop coûteuse en ressources.
 
 ### Adresse du service
@@ -328,7 +328,7 @@ Catalogue d'applications
 
 Ce service permet de consulter (via un navigateur ou un programme) la liste des applications disponibles à l'installation dans YunoHost. Il permet également de voter pour les apps afin d'orienter les efforts de contribution.
 
-De plus, les serveurs fonctionnant sous YunoHost récupère automatiquement le catalogue d'application une fois par jour.
+De plus, les serveurs fonctionnant sous YunoHost récupèrent automatiquement le catalogue d'application une fois par jour.
 
 ### Adresses du service
 
