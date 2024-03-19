@@ -387,6 +387,11 @@ SSH public key (laptop)
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKHBF0bRGNenuMU05qwrFVHy9YBVXkt22NFi+0GFT6z9 felix@framed
 ```
 
+SSH public key (NAS)
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK8NriZ/QWFZ7oaAQ9MjO3ArfcQ8qqTMB6XJmMWsGOV1 salamandar@salamandar.fr
+```
+
 GPG Fingerprint
 ```
 4972 B73E B031 FB2F 91A9 4A92 C275 36D3 714F 339F
