@@ -378,6 +378,15 @@ Ro3YVfbRE1uk9i3kUwD7BAOhlstNf+Dj6gwHwow5KKP0Mfi6r7yjiCpRdS2tKgA=
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
+## mathieuw
+
+Contact email: mathieuw[at]globenet.org
+
+SSH public key (laptop)
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP6Jxt9V2rBGzfnE6jvUyCJFCwFljalrckpc49zif/7V mathieu@DellMathieu
+```
+
 ## Salamandar
 
 Contact email: felix[at]piedallu.me
