@@ -182,7 +182,7 @@ Conformément à l’article 34 de la loi « Informatique et Libertés », vous 
 
 ### Règlement général sur la protection des donnée (RGPD)
 
-Le projet YunoHost s’engage, vis à vis des services qu'il met à disposition, à respecter la réglementation en vigueur applicable au traitement de données à caractère personnel et, en particulier, le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 applicable à compter du 25 mai 2018, dit RGPD.
+Le projet YunoHost s’engage, vis à vis des services qu'il met à disposition, à respecter la réglementation en vigueur applicable au traitement de données à caractère personnel et, en particulier, le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 applicable à compter du 25 mai 2018, dite RGPD.
 
 Néanmoins ceci ne signifie en aucun cas que *le logiciel YunoHost*, ni les applications proposées à l'installation, seraient certifiés avec une quelconque conformité au RGPD (quoi que cela puisse signifier pour vous).
 
