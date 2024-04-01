@@ -1,17 +1,14 @@
-General and Specific Conditions of Services operated by the YunoHost project
-==============================================================================
+# General and Specific Conditions of Services operated by the YunoHost project
 
 01/02/2024
 
-Preamble
----------
+## Preamble
 
 The YunoHost project is a team of volunteers who have made common cause to create a free operating system for servers, called YunoHost. YunoHost is published [under the GNU Affero General Public License v3](https://www.gnu.org/licenses/agpl-3.0.txt). In connection with this software, the project administers and makes available several technical and community services for various purposes.
 
 By using these services, you agree to be bound by the following terms.
 
-Short version (TL;DR)
---------------
+## Short version (TL;DR)
 
 - **"This is a community project" clause**: you accept and respect the fact that the project is maintained by team of volunteers, and that volunteer time and energy are the driving force behind the project. You are welcome to contribute to the project, punctually or over time, in any way you choose (whether it's talking about it around you, giving us constructive feedback, helping others, saying hi, translating, testing, coding, donating, ...).
 - **"We do what we can" clause**: You accept that the volunteer team does the best it can, and is not subject to any obligation of means or result. The project cannot be held responsible for any consequential damage if a service ceases to operate. The team may decide to stop a service at any time.
@@ -22,8 +19,7 @@ Short version (TL;DR)
 - **"We do not want to go to jail" clause**: you must respect the law (whether it's well-made or silly).
 - **"Any abuse will be punished" clause**: technical or human abuse of the services may result in the closure of your accounts and the banning of access to some or all of the services, possibly without warning or negotiation.
 
-Distinction between YunoHost as a project, as a service, as software, and as distribution
-----------------------------------------------------------------------------------------------------------------------
+## Distinction between YunoHost as a project, as a service, as software, and as distribution
 
 This document details the TOS that apply **to the services provided by the YunoHost project**, but **not** to YunoHost as software **nor** to the applications offered in the YunoHost catalog.
 
@@ -31,17 +27,16 @@ YunoHost as software is released [under the AGPLv3 license](https://www.gnu.org/
 
 *If you use YunoHost to provide services to others, it is your responsibility to define and publish your own terms and conditions of use for your own services, and to inform yourself of any legal implications of the applications you install.*
 
-General and specific conditions of service
-------------------------------------------------------------
+## General and specific conditions of service
 
 The YunoHost project reserves the right to update and modify these conditions. In this case, the YunoHost project will inform those concerned by posting a notice on the forum or, failing that, on the site.
 
-A dated version history of these conditions can be found at https://github.com/YunoHost/project-organization/commits/master/yunohost_project_tos_fr.md
+A dated version history of these conditions can be found at <https://github.com/YunoHost/project-organization/commits/master/yunohost_project_tos_fr.md>
 
-Services overview
----------------------------
+## Services overview
 
 The services administered and maintained by the project to date are:
+
 - a public website, designed to present the project and provide documentation;
 - hosting of installation scripts, images, packages and cryptographic keys for installing and updating YunoHost;
 - a public community forum, to support each other and discuss problems or any other topic related to the project;
@@ -53,15 +48,15 @@ The services administered and maintained by the project to date are:
 - other development and maintenance services.
 
 In addition, the project depends on, uses, or encourages the use of services managed by third parties, such as:
-- software blocks and automatic installation recipes (apps) hosted by third parties such as (non-exhaustive list) github.com, npmjs.org, pypi.org, debian.org, sury.org, ...
-- several public community chat rooms using Matrix, XMPP and IRC protocols, hosted by third parties such as (non-exhaustive list) matrix.org and libera.chat;
+
+- software blocks and automatic installation recipes (apps) hosted by third parties such as (non-exhaustive list) `github.com`, `npmjs.org`, `pypi.org`, `debian.org`, `sury.org`, ...
+- several public community chat rooms using Matrix, XMPP and IRC protocols, hosted by third parties such as (non-exhaustive list) `matrix.org` and `libera.chat`;
 - the Let's Encrypt certification authority;
 - a donation interface, where payments are managed by Stripe and sent to Support Self-Hosting, the association that collects and manages donations;
 
 It is your responsibility to consult the conditions of use of these third-party services.
 
-Access to services
-------------------
+## Access to services
 
 ### Geographic scope
 
@@ -70,6 +65,7 @@ The YunoHost project services are intended for all YunoHost users and contributo
 ### Permission to use services
 
 Unless otherwise specified, use of the YunoHost project services is limited to use within the expected framework:
+
 - discovering or using the YunoHost operating system
 - contribution to the YunoHost project
 
@@ -78,14 +74,14 @@ Any other use (e.g. use in another distribution, creation of artificial intellig
 ### Account-based services and termination
 
 The following functionalities are accessible via an account:
+
 - forum posting ;
 - voting for applications in the catalog (on `apps.yunohost.org`) ;
 - reservation and management of dynamic domain names provided by the YunoHost project (`nohost.me`, `noho.st` and `ynh.fr`).
 
 The forum account and the account managing your domain name can be terminated using the associated credentials.
 
-How it works
---------------
+## How it works
 
 ### Financial conditions
 
@@ -113,8 +109,7 @@ The YunoHost project is not subject to any obligation (neither of means nor of r
 
 In particular, the YunoHost project cannot be held liable if you have made vital interests dependent on its services.
 
-Misuse of services
----------------------
+## Misuse of services
 
 **Any abuse may result in the closure of your accounts and the prohibition of access to all or part of the services**.
 
@@ -142,16 +137,15 @@ In particular, the YunoHost project will be uncompromising whenever your behavio
 
 If you abuse the service, for example by monopolizing shared machine resources, its content or access may be removed.
 
-Our commitments
----------------
+## Our commitments
 
 ### CHATONS Charter
 
 **The YunoHost project's long-term aim is to respect the charter of the Collectif des Hébergeurs, Alternatifs, Transparents, Ouverts, Neutres et Solidaires (Collective of alternative, transparent, open, neutral and supportive hosting providers) as part of its service provision activities**.
 
-Given its international scope, the YunoHost project is not currently a candidate for membership of this collective. However, members of the C.H.A.T.O.N.S collective are currently using Yunohost.
+Given its international scope, the YunoHost project is not currently a candidate for membership of this collective. However, members of the C.H.A.T.O.N.S collective are currently using YunoHost.
 
-For more information on the C.H.A.T.O.N.S. charter: https://chatons.org/charte
+For more information on the C.H.A.T.O.N.S. charter: <https://chatons.org/charte>
 
 ### Respect for your personal data and privacy
 
@@ -160,6 +154,7 @@ We try to minimize as much as possible the personal data that may transit, be st
 The YunoHost project prohibits any resale or transfer of personal data to third parties.
 
 Below are details of the personal data that may be transferred or stored on YunoHost services:
+
 - technical information (IP, User agent) used to interact with the services. This information is used to provide the service, to ensure its maintenance and security, and to create very basic aggregated statistics.
 - e-mail address and pseudonym used on the forum
 - personal information contained in messages exchanged via the forum or chat room
@@ -186,8 +181,7 @@ The YunoHost project undertakes, with respect to the services it makes available
 
 Nevertheless this does not mean in any way that *YunoHost software*, nor the applications offered for installation, would be certified with any GDPR compliance (whatever that may mean for you).
 
-Disputes and jurisdiction
---------------------------------
+## Disputes and jurisdiction
 
 The law applicable to the present contract is French law. In the event of a dispute, the parties shall seek an amicable solution. If this fails, the dispute will be settled by the Tribunal de Grande Instance de Toulouse (FRANCE).
 
@@ -195,38 +189,37 @@ The fact that the user or the YunoHost project does not take advantage at a give
 
 The nullity of one of the clauses of these conditions in application of a law, regulation or court decision does not imply the nullity of all the other clauses. Furthermore, the general spirit of the clause must be maintained in accordance with the applicable law.
 
-Specific Conditions of Services
-==================================
+---
 
-Website and documentation
--------------------------
+## Specific Conditions of Services
 
-### Service address
+### Website and documentation
+
+#### Service address
 
 `yunohost.org`
 
-### Contribution
+#### Contribution
 
-If you find an error, don't hesitate to suggest a correction, via the "Edit" button (requires a Github account) or via a message on the forum.
+If you find an error, don't hesitate to suggest a correction, via the "Edit" button (requires a GitHub account) or via a message on the forum.
 
-### Personal data
+#### Personal data
 
 To the best of our knowledge, none of the pages on this website contain trackers.
 
 As with any web service, a technical log exists recording the IP and User Agent of requests.
 
-Donations
-----
+### Donations
 
-### Service address
+#### Service address
 
 `donate.yunohost.org`
 
-### Stop recurring donation
+#### Stop recurring donation
 
 To stop your recurring donation, please send an email to `donate-5542 AT yunohost.org` and indicate the information that will identify your donation (email used, name, amount).
 
-### Personal data
+#### Personal data
 
 To provide this service, the Support Self-Hosting association uses Stripe as its payment infrastructure.
 
@@ -234,66 +227,58 @@ It is necessary to use a credit card and your identity, but these data are not s
 
 As with any web service, a technical log exists recording the IP and User Agent of requests.
 
-
-
-
-Installation media (ISO image, ARM, installation script, etc.)
----------------------------------------------------------------------
+### Installation media (ISO image, ARM, installation script, etc.)
 
 You use this service in 2 situations:
+
 - installing or restoring YunoHost
 - (rarer) to install, update or restore an app whose binary is not supplied by its publisher and whose compilation on your own machine is deemed too long or too resource-intensive.
 
-### Service address
+#### Service address
 
 `build.yunohost.org`
 
-### Personal data
+#### Personal data
 
 As with any web service, a technical log exists recording the IP and User Agent of requests.
 
-
-
-IP
-----
+### IP
 
 This service is used automatically by your YunoHost instances to determine their public IPs, enabling you to automate and diagnose certain operations.
 
-### Service addresses
+#### Service addresses
 
 `ip.yunohost.org` and `ip6.yunohost.org` addresses
 
-### Free access service
+#### Free access service
 
 Exceptionally, the public IP retrieval service can be used in other contexts, as long as the load induced is minimal relative to that of YunoHost.
 
-### Personal data
+#### Personal data
 
 As with any web service, a technical log exists recording the IP and User Agent of requests.
 
-
-Free and dynamic domain names
----------------------------------------
+### Free and dynamic domain names
 
 This is the service used if you request a domain name ending in `nohost.me`, `noho.st` or `ynh.fr` in the YunoHost interface.
 
-### Service addresses
+#### Service addresses
 
 `dyndns.yunohost.org`, `dynette.yunohost.org`, `ns0.yunohost.org`, `ns1.yunohost.org`.
 
-### Usage limits
+#### Usage limits
 
 This service is offered within the limit of one domain per YunoHost server (although it is possible to configure sub-domains of this domain). If abuse is detected (e.g. creation of too many domains from the same machine or IP, or large-scale automated creation), the project reserves the right to delete the domains concerned without warning.
 
-### Automatic deletion
+#### Automatic deletion
 
 The YunoHost project reserves the right to delete a domain if no server appears to be associated with it and the IP address has not been updated for 1 year.
 
-### Termination
+#### Termination
 
 You can delete your domain using the password you chose when you created it.
 
-### Personal data
+#### Personal data
 
 If your name contains personal data, these will inevitably end up on the servers running the service.
 
@@ -301,46 +286,43 @@ Note that, in order to function, this service necessarily stores and transmits y
 
 As with any web service, a technical log exists recording the IP and User Agent of requests.
 
-
-Diagnostics
-------------
+### Diagnostics
 
 This service automatically tests whether your services seem to be correctly exposed on the Internet, and thus independently resolves network configuration problems.
 
 This service is used automatically twice a day, as soon as you activate the diagnostics feature.
 
-### Service address
+#### Service address
 
 `diagnosis.yunohost.org`
 
-### Usage limits
+#### Usage limits
 
 Due to the resource consumption involved, the diagnosis service is limited to 60 domains to be diagnosed per request.
 
 If you exceed this limit, the project recommends that you diagnose your domains yourself.
 
-### Personal data
+#### Personal data
 
 To operate, this service transmits the domain names and ports to be diagnosed. Any personal data contained in the domain names is therefore also transferred, but not stored.
 
 As with any web service, a technical log exists recording the IP and User Agent of requests.
 
-Application catalog
-------------------------
+### Application catalog
 
 This service lets you browse (via a browser or program) the list of applications available for installation in YunoHost. It also allows you to vote for apps to direct contribution efforts.
 
 In addition, servers running YunoHost automatically retrieve the application catalog once a day.
 
-### Service addresses
+#### Service addresses
 
 `apps.yunohost.org` and `app.yunohost.org`.
 
-### Service misuse
+#### Service misuse
 
 Any attempt to falsify votes on catalog or wishlist apps will be considered abuse and may be subject to cancellation, banning and account deletion.
 
-### Personal data
+#### Personal data
 
 To participate in the popularity of apps, you need to use your forum account. See Forum service.
 
@@ -348,89 +330,82 @@ The storage of your votes is linked to your forum identity.
 
 As with any web service, a technical log exists recording the IP and User Agent of requests.
 
-### Statistics
+#### Statistics
 
 In order to size our services and plan new releases, we use the technical download logs from the list of apps to estimate the number of YunoHost instances running in the wild, and the ratio of major releases.
 
-debian package repository
-----------------------
+### Debian package repository
 
 This is the channel through which updates to YunoHost as software are made available. The YunoHost project also maintains builds of some software components on which YunoHost depends or on the periphery of the project.
 
-### Service address
+#### Service address
 
 `forge.yunohost.org`
 
-### Permission to create mirror repositories
+#### Permission to create mirror repositories
 
 It is allowed (and even encouraged) to create mirror repositories of YunoHost's Debian package repository.
 
-### Personal data
+#### Personal data
 
 As with any web service, a technical log exists recording the IP and User Agent of requests.
 
-Tickets and contributions to the code
---------------------------------
+### Tickets and contributions to the code
 
 As it stands, development, bug reports and feature requests take place on the repositories of the "YunoHost" and "YunoHost-Apps" organizations on the GitHub platform.
 
-### Respect for volunteers
+#### Respect for volunteers
 
 We can only re-emphasize what has already been mentioned in the 'Respect for the community and volunteers' section above: the project is maintained by a volunteer team, volunteer time and energy is the driving force behind the project, and volunteers do their best. You're welcome to contribute to the project (and if necessary to ask questions about how to contribute) to the team.
 
 On the other hand, abusing their time or energy is tantamount to sabotaging the project. In particular, YunoHost is *not* a community of volunteers at your command regarding priorities for patches, features or updates, either for YunoHost as software, or for the catalog of applications maintained by the project. Volunteers do not promise support, fixes, features or updates, nor do they provide estimates of "when" a feature, fix or update will be available. Messages that simply ask when a feature, fix or update will be available, without any form of politeness, benevolence or intention to contribute, are not welcome and undermine volunteer morale. Any abuse may be punished by a ban from the project's GitHub organizations, or even from all project services.
 
-Paste
------
+### Paste
 
 This service is used to share logs of operations carried out with YunoHost to enable the study and resolution of problems.
 
-### Service address
+#### Service address
 
 `paste.yunohost.org`
 
-### Personal data
+#### Personal data
 
 The logs you share may contain personal information or, in the worst case, secrets that could compromise the security of part or all of your server. Upon publication, YunoHost software automatically tries to remove this information as best it can. Nevertheless, the system is far from being perfect, and it is your responsibility to re-read the information before sharing the generated link with others.
 
 As with any web service, a technical log exists recording the IP and User Agent of requests.
 
-Self-help forum (and chat)
---------
+### Self-help forum (and chat)
 
-### Service address
+#### Service address
 
-`forum.yunohost.org` and chats listed on https://yunohost.org/chat_rooms
+`forum.yunohost.org` and chats listed on <https://yunohost.org/chat_rooms>
 
-### Asking for help
+#### Asking for help
 
 The self-help forum and chat clearly state (e.g. [here](https://yunohost.org/en/help-me), [here](https://forum.yunohost.org/t/asking-for-support-demander-de-laide/7795) and [here](https://forum.yunohost.org/t/how-to-get-help-efficiently-comment-obtenir-de-laide-efficacement/27)) that in order to get help, it is **necessary** to provide basic information (hardware type, YunoHost version), background information and full logs. Not doing so is extremely annoying for the people trying to help you, especially as we strive to make sharing this information as simple as possible. In addition, it is counter-productive because it wastes everyone's time: nobody can solve a problem that is not diagnosable.
 
 If these rules are not respected, the team reserves the right to close your topic without notice.
 
-### Personal data
+#### Personal data
 
 The forum allows you to enter personal information (email, GitHub account, nickname). From the forum interface, you can modify or delete this information.
 
 As with any web service, a technical log records the IP and User Agent of requests. In addition, the forum may send or receive e-mails, which are also logged.
 
-### Location
+#### Location
 
 Paris
 
-Demo service
-----
+### Demo service
 
-### Service address
+#### Service address
 
 `demo.yunohost.org`
 
-### Purpose and operation
+#### Purpose and operation
 
 This service allows you to test YunoHost's interfaces (webadmin and user portal) to get a feel for YunoHost without installing it. The data on this server is destroyed and reset approximately every 30 minutes.
 
-### Personal data
+#### Personal data
 
 As with any web service, a technical log exists recording the IP and User Agent of requests.
-
-
