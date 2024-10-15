@@ -154,9 +154,9 @@ Members of these groups agree to abide by [the project's system administration p
 Last updated on 2022-03-15
 
 - **Core** : Aleks, Bram, Kayou, ljf, Tagadda, axolotle, tituspijean, OniriCorpe
-- **Apps** : Ericg, Josue, Kayou, tituspijean, yalh76, frju365, Tagadda, OniriCorpe
+- **Apps** : Ericg, Josue, Kayou, tituspijean, yalh76, frju365, Tagadda, OniriCorpe, Rodinux
 - **Infra** : Aleks, Bram, Kayou, ljf, yalh76, tituspijean, Tagadda, OniriCorpe
-- **Support/doc/comm/trad/bureaucracy** : Aleks, Ericg, ljf, tituspijean, Tagadda, JimboJoe, wbk, OniriCorpe
+- **Support/doc/comm/trad/bureaucracy** : Aleks, Ericg, ljf, tituspijean, Tagadda, JimboJoe, wbk, OniriCorpe, Rodinux
 
 ## Appendix C. Resolutions
 
