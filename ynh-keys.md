@@ -739,3 +739,21 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKFOJbpru1JJZoVSHeCz7VENQxAF17icAx28S3Imhfiy
 
 ```text
 ```
+
+## Rodinux
+
+### SSH key
+
+```text
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII27lAbaK9pWwDVmwe8bzBIFPXGu1pmTByLKjPuPJTWD contribute-yunohost
+```
+
+### GPG Fingerprint
+
+```text
+```
+
+### GPG Public key
+
+```text
+```
