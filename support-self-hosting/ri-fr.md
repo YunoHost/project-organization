@@ -85,7 +85,7 @@ Toute abstention est définitive : après s'être abstenu une fois, il n'est plu
 Moyens de communication de l'Assemblée Générale permanente
 ===============================================
 
-L'Assemblée Générale est réunie de manière permanente par le biais de la categorie privée 'Association' et de la catégorie 'Community' du forum de discussion de YunoHost. 
+L'Assemblée Générale est réunie de manière permanente par le biais de la categorie privée 'Support Self-Hosting' et de la catégorie 'Regular Contributors' du forum de discussion de YunoHost ainsi que les canaux de discussion Matrix 'YunoHost HQ' et 'YunoHost regular contributors'. 
 Tout membre souhaitant s'impliquer dans la vie de l'association est invité à s'y inscrire. Les compte-rendus des réunions associatives doivent être publiés sur cette catégorie du forum.
 
 Rappel sur la distinction entre l'association et le projet logiciel YunoHost
