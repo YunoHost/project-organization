@@ -453,15 +453,14 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII27lAbaK9pWwDVmwe8bzBIFPXGu1pmTByLKjPuPJTWD
 
 Contact email: felix[at]piedallu.me
 
-### SSH key public key (laptop)
+### SSH keys
 
 ```text
+# Salamandar laptop
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKHBF0bRGNenuMU05qwrFVHy9YBVXkt22NFi+0GFT6z9 felix@framed
-```
-
-### SSH key public key (NAS)
-
-```text
+# Salamandar PC
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPsDtxWvonwWZo3o7ZMwt1MJJKqbuwNz31MpKa489xoo salamandar@cached
+# Salamandar NAS
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK8NriZ/QWFZ7oaAQ9MjO3ArfcQ8qqTMB6XJmMWsGOV1 salamandar@salamandar.fr
 ```
 
