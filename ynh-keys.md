@@ -412,6 +412,43 @@ Contact email: mathieuw[at]globenet.org
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP6Jxt9V2rBGzfnE6jvUyCJFCwFljalrckpc49zif/7V mathieu@DellMathieu
 ```
 
+## OniriCorpe
+
+### SSH key
+
+```text
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAb+PnME7+BFnFq+7Xx4Y3QA9sdoP4xBwkj33gh1Ksn+ krau
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKFOJbpru1JJZoVSHeCz7VENQxAF17icAx28S3Imhfiy apple
+```
+
+### GPG Fingerprint
+
+```text
+```
+
+### GPG Public key
+
+```text
+```
+
+## Rodinux
+
+### SSH key
+
+```text
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII27lAbaK9pWwDVmwe8bzBIFPXGu1pmTByLKjPuPJTWD contribute-yunohost
+```
+
+### GPG Fingerprint
+
+```text
+```
+
+### GPG Public key
+
+```text
+```
+
 ## Salamandar
 
 Contact email: felix[at]piedallu.me
@@ -612,6 +649,24 @@ I7KlCt/EQrth3IUeae8AHON76pROqYrbX0XEXrI/
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
+## Tag
+
+### SSH key
+
+```text
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN4zQHEpRO1gZM20sEz6Z6FpX5FoHAWvtUL4Vs1tg9WE tag
+```
+
+### GPG Fingerprint
+
+```text
+```
+
+### GPG Public key
+
+```text
+```
+
 ## tituspijean
 
 Contact email: tituspijean{at}outlook.com
@@ -691,61 +746,6 @@ iQ==
 
 ```text
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC90WdsVq7gRI/OCrowDYMKCo+u9I7E9VCSr6aXPzs2V yalh
-```
-
-### GPG Fingerprint
-
-```text
-```
-
-### GPG Public key
-
-```text
-```
-
-## Tag
-
-### SSH key
-
-```text
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN4zQHEpRO1gZM20sEz6Z6FpX5FoHAWvtUL4Vs1tg9WE tag
-```
-
-### GPG Fingerprint
-
-```text
-```
-
-### GPG Public key
-
-```text
-```
-
-## OniriCorpe
-
-### SSH key
-
-```text
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAb+PnME7+BFnFq+7Xx4Y3QA9sdoP4xBwkj33gh1Ksn+ krau
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKFOJbpru1JJZoVSHeCz7VENQxAF17icAx28S3Imhfiy apple
-```
-
-### GPG Fingerprint
-
-```text
-```
-
-### GPG Public key
-
-```text
-```
-
-## Rodinux
-
-### SSH key
-
-```text
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII27lAbaK9pWwDVmwe8bzBIFPXGu1pmTByLKjPuPJTWD contribute-yunohost
 ```
 
 ### GPG Fingerprint
