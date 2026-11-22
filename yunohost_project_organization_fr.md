@@ -152,12 +152,12 @@ Les membres de ces groupes s'engagent à respecter [la charte d'administration s
 
 ## Annexe B. Composition des différents groupes
 
-Dernière mise à jour le 2022-03-15
+Dernière mise à jour le 2026-11-22
 
-- **Core** : Aleks, Bram, Kayou, ljf, Tagadda, axolotle, tituspijean, OniriCorpe
-- **Apps** : Ericg, Josue, Kayou, tituspijean, yalh76, frju365, Tagadda, OniriCorpe, Rodinux
-- **Infra** : Aleks, Bram, Kayou, ljf, yalh76, tituspijean, Tagadda, OniriCorpe
-- **Support/doc/comm/trad/bureaucracy** : Aleks, Ericg, ljf, tituspijean, Tagadda, JimboJoe, wbk, OniriCorpe, Rodinux
+- **Core** : Aleks, Bram, Kayou, ljf, Tagadda, axolotle, tituspijean, OniriCorpe, quartztester
+- **Apps** : Ericg, Josue, Kayou, tituspijean, yalh76, frju365, Tagadda, OniriCorpe, Rodinux, quartztester
+- **Infra** : Aleks, Bram, Kayou, ljf, yalh76, tituspijean, Tagadda, OniriCorpe, quartztester
+- **Support/doc/comm/trad/bureaucracy** : Aleks, Ericg, ljf, tituspijean, Tagadda, JimboJoe, wbk, OniriCorpe, Rodinux, quartztester
 
 ## Annexe C. Résolutions
 
